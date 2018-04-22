@@ -4,7 +4,7 @@ import os
 # File paths for Corpus and stop words
 STOP_WORDS_REPO = "common_words"
 INPUT_FOLDER = os.getcwd() + "/" + "Corpus"
-OUTPUT_FOLDER = os.getcwd() + "/" + "STOP_CORPUS"
+OUTPUT_FOLDER = os.getcwd() + "/" + "Stop_Corpus"
 
 def corpus_generator():
     # Populating the stop words and files from Un-stopped Corpus
