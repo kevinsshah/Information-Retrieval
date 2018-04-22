@@ -32,7 +32,7 @@ def populate_dicts():
     content = content.split("\n")
     content = [c for c in content if c!=""] #remove the last line
 
-    sum_of_dls = 0
+    # populate doc_length dictionary
     for item in content:
         item = item.split(" ")
         docid = item[0]
@@ -43,9 +43,10 @@ def populate_dicts():
 # calculating |C| and filling up term_collection dictionary
 def calculate_collection_data(allterms):
     global C
+    # computing |C| i.e number of words in the total collection C
     for key, value in doc_length.items():
         C = C + value
-
+    # populating term_collection dictionary
     for term in index.keys():
         if term in index:
             inverted_list = index[term]
@@ -103,7 +104,6 @@ def calculate_score(output,query):
     for key, value in document_score[:100]:
         output.write("\n" + qid + " Q0 " + key + " " + str(i) + " " + str(value) + " smoothedQueryLiklihood")
         i += 1
-
 
 
 def create_index_dict():

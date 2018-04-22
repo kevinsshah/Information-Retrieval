@@ -3,23 +3,24 @@ import os
 from bs4 import BeautifulSoup
 import re
 
+
 # remove punctuations from text and unnecessary ones from digit sequences
 def handle_punctuations(content):
     result = re.sub(r"[^0-9A-Za-z,-\.:\\$]"," ",str(content))  # retain alpha-numeric text along with ',',':' and '.'
     result = re.sub(r"(?!\d)[$,%,:.,-](?!\d)", " ", str(result), 0)  # retain '.', '-' or ',' between digits
-
+    result = result.split()
     result_text = ' '.join(result)
-
+    # ignoring random numbers at the end of document
     index_of_am = result_text.rfind("am")  # finds the last index of the term "am"
     index_of_pm = result_text.rfind("pm")  # finds the last index of the term "pm"
 
     # retain the text content until am or pm in the corpus documents
-
     if index_of_am > index_of_pm:
         greater_index = index_of_am
     else:
         greater_index = index_of_pm
     result = result_text[:(greater_index + 2)]
+
     return result
 
 
@@ -46,12 +47,10 @@ def generate_corpus(case_folding,punc_handling):
         f.close()
         # fetching the soup object
         soup = BeautifulSoup(html, "html.parser")
-
         # fetching the content from html tag as there are only tags html and pre
         content = soup.find("html")
-
+        # fetching the html text
         content = content.text
-
         # casefold and handle punctuations if asked by the user.
         final_content = cleanup(content, case_folding, punc_handling)
 
@@ -81,5 +80,4 @@ if __name__ == "__main__":
         generate_corpus(False,True)
     elif int(inp) == 4:
         generate_corpus(False,False)
-    print("done")
 
