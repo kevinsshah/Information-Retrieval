@@ -54,7 +54,7 @@ def indexer(inp):
         #print (file)
 
     # filename based on value of n in n-gram
-    filename = "Indexing_Outputs/Unigram_index.txt"
+    filename = "Unigram_index.txt"
 
     index_file = open(filename, "w",encoding='utf-8')
 
@@ -79,9 +79,5 @@ def indexer(inp):
     doc_stats_file.close
 
 if __name__ == "__main__":
-    # generate "Indexing_Outputs" folder if not existing
-    newpath = r'Indexing_Outputs'
-    if not os.path.exists(newpath):
-        os.makedirs(newpath)
     # building the unigram index
     indexer(1)

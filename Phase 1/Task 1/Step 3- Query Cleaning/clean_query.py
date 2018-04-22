@@ -51,3 +51,6 @@ def cleanup(content, case_folding, punc_handling):
 
 
 read_file_initialize_queries()
+
+paths = path.abspath(path.join(os.getcwd(), "../../"))
+paths = os.path.join(paths, "htmldocs")
