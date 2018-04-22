@@ -2,15 +2,16 @@
 import operator
 import os
 import os.path as path
+import math
 
 C = 0
-lmdba = 0.35
+lambda_value = 0.35
 
 index = {} # dict for storing the index
 K = {} # dicy for storing K value for each document
 doc_length = {} # dict for storing number of terms in a document
-term_collection = dict() # dict for storing the count of query terms in the collection
-final_scores = dict() # dict for storing the mapping query -> (document -> score)
+term_collection = {} # dict for storing the count of query terms in the collection
+final_scores = {} # dict for storing the mapping query -> (document -> score)
 
 
 # search if a given document is present in the inverted list of given term
@@ -41,24 +42,28 @@ def populate_dicts():
 
 # calculating |C| and filling up term_collection dictionary
 def calculate_collection_data(allterms):
-
-    C = 0
+    global C
     for key, value in doc_length.items():
         C = C + value
 
-    for term in allterms:
-        for key, value in doc_length.items():
-            if index[term][doc_index]['tf']
-            value = term_collection[term]
-            value += index[term][key]['tf']
+    for term in index.keys():
+        if term in index:
+            inverted_list = index[term]
+            value = 0
+            for items in inverted_list:
+                value += items['tf']
+
             term_collection[term] = value
+
+    print("Collection data done")
 
 
 # Calculating P(qi|D)
 def calculate_intermediate_score(f, d, cq):
-    a = (1 - lmdba) * (f/d)
-    b = lmdba * (cq / C)
-    return a + b
+    a = float(1 - lambda_value) * (f / d)
+    b = float(lambda_value) * (cq / C)
+    print(a,b)
+    return math.log(a + b)
 
 
 def calculate_score(output,query):
@@ -70,34 +75,35 @@ def calculate_score(output,query):
 
     for key,value in doc_length.items():
         d = value
-        score = 1
-
+        score = 0
         for term in qterms:
+            if term in index:
 
-            f = 0  # initialize tf in a document to 0
-            doc_index = search('docid', key, index[term])
-            # if current doc contains current term, update f with tf
-            # from the index
-            if doc_index != -1:
-                f = index[term][doc_index]['tf']
-            cq = term_collection[term]
+                f = 0  # initialize tf in a document to 0
+                doc_index = search('docid', key, index[term])
+                # if current doc contains current term, update f with tf
+                # from the index
+                # print(doc_index)
+                if doc_index != -1:
+                    f = index[term][doc_index]['tf']
+                cq = term_collection[term]
+                # print(f, cq, d)
 
-            intermediate = calculate_intermediate_score(f, d, cq)
-            score = score * intermediate
+                intermediate = calculate_intermediate_score(f, d, cq)
+                # print(intermediate)
+                score = score + intermediate
         document_score[key] = score
 
-    # sort the documents by scores
+        # sort the documents by scores
     document_score = sorted(document_score.items(), key=operator.itemgetter(1), reverse=True)
 
     # write results to query
     i = 1
     output.write("\n\n" + q + "\n")
     for key, value in document_score[:100]:
-        output.write("\n" + qid + " Q0 " + key + " " + str(i) + " " + str(value) + "smoothedQueryLiklihood")
+        output.write("\n" + qid + " Q0 " + key + " " + str(i) + " " + str(value) + " smoothedQueryLiklihood")
         i += 1
 
-
-    final_scores[query] = document_score
 
 
 def create_index_dict():
@@ -123,6 +129,7 @@ def create_index_dict():
             index[term].append({'docid':docid,'tf':tf})
 
     index_file.close()
+    # print(index)
 
 
 def calculate_scores():
@@ -136,12 +143,14 @@ def calculate_scores():
     queries = content.split("\n")
     queries = [q for q in queries if q!=""]
     output = open("QueryLiklihoodScores.txt",'w',encoding='utf=8')
+    # print(queries)
 
-    allterms = []
+    allterms = ""
     for query in queries:
         query = query.split("||")  # separate query id and query
         q = query[1]
-        allterms.append(q.split(" "))  # collect all query terms in array
+        # q = q.split(" ")
+        allterms += q + " "  # collect all query terms in array
 
     # calculating cq and |C|
     calculate_collection_data(allterms)
