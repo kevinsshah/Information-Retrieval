@@ -74,27 +74,33 @@ public class Lucene {
 
     System.out.println();
     s = "";
-
+    // Create a file for results of searching queries
     PrintWriter writer = new PrintWriter("Lucene_Scores.txt", "UTF-8");
 
     try {
+      // read queries from file
       String contents = new String(Files.readAllBytes(Paths.get("../../Step 3- Query Cleaning/cleanQueries.txt")));
       for(String str:contents.split("\r\n")){
         if(str != "")
         {
+          // split query id and the query
           String q_id = str.split("\\|\\|")[0];
           s = str.split("\\|\\|")[1];
+
+          // write the query name in the scores.txt file
           writer.println();
           writer.println(s);
           writer.println();
           TopScoreDocCollector collector = TopScoreDocCollector.create(100, true);
 
-
+          // parse the query
           Query q = new QueryParser(Version.LUCENE_47, "contents",
               analyzer).parse(s);
+          // search in index
           searcher.search(q, collector);
+          // get top documents
           ScoreDoc[] hits = collector.topDocs().scoreDocs;
-
+          // write results to file
           for (int i = 0; i < hits.length; ++i) {
             int docId = hits[i].doc;
             Document d = searcher.doc(docId);
