@@ -132,7 +132,7 @@ def calculate_query_score():
     for query_line in per_query_split_list:
         generated_score_list = calc_score_per_query(query_line)
         export_score_list(fd, generated_score_list, id_num)
-        fd.write("\n\n\n ----------------------------------------------------------------------------------\n\n\n")
+        fd.write("\n\n\n----------------------------------------------------------------------------------\n\n\n")
         id_num += 1
 
     fd.close()
@@ -147,7 +147,7 @@ def main():
     # Generate the query list from the cleaned query file
     generate_query_list()
 
-    # Calculate and export the rankings of each query in a file
+    # Calculate and export the rankings of each query into a file
     calculate_query_score()
 
 main()
