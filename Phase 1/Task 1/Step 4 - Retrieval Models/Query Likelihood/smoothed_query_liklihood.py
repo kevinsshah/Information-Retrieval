@@ -43,14 +43,14 @@ def populate_dicts():
 def calculate_collection_data(allterms):
 
     C = 0
-    for key, value in doc_length:
+    for key, value in doc_length.items():
         C = C + value
 
     for term in allterms:
-        inverted_list = index[term]
         for key, value in doc_length.items():
+            if index[term][doc_index]['tf']
             value = term_collection[term]
-            value += inverted_list[key]['tf']
+            value += index[term][key]['tf']
             term_collection[term] = value
 
 
