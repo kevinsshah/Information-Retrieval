@@ -7,7 +7,6 @@ import re
 def handle_punctuations(content):
     result = re.sub(r"[^0-9A-Za-z,-\.:\\$]"," ",str(content))  # retain alpha-numeric text along with ',',':' and '.'
     result = re.sub(r"(?!\d)[$,%,:.,-](?!\d)", " ", str(result), 0)  # retain '.', '-' or ',' between digits
-    result = result.split()
 
     result_text = ' '.join(result)
 
