@@ -2,6 +2,7 @@ import os.path as path
 import os
 import re
 
+# removing tags from queries
 def read_file_initialize_queries():
     final_query = dict()
     file = open("cacm.query.txt", "r")
@@ -13,13 +14,12 @@ def read_file_initialize_queries():
         temp = query.split('</DOCNO>')
         key = temp[0].replace(' ', '')
         value = temp[1].strip()
-        print(value)
         value = cleanup(value, True, True)
-        print(value)
         final_query[key] = value
     write_queries_to_file(final_query)
 
 
+# writing to file
 def write_queries_to_file(final_query):
     fname = "cleanQueries.txt"
     ofile = open(fname, 'w')
@@ -49,8 +49,10 @@ def cleanup(content, case_folding, punc_handling):
     return result
 
 
+# calling the main function
+def main():
+    read_file_initialize_queries()
 
-read_file_initialize_queries()
 
-paths = path.abspath(path.join(os.getcwd(), "../../"))
-paths = os.path.join(paths, "htmldocs")
+main()
+

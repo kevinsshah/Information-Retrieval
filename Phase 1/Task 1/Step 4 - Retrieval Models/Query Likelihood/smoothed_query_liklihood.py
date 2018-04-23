@@ -8,7 +8,7 @@ C = 0
 lambda_value = 0.35
 
 index = {} # dict for storing the index
-K = {} # dicy for storing K value for each document
+K = {} # dict for storing K value for each document
 doc_length = {} # dict for storing number of terms in a document
 term_collection = {} # dict for storing the count of query terms in the collection
 final_scores = {} # dict for storing the mapping query -> (document -> score)
@@ -84,14 +84,12 @@ def calculate_score(output,query):
                 doc_index = search('docid', key, index[term])
                 # if current doc contains current term, update f with tf
                 # from the index
-                # print(doc_index)
+
                 if doc_index != -1:
                     f = index[term][doc_index]['tf']
                 cq = term_collection[term]
-                # print(f, cq, d)
 
                 intermediate = calculate_intermediate_score(f, d, cq)
-                # print(intermediate)
                 score = score + intermediate
         document_score[key] = score
 
@@ -129,9 +127,9 @@ def create_index_dict():
             index[term].append({'docid':docid,'tf':tf})
 
     index_file.close()
-    # print(index)
 
 
+# calculate scores for query likelihood
 def calculate_scores():
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 3- Query Cleaning")
@@ -143,13 +141,11 @@ def calculate_scores():
     queries = content.split("\n")
     queries = [q for q in queries if q!=""]
     output = open("QueryLiklihoodScores.txt",'w',encoding='utf=8')
-    # print(queries)
 
     allterms = ""
     for query in queries:
         query = query.split("||")  # separate query id and query
         q = query[1]
-        # q = q.split(" ")
         allterms += q + " "  # collect all query terms in array
 
     # calculating cq and |C|
