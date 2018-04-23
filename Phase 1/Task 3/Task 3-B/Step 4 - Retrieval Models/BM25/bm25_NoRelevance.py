@@ -47,6 +47,7 @@ def populate_dicts():
         K[key] = k1*((1-b) + (b*ratio))
 
 
+# calculate score for a single query
 def calculate_score(output,query):
     query = query.split("||") # separate query id and query
     qid = query[0]
@@ -62,9 +63,9 @@ def calculate_score(output,query):
         qf[q] += 1
 
     bm_score = {} # dict for storing the bm scores of each document
-    for key,value in K.items(): # iterate over all terms in query
+    for key,value in K.items(): # iterate over all documents
         score = 0
-        for term in qterms:
+        for term in qterms: # iterate over all terms in query
             if term in index:
                 inverted_list = index[term] # fetch inverted list of current term
                 n = len(inverted_list)
@@ -95,6 +96,7 @@ def calculate_score(output,query):
         i+=1
 
 
+# creating inverted index into a dictionary
 def create_index_dict():
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 2-Index Generation")
@@ -119,6 +121,7 @@ def create_index_dict():
     index_file.close()
 
 
+# calculate scores for all the queries from cleanQueries.txt
 def calculate_scores():
     # get all queries from file
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
@@ -128,7 +131,7 @@ def calculate_scores():
     path.close()
     queries = content.split("\n")
     queries = [q for q in queries if q!=""]
-    output = open("StemmedBM25Scores.txt",'w',encoding='utf=8')
+    output = open("Stem_BM25Scores_NoRelevance.txt",'w',encoding='utf=8')
     # loop over all the queries
     for query in queries:
         calculate_score(output,query)
