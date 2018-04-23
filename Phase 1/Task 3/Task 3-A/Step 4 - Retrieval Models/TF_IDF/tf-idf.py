@@ -117,7 +117,7 @@ def export_score_list(fd, generated_score_list, id_num):
     for RANKING in range(100):
         try:
             text = str(id_num) + "   Q0   " + str(final_ranked_list[RANKING][0]) + "   " + str(RANKING + 1) + "   " \
-               + str(final_ranked_list[RANKING][1]) + "   Stemmed_RM_TF_IDF\n"
+               + str(final_ranked_list[RANKING][1]) + "   Stop_RM_TF_IDF\n"
             fd.write(text)
         except IndexError:
             return
@@ -126,7 +126,7 @@ def export_score_list(fd, generated_score_list, id_num):
 def calculate_query_score():
     id_num = 1
 
-    fd = open("Stemmed_TF_IDF_SCORE.txt", "w", encoding='utf=8')
+    fd = open("Stop_TF_IDF_SCORE.txt", "w", encoding='utf=8')
 
     # Calculate the rankings for each query and export the result into a file
     for query_line in per_query_split_list:

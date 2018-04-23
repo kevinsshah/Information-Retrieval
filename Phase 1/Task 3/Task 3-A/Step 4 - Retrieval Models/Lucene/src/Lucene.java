@@ -75,7 +75,7 @@ public class Lucene {
     System.out.println();
     s = "";
     // Create a file for results of searching queries
-    PrintWriter writer = new PrintWriter("Stemmed_Lucene_Scores.txt", "UTF-8");
+    PrintWriter writer = new PrintWriter("Stop_Lucene_Scores.txt", "UTF-8");
 
     try {
       // read queries from file
@@ -106,7 +106,7 @@ public class Lucene {
             Document d = searcher.doc(docId);
             int pos = d.get("path").lastIndexOf('\\')+1;
             int tot = d.get("path").length();
-            writer.println(q_id+" Q0 "+d.get("path").substring(pos,tot-4)+" "+(i+1)+" "+hits[i].score+" LuceneNoStopStem");
+            writer.println(q_id+" Q0 "+d.get("path").substring(pos,tot-4)+" "+(i+1)+" "+hits[i].score+" LuceneStopNoStem");
           }
         }
       }
