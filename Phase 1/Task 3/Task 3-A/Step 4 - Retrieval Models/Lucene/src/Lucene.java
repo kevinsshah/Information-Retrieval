@@ -79,7 +79,7 @@ public class Lucene {
 
     try {
       // read queries from file
-      String contents = new String(Files.readAllBytes(Paths.get("../../Step 3- Query Cleaning/cleanQueries.txt")));
+      String contents = new String(Files.readAllBytes(Paths.get("../../Step 3- Query Cleaning/StoppedQueries.txt")));
       for(String str:contents.split("\r\n")){
         if(str != "")
         {

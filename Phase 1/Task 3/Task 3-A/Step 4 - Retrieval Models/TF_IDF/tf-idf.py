@@ -70,7 +70,7 @@ def generate_query_list():
     # get all queries from file
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 3- Query Cleaning")
-    path = open(os.path.join(paths,"cleanQueries.txt"),'r',encoding='utf-8')
+    path = open(os.path.join(paths,"StoppedQueries.txt"),'r',encoding='utf-8')
     content = path.read()
     path.close()
     queries = content.split("\n")

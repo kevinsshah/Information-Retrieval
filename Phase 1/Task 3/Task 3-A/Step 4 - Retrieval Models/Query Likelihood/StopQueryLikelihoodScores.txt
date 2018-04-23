@@ -1,6 +1,6 @@
 
 
-what articles exist which deal with tss time sharing system an operating system for ibm computers
+articles exist deal tss time sharing system operating system ibm computers
 
 1 Q0 CACM-2319 1 -74.19724336417785 StopSmoothedQueryLikelihood
 1 Q0 CACM-1410 2 -76.69686909909053 StopSmoothedQueryLikelihood
@@ -103,7 +103,7 @@ what articles exist which deal with tss time sharing system an operating system 
 1 Q0 CACM-2228 99 -86.23510646517713 StopSmoothedQueryLikelihood
 1 Q0 CACM-3023 100 -86.25715084477537 StopSmoothedQueryLikelihood
 
-i am interested in articles written either by prieve or udo pooch prieve b pooch u
+interested articles written prieve udo pooch prieve pooch
 
 2 Q0 CACM-3078 1 -65.97515703645705 StopSmoothedQueryLikelihood
 2 Q0 CACM-2434 2 -66.39319645002674 StopSmoothedQueryLikelihood
@@ -206,7 +206,7 @@ i am interested in articles written either by prieve or udo pooch prieve b pooch
 2 Q0 CACM-0009 99 -82.13301555070163 StopSmoothedQueryLikelihood
 2 Q0 CACM-0010 100 -82.13301555070163 StopSmoothedQueryLikelihood
 
-intermediate languages used in construction of multi targeted compilers tcoll
+intermediate languages construction multi targeted compilers tcoll
 
 3 Q0 CACM-2061 1 -34.04139653507567 StopSmoothedQueryLikelihood
 3 Q0 CACM-1154 2 -34.25152415460068 StopSmoothedQueryLikelihood
@@ -309,7 +309,7 @@ intermediate languages used in construction of multi targeted compilers tcoll
 3 Q0 CACM-1138 99 -40.06810749544827 StopSmoothedQueryLikelihood
 3 Q0 CACM-1142 100 -40.06810749544827 StopSmoothedQueryLikelihood
 
-i m interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing are examples of my interests
+interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message passing examples interests
 
 4 Q0 CACM-2377 1 -203.89893088260837 StopSmoothedQueryLikelihood
 4 Q0 CACM-3128 2 -204.00189863780145 StopSmoothedQueryLikelihood
@@ -412,7 +412,7 @@ i m interested in mechanisms for communicating between disjoint processes possib
 4 Q0 CACM-1679 99 -221.04402842498686 StopSmoothedQueryLikelihood
 4 Q0 CACM-1677 100 -221.1105116316925 StopSmoothedQueryLikelihood
 
-i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
+papers design implementation editing interfaces window managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction
 
 5 Q0 CACM-1829 1 -169.973142128412 StopSmoothedQueryLikelihood
 5 Q0 CACM-2035 2 -172.86504829936624 StopSmoothedQueryLikelihood
@@ -515,7 +515,7 @@ i d like papers on design and implementation of editing interfaces window manage
 5 Q0 CACM-2181 99 -185.169962946416 StopSmoothedQueryLikelihood
 5 Q0 CACM-2960 100 -185.1720761711025 StopSmoothedQueryLikelihood
 
-interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion
+interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion
 
 6 Q0 CACM-2826 1 -95.79860302245127 StopSmoothedQueryLikelihood
 6 Q0 CACM-0695 2 -98.29952159861818 StopSmoothedQueryLikelihood
@@ -618,7 +618,7 @@ interested in articles on robotics motion planning particularly the geometric an
 6 Q0 CACM-1456 99 -111.36815001880919 StopSmoothedQueryLikelihood
 6 Q0 CACM-2740 100 -111.37175148911689 StopSmoothedQueryLikelihood
 
-i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
+interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault tolerance techniques understanding correctness algorithms
 
 7 Q0 CACM-3043 1 -143.82417935716538 StopSmoothedQueryLikelihood
 7 Q0 CACM-2912 2 -155.68719519725525 StopSmoothedQueryLikelihood
@@ -721,7 +721,7 @@ i am interested in distributed algorithms concurrent programs in which processes
 7 Q0 CACM-2931 99 -169.4903197893604 StopSmoothedQueryLikelihood
 7 Q0 CACM-1237 100 -169.49034136443902 StopSmoothedQueryLikelihood
 
-addressing schemes for resources in networks resource addressing in network operating systems
+addressing schemes resources networks resource addressing network operating systems
 
 8 Q0 CACM-2625 1 -55.12228684093024 StopSmoothedQueryLikelihood
 8 Q0 CACM-2951 2 -57.28084312815389 StopSmoothedQueryLikelihood
@@ -824,7 +824,7 @@ addressing schemes for resources in networks resource addressing in network oper
 8 Q0 CACM-0003 99 -69.40901449696112 StopSmoothedQueryLikelihood
 8 Q0 CACM-2867 100 -69.42916044690742 StopSmoothedQueryLikelihood
 
-security considerations in local networks network operating systems and distributed systems
+security considerations local networks network operating systems distributed systems
 
 9 Q0 CACM-2849 1 -53.77241067659945 StopSmoothedQueryLikelihood
 9 Q0 CACM-2949 2 -56.767097853472805 StopSmoothedQueryLikelihood
@@ -927,7 +927,7 @@ security considerations in local networks network operating systems and distribu
 9 Q0 CACM-1923 99 -66.27824496946687 StopSmoothedQueryLikelihood
 9 Q0 CACM-2036 100 -66.29162866711641 StopSmoothedQueryLikelihood
 
-parallel languages languages for parallel computation
+parallel languages languages parallel computation
 
 10 Q0 CACM-2785 1 -20.637312157681485 StopSmoothedQueryLikelihood
 10 Q0 CACM-1795 2 -25.335196182593823 StopSmoothedQueryLikelihood
@@ -1030,7 +1030,7 @@ parallel languages languages for parallel computation
 10 Q0 CACM-2740 99 -31.494222156403172 StopSmoothedQueryLikelihood
 10 Q0 CACM-1613 100 -31.52625359403157 StopSmoothedQueryLikelihood
 
-setl very high level languages
+setl high level languages
 
 11 Q0 CACM-2699 1 -16.92461364492197 StopSmoothedQueryLikelihood
 11 Q0 CACM-2782 2 -23.483463113141575 StopSmoothedQueryLikelihood
@@ -1236,7 +1236,7 @@ portable operating systems
 12 Q0 CACM-0025 99 -21.32696711057946 StopSmoothedQueryLikelihood
 12 Q0 CACM-1657 100 -21.330666629306915 StopSmoothedQueryLikelihood
 
-code optimization for space efficiency
+code optimization space efficiency
 
 13 Q0 CACM-1947 1 -19.89988330176955 StopSmoothedQueryLikelihood
 13 Q0 CACM-2559 2 -21.517113182955917 StopSmoothedQueryLikelihood
@@ -1339,7 +1339,7 @@ code optimization for space efficiency
 13 Q0 CACM-2950 99 -28.12835301620417 StopSmoothedQueryLikelihood
 13 Q0 CACM-1270 100 -28.18220324126453 StopSmoothedQueryLikelihood
 
-find all discussions of optimal implementations of sort algorithms for database management applications
+find discussions optimal implementations sort algorithms database management applications
 
 14 Q0 CACM-3112 1 -66.41072992706846 StopSmoothedQueryLikelihood
 14 Q0 CACM-3131 2 -68.12563648790614 StopSmoothedQueryLikelihood
@@ -1442,7 +1442,7 @@ find all discussions of optimal implementations of sort algorithms for database 
 14 Q0 CACM-0856 99 -74.77556713749591 StopSmoothedQueryLikelihood
 14 Q0 CACM-2484 100 -74.77595440300325 StopSmoothedQueryLikelihood
 
-find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization
 
 15 Q0 CACM-3125 1 -84.8327226838817 StopSmoothedQueryLikelihood
 15 Q0 CACM-2944 2 -86.32485946011455 StopSmoothedQueryLikelihood
@@ -1545,7 +1545,7 @@ find all discussions of horizontal microcode optimization with special emphasis 
 15 Q0 CACM-0507 99 -101.00909962962966 StopSmoothedQueryLikelihood
 15 Q0 CACM-0776 100 -101.06301583035521 StopSmoothedQueryLikelihood
 
-find all descriptions of file handling in operating systems based on multiple processes and message passing
+find descriptions handling operating systems based multiple processes message passing
 
 16 Q0 CACM-3141 1 -70.81023533560796 StopSmoothedQueryLikelihood
 16 Q0 CACM-0243 2 -71.53166676419438 StopSmoothedQueryLikelihood
@@ -1648,7 +1648,7 @@ find all descriptions of file handling in operating systems based on multiple pr
 16 Q0 CACM-2372 99 -80.22297602724755 StopSmoothedQueryLikelihood
 16 Q0 CACM-2849 100 -80.28485059333609 StopSmoothedQueryLikelihood
 
-optimization of intermediate and machine code
+optimization intermediate machine code
 
 17 Q0 CACM-1223 1 -18.324000588097732 StopSmoothedQueryLikelihood
 17 Q0 CACM-1658 2 -20.537616859216758 StopSmoothedQueryLikelihood
@@ -1751,7 +1751,7 @@ optimization of intermediate and machine code
 17 Q0 CACM-1852 99 -29.386552314143582 StopSmoothedQueryLikelihood
 17 Q0 CACM-1065 100 -29.437727939460633 StopSmoothedQueryLikelihood
 
-languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction
 
 18 Q0 CACM-2138 1 -71.5165455332832 StopSmoothedQueryLikelihood
 18 Q0 CACM-1988 2 -77.17054101051265 StopSmoothedQueryLikelihood
@@ -1957,7 +1957,7 @@ parallel algorithms
 19 Q0 CACM-2505 99 -11.589642800561307 StopSmoothedQueryLikelihood
 19 Q0 CACM-0320 100 -11.590465602101633 StopSmoothedQueryLikelihood
 
-graph theoretic algorithms applicable to sparse matrices
+graph theoretic algorithms applicable sparse matrices
 
 20 Q0 CACM-2695 1 -34.48449922158157 StopSmoothedQueryLikelihood
 20 Q0 CACM-2986 2 -38.54398912362784 StopSmoothedQueryLikelihood
@@ -2060,7 +2060,7 @@ graph theoretic algorithms applicable to sparse matrices
 20 Q0 CACM-3115 99 -48.144094148168215 StopSmoothedQueryLikelihood
 20 Q0 CACM-1847 100 -48.2305671553725 StopSmoothedQueryLikelihood
 
-computational complexity intractability class complete reductions algorithms and efficiency
+computational complexity intractability class complete reductions algorithms efficiency
 
 21 Q0 CACM-3018 1 -47.288422797120155 StopSmoothedQueryLikelihood
 21 Q0 CACM-2110 2 -48.29206958037771 StopSmoothedQueryLikelihood
@@ -2163,7 +2163,7 @@ computational complexity intractability class complete reductions algorithms and
 21 Q0 CACM-0877 99 -56.375658816994736 StopSmoothedQueryLikelihood
 21 Q0 CACM-1494 100 -56.375658816994736 StopSmoothedQueryLikelihood
 
-i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
+interested hidden line hidden surface algorithms cylinders toroids spheres cones specialized topic computer graphics
 
 22 Q0 CACM-2678 1 -99.78400167726038 StopSmoothedQueryLikelihood
 22 Q0 CACM-2751 2 -102.92255722337188 StopSmoothedQueryLikelihood
@@ -2266,7 +2266,7 @@ i am interested in hidden line and hidden surface algorithms for cylinders toroi
 22 Q0 CACM-0616 99 -123.31102058720701 StopSmoothedQueryLikelihood
 22 Q0 CACM-1844 100 -123.33302581193082 StopSmoothedQueryLikelihood
 
-distributed computing structures and algorithms
+distributed computing structures algorithms
 
 23 Q0 CACM-3148 1 -21.45287202760971 StopSmoothedQueryLikelihood
 23 Q0 CACM-3137 2 -22.40358551048723 StopSmoothedQueryLikelihood
@@ -2472,7 +2472,7 @@ applied stochastic processes
 24 Q0 CACM-1199 99 -23.00472115831748 StopSmoothedQueryLikelihood
 24 Q0 CACM-2848 100 -23.00472115831748 StopSmoothedQueryLikelihood
 
-performance evaluation and modelling of computer systems
+performance evaluation modelling computer systems
 
 25 Q0 CACM-2318 1 -13.82421487780181 StopSmoothedQueryLikelihood
 25 Q0 CACM-1938 2 -16.79072937473518 StopSmoothedQueryLikelihood
@@ -2575,7 +2575,7 @@ performance evaluation and modelling of computer systems
 25 Q0 CACM-1093 99 -22.92224377550345 StopSmoothedQueryLikelihood
 25 Q0 CACM-1128 100 -22.92224377550345 StopSmoothedQueryLikelihood
 
-concurrency control mechanisms in operating systems
+concurrency control mechanisms operating systems
 
 26 Q0 CACM-3105 1 -30.254770429143292 StopSmoothedQueryLikelihood
 26 Q0 CACM-2840 2 -30.606973106163405 StopSmoothedQueryLikelihood
@@ -2678,7 +2678,7 @@ concurrency control mechanisms in operating systems
 26 Q0 CACM-0251 99 -36.57541528878572 StopSmoothedQueryLikelihood
 26 Q0 CACM-3153 100 -36.581489946521074 StopSmoothedQueryLikelihood
 
-memory management aspects of operating systems
+memory management aspects operating systems
 
 27 Q0 CACM-2297 1 -22.627261667018146 StopSmoothedQueryLikelihood
 27 Q0 CACM-2069 2 -24.897561536106696 StopSmoothedQueryLikelihood
@@ -2781,7 +2781,7 @@ memory management aspects of operating systems
 27 Q0 CACM-1754 99 -31.7518817114204 StopSmoothedQueryLikelihood
 27 Q0 CACM-2151 100 -31.75364253313934 StopSmoothedQueryLikelihood
 
-any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
+information packet radio networks interest algorithms packet routing dealing network topography interested hardware network
 
 28 Q0 CACM-3032 1 -87.06806747660768 StopSmoothedQueryLikelihood
 28 Q0 CACM-2949 2 -87.36124329692635 StopSmoothedQueryLikelihood
@@ -2884,7 +2884,7 @@ any information on packet radio networks of particular interest are algorithms f
 28 Q0 CACM-3111 99 -114.2963506549169 StopSmoothedQueryLikelihood
 28 Q0 CACM-1752 100 -114.31882779087553 StopSmoothedQueryLikelihood
 
-number theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
+number theoretic algorithms especially involving prime number series sieves chinese remainder theorem
 
 29 Q0 CACM-2644 1 -82.46633069837883 StopSmoothedQueryLikelihood
 29 Q0 CACM-2927 2 -83.60482944997773 StopSmoothedQueryLikelihood
@@ -2987,7 +2987,7 @@ number theoretic algorithms especially involving prime number series sieves and 
 29 Q0 CACM-1011 99 -91.33598297318659 StopSmoothedQueryLikelihood
 29 Q0 CACM-1219 100 -91.33598297318659 StopSmoothedQueryLikelihood
 
-articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo
+articles text formatting systems including systems examples nroff scribe bravo
 
 30 Q0 CACM-1926 1 -45.464996499259826 StopSmoothedQueryLikelihood
 30 Q0 CACM-2341 2 -48.94026722585684 StopSmoothedQueryLikelihood
@@ -3090,7 +3090,7 @@ articles on text formatting systems including what you see is what you get syste
 30 Q0 CACM-2567 99 -55.756475913735244 StopSmoothedQueryLikelihood
 30 Q0 CACM-3112 100 -55.76189768552011 StopSmoothedQueryLikelihood
 
-i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c
+find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson
 
 31 Q0 CACM-1686 1 -260.8875102500959 StopSmoothedQueryLikelihood
 31 Q0 CACM-3047 2 -265.5524664927114 StopSmoothedQueryLikelihood
@@ -3193,7 +3193,7 @@ i d like to find articles describing the use of singular value decomposition in 
 31 Q0 CACM-2874 99 -290.83297946241487 StopSmoothedQueryLikelihood
 31 Q0 CACM-1440 100 -290.8730297265448 StopSmoothedQueryLikelihood
 
-i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
+find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithms graph coloring graph isomorphism method
 
 32 Q0 CACM-3139 1 -153.12557027938834 StopSmoothedQueryLikelihood
 32 Q0 CACM-2177 2 -159.5849308785921 StopSmoothedQueryLikelihood
@@ -3296,7 +3296,7 @@ i d like to find articles describing graph algorithms that are based on the eige
 32 Q0 CACM-3131 99 -181.2006159054047 StopSmoothedQueryLikelihood
 32 Q0 CACM-1873 100 -181.292591312154 StopSmoothedQueryLikelihood
 
-articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
+articles sensitivity eigenvalue decomposition real matrices matrices especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart
 
 33 Q0 CACM-2043 1 -345.72039485671604 StopSmoothedQueryLikelihood
 33 Q0 CACM-1954 2 -345.94570525899996 StopSmoothedQueryLikelihood
@@ -3399,7 +3399,7 @@ articles about the sensitivity of the eigenvalue decomposition of real matrices 
 33 Q0 CACM-2134 99 -368.7187646055862 StopSmoothedQueryLikelihood
 33 Q0 CACM-3055 100 -368.76363216329753 StopSmoothedQueryLikelihood
 
-currently interested in isolation of root of polynomial there is an old more recent material heindel l
+interested isolation root polynomial recent material heindel
 
 34 Q0 CACM-1524 1 -47.925322649747606 StopSmoothedQueryLikelihood
 34 Q0 CACM-1893 2 -47.97970905719625 StopSmoothedQueryLikelihood
@@ -3502,7 +3502,7 @@ currently interested in isolation of root of polynomial there is an old more rec
 34 Q0 CACM-1386 99 -54.21236671133854 StopSmoothedQueryLikelihood
 34 Q0 CACM-2899 100 -54.21387914097032 StopSmoothedQueryLikelihood
 
-probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
+probabilistic algorithms especially dealing algebraic symbolic manipulation examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabin
 
 35 Q0 CACM-2932 1 -106.70659385033568 StopSmoothedQueryLikelihood
 35 Q0 CACM-1474 2 -120.32901985223124 StopSmoothedQueryLikelihood
@@ -3605,7 +3605,7 @@ probabilistic algorithms especially those dealing with algebraic and symbolic ma
 35 Q0 CACM-3121 99 -137.01474175535662 StopSmoothedQueryLikelihood
 35 Q0 CACM-0125 100 -137.0148189467906 StopSmoothedQueryLikelihood
 
-fast algorithm for context free language recognition or parsing
+fast algorithm context free language recognition parsing
 
 36 Q0 CACM-1265 1 -34.58754031136221 StopSmoothedQueryLikelihood
 36 Q0 CACM-2110 2 -35.16661391314023 StopSmoothedQueryLikelihood
@@ -3708,7 +3708,7 @@ fast algorithm for context free language recognition or parsing
 36 Q0 CACM-1309 99 -48.266373932628355 StopSmoothedQueryLikelihood
 36 Q0 CACM-2195 100 -48.269588951931226 StopSmoothedQueryLikelihood
 
-articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
+articles describing relationship data types concurrency type process synchronization attempt processes type correct message passing system notion types messages check sender message receiver treating bit stream type
 
 37 Q0 CACM-2265 1 -199.52114627614884 StopSmoothedQueryLikelihood
 37 Q0 CACM-2376 2 -199.72064331622724 StopSmoothedQueryLikelihood
@@ -3811,7 +3811,7 @@ articles describing the relationship between data types and concurrency e g what
 37 Q0 CACM-2931 99 -220.3820544640591 StopSmoothedQueryLikelihood
 37 Q0 CACM-1179 100 -220.41064464401717 StopSmoothedQueryLikelihood
 
-what is the type of a module i don t want the entire literature on abstract data types here but i m not sure how to phrase this to avoid it i m interested in questions about how one can check that a module matches contexts in which it is used
+type module don want entire literature abstract data types sure phrase avoid interested questions check module matches contexts
 
 38 Q0 CACM-2082 1 -157.71434005624593 StopSmoothedQueryLikelihood
 38 Q0 CACM-2941 2 -160.4282282704758 StopSmoothedQueryLikelihood
@@ -3914,7 +3914,7 @@ what is the type of a module i don t want the entire literature on abstract data
 38 Q0 CACM-3003 99 -178.17861351704116 StopSmoothedQueryLikelihood
 38 Q0 CACM-0253 100 -178.18833093785358 StopSmoothedQueryLikelihood
 
-what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer supplied definitions of operators like
+type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer supplied definitions operators
 
 39 Q0 CACM-2651 1 -146.90068975172287 StopSmoothedQueryLikelihood
 39 Q0 CACM-2940 2 -150.5201212132708 StopSmoothedQueryLikelihood
@@ -4017,7 +4017,7 @@ what does type compatibility mean in languages that allow programmer defined typ
 39 Q0 CACM-1911 99 -180.31541812549855 StopSmoothedQueryLikelihood
 39 Q0 CACM-0272 100 -180.51026655167541 StopSmoothedQueryLikelihood
 
-list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed
 
 40 Q0 CACM-2941 1 -111.76615970099537 StopSmoothedQueryLikelihood
 40 Q0 CACM-2956 2 -113.63980698044293 StopSmoothedQueryLikelihood
@@ -4120,7 +4120,7 @@ list all articles dealing with data types in the following languages that are re
 40 Q0 CACM-1379 99 -125.55653504401445 StopSmoothedQueryLikelihood
 40 Q0 CACM-2857 100 -125.57432872745204 StopSmoothedQueryLikelihood
 
-theory of distributed systems and databases subtopics of special interest include reliability and fault tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520
+theory distributed systems databases subtopics special interest include reliability fault tolerance distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel systems theory communicating processes protocols box 2158 yale station haven conn 06520
 
 41 Q0 CACM-3128 1 -240.64484532199617 StopSmoothedQueryLikelihood
 41 Q0 CACM-2578 2 -244.11995245622822 StopSmoothedQueryLikelihood
@@ -4223,7 +4223,7 @@ theory of distributed systems and databases subtopics of special interest includ
 41 Q0 CACM-2454 99 -261.9827596908438 StopSmoothedQueryLikelihood
 41 Q0 CACM-3089 100 -262.0642132650001 StopSmoothedQueryLikelihood
 
-computer performance evaluation techniques using pattern recognition and clustering la 70803
+computer performance evaluation techniques pattern recognition clustering la 70803
 
 42 Q0 CACM-0462 1 -39.076873514087495 StopSmoothedQueryLikelihood
 42 Q0 CACM-2641 2 -39.48113413608635 StopSmoothedQueryLikelihood
@@ -4326,7 +4326,7 @@ computer performance evaluation techniques using pattern recognition and cluster
 42 Q0 CACM-1908 99 -49.66148243958301 StopSmoothedQueryLikelihood
 42 Q0 CACM-1870 100 -49.666051164378814 StopSmoothedQueryLikelihood
 
-analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
+analysis perception shape humans computers shape descriptions shape recognition computer dimensional shapes measures circularity shape matching
 
 43 Q0 CACM-2771 1 -126.93036210401633 StopSmoothedQueryLikelihood
 43 Q0 CACM-2569 2 -127.98768816780627 StopSmoothedQueryLikelihood
@@ -4429,7 +4429,7 @@ analysis and perception of shape by humans and computers shape descriptions shap
 43 Q0 CACM-1265 99 -148.34750714364853 StopSmoothedQueryLikelihood
 43 Q0 CACM-1381 100 -148.3649026313984 StopSmoothedQueryLikelihood
 
-texture analysis by computer digitized texture analysis texture synthesis perception of texture
+texture analysis computer digitized texture analysis texture synthesis perception texture
 
 44 Q0 CACM-2523 1 -66.86170005615013 StopSmoothedQueryLikelihood
 44 Q0 CACM-2829 2 -66.88044014923967 StopSmoothedQueryLikelihood
@@ -4532,7 +4532,7 @@ texture analysis by computer digitized texture analysis texture synthesis percep
 44 Q0 CACM-2977 99 -92.57789883367673 StopSmoothedQueryLikelihood
 44 Q0 CACM-2517 100 -92.58422362325673 StopSmoothedQueryLikelihood
 
-the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
+operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases
 
 45 Q0 CACM-2765 1 -138.77347756639838 StopSmoothedQueryLikelihood
 45 Q0 CACM-2452 2 -139.6076112054167 StopSmoothedQueryLikelihood
@@ -4635,7 +4635,7 @@ the use of operations research models to optimize information system performance
 45 Q0 CACM-1199 99 -149.81426684017146 StopSmoothedQueryLikelihood
 45 Q0 CACM-3017 100 -149.8566681482929 StopSmoothedQueryLikelihood
 
-the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
+application fuzzy subset theory clustering information retrieval problems includes performance evaluation automatic indexing considerations
 
 46 Q0 CACM-2990 1 -99.29604262401602 StopSmoothedQueryLikelihood
 46 Q0 CACM-1032 2 -99.30589378553377 StopSmoothedQueryLikelihood
@@ -4738,7 +4738,7 @@ the application of fuzzy subset theory to clustering and information retrieval p
 46 Q0 CACM-0397 99 -113.78837715276146 StopSmoothedQueryLikelihood
 46 Q0 CACM-3124 100 -113.79335715382712 StopSmoothedQueryLikelihood
 
-the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
+bayesian decision models optimize information retrieval system performance includes stopping rules determine user cease scanning output retrieval search
 
 47 Q0 CACM-1032 1 -113.60991803535384 StopSmoothedQueryLikelihood
 47 Q0 CACM-2451 2 -114.7659917733615 StopSmoothedQueryLikelihood
@@ -4841,7 +4841,7 @@ the use of bayesian decision models to optimize information retrieval system per
 47 Q0 CACM-2795 99 -123.27898383191362 StopSmoothedQueryLikelihood
 47 Q0 CACM-2358 100 -123.35423595518616 StopSmoothedQueryLikelihood
 
-the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
+computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms
 
 48 Q0 CACM-2325 1 -119.6331480076268 StopSmoothedQueryLikelihood
 48 Q0 CACM-3037 2 -123.48833821493686 StopSmoothedQueryLikelihood
@@ -4944,7 +4944,7 @@ the use of computer science principles e g data structures numerical methods in 
 48 Q0 CACM-1769 99 -131.9140353078826 StopSmoothedQueryLikelihood
 48 Q0 CACM-2838 100 -132.00568159696692 StopSmoothedQueryLikelihood
 
-the role of information retrieval in knowledge based systems i e expert systems
+role information retrieval knowledge based systems expert systems
 
 49 Q0 CACM-2390 1 -37.001527254663216 StopSmoothedQueryLikelihood
 49 Q0 CACM-3134 2 -38.41829903254747 StopSmoothedQueryLikelihood
@@ -5047,7 +5047,7 @@ the role of information retrieval in knowledge based systems i e expert systems
 49 Q0 CACM-2314 99 -46.8088369214775 StopSmoothedQueryLikelihood
 49 Q0 CACM-3026 100 -46.81310248462615 StopSmoothedQueryLikelihood
 
-parallel processors in information retrieval
+parallel processors information retrieval
 
 50 Q0 CACM-2714 1 -20.928375877417544 StopSmoothedQueryLikelihood
 50 Q0 CACM-1811 2 -21.12892762240477 StopSmoothedQueryLikelihood
@@ -5150,7 +5150,7 @@ parallel processors in information retrieval
 50 Q0 CACM-2050 99 -26.131814563865255 StopSmoothedQueryLikelihood
 50 Q0 CACM-2700 100 -26.18402953635776 StopSmoothedQueryLikelihood
 
-parallel processors and paging algorithms
+parallel processors paging algorithms
 
 51 Q0 CACM-3075 1 -19.095140522311986 StopSmoothedQueryLikelihood
 51 Q0 CACM-3156 2 -19.87523011660792 StopSmoothedQueryLikelihood
@@ -5253,7 +5253,7 @@ parallel processors and paging algorithms
 51 Q0 CACM-1551 99 -27.990192345823 StopSmoothedQueryLikelihood
 51 Q0 CACM-2195 100 -27.991401651618542 StopSmoothedQueryLikelihood
 
-modelling and simulation in agricultural ecosystems
+modelling simulation agricultural ecosystems
 
 52 Q0 CACM-2721 1 -7.326813744999663 StopSmoothedQueryLikelihood
 52 Q0 CACM-2749 2 -14.638624988804471 StopSmoothedQueryLikelihood
@@ -5356,7 +5356,7 @@ modelling and simulation in agricultural ecosystems
 52 Q0 CACM-2569 99 -16.86638509765204 StopSmoothedQueryLikelihood
 52 Q0 CACM-2682 100 -16.875101231624715 StopSmoothedQueryLikelihood
 
-mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210
+mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210
 
 53 Q0 CACM-0139 1 -163.22154274496745 StopSmoothedQueryLikelihood
 53 Q0 CACM-0514 2 -163.22154274496745 StopSmoothedQueryLikelihood
@@ -5459,7 +5459,7 @@ mathematical induction group theory integers modulo m probability binomial coeff
 53 Q0 CACM-2520 99 -178.57071668222244 StopSmoothedQueryLikelihood
 53 Q0 CACM-0269 100 -178.5802573735219 StopSmoothedQueryLikelihood
 
-semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
+semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 01003
 
 54 Q0 CACM-2940 1 -103.11915221004446 StopSmoothedQueryLikelihood
 54 Q0 CACM-2931 2 -103.44656350573115 StopSmoothedQueryLikelihood
@@ -5562,7 +5562,7 @@ semantics of programming languages including abstract specifications of data typ
 54 Q0 CACM-1198 99 -124.39173733994079 StopSmoothedQueryLikelihood
 54 Q0 CACM-2871 100 -124.39487566179338 StopSmoothedQueryLikelihood
 
-anything dealing with star height of regular languages or regular expressions or regular events
+dealing star height regular languages regular expressions regular events
 
 55 Q0 CACM-2650 1 -48.377421549283895 StopSmoothedQueryLikelihood
 55 Q0 CACM-2921 2 -50.21991608885975 StopSmoothedQueryLikelihood
@@ -5665,7 +5665,7 @@ anything dealing with star height of regular languages or regular expressions or
 55 Q0 CACM-0920 99 -70.21900287240123 StopSmoothedQueryLikelihood
 55 Q0 CACM-2814 100 -70.21900287240123 StopSmoothedQueryLikelihood
 
-articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
+articles relation algebraic theory semigroups monoids study automata regular languages
 
 56 Q0 CACM-2327 1 -57.21227266442418 StopSmoothedQueryLikelihood
 56 Q0 CACM-2650 2 -58.2832922747285 StopSmoothedQueryLikelihood
@@ -5768,7 +5768,7 @@ articles relation the algebraic theory of semigroups and monoids to the study of
 56 Q0 CACM-2603 99 -68.47417774739498 StopSmoothedQueryLikelihood
 56 Q0 CACM-0964 100 -68.49521539240376 StopSmoothedQueryLikelihood
 
-abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis
 
 57 Q0 CACM-3077 1 -217.58583907895 StopSmoothedQueryLikelihood
 57 Q0 CACM-3140 2 -226.2892897958684 StopSmoothedQueryLikelihood
@@ -5871,7 +5871,7 @@ abstracts of articles j backus can programming be liberated from the von neumann
 57 Q0 CACM-1658 99 -275.014002125251 StopSmoothedQueryLikelihood
 57 Q0 CACM-3113 100 -275.0772161421028 StopSmoothedQueryLikelihood
 
-algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student s t test wilcoxon and sign tests multivariate and univariate components can be included
+algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest student test wilcoxon sign tests multivariate univariate components included
 
 58 Q0 CACM-2634 1 -169.60704241257724 StopSmoothedQueryLikelihood
 58 Q0 CACM-1344 2 -170.94181134921251 StopSmoothedQueryLikelihood
@@ -5974,7 +5974,7 @@ algorithms or statistical packages for anova regression using least squares or g
 58 Q0 CACM-2114 99 -187.16508862580372 StopSmoothedQueryLikelihood
 58 Q0 CACM-2951 100 -187.259843708516 StopSmoothedQueryLikelihood
 
-dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems
 
 59 Q0 CACM-1456 1 -146.11452353515702 StopSmoothedQueryLikelihood
 59 Q0 CACM-3041 2 -150.59634377259835 StopSmoothedQueryLikelihood
@@ -6077,7 +6077,7 @@ dictionary construction and accessing methods for fast retrieval of words or lex
 59 Q0 CACM-2229 99 -161.8616612387087 StopSmoothedQueryLikelihood
 59 Q0 CACM-2354 100 -161.87299368793836 StopSmoothedQueryLikelihood
 
-hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total
 
 60 Q0 CACM-2967 1 -214.54490193386684 StopSmoothedQueryLikelihood
 60 Q0 CACM-3026 2 -219.6012344704545 StopSmoothedQueryLikelihood
@@ -6180,7 +6180,7 @@ hardware and software relating to database management systems database packages 
 60 Q0 CACM-3028 99 -233.91725117829805 StopSmoothedQueryLikelihood
 60 Q0 CACM-2482 100 -233.93010032299435 StopSmoothedQueryLikelihood
 
-information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co citations the vector space model boolean search methods using inverted files feedback etc salton g
+information retrieval articles gerard salton clustering bibliographic coupling citations citations vector space model boolean search methods inverted feedback salton
 
 61 Q0 CACM-2711 1 -129.17699999306794 StopSmoothedQueryLikelihood
 61 Q0 CACM-2307 2 -133.33335244238216 StopSmoothedQueryLikelihood
@@ -6283,7 +6283,7 @@ information retrieval articles by gerard salton or others about clustering bibli
 61 Q0 CACM-2046 99 -155.88825040870114 StopSmoothedQueryLikelihood
 61 Q0 CACM-1748 100 -155.89513076027677 StopSmoothedQueryLikelihood
 
-results relating parallel complexity theory both for pram s and uniform circuits
+results relating parallel complexity theory pram uniform circuits
 
 62 Q0 CACM-1961 1 -42.37722474033366 StopSmoothedQueryLikelihood
 62 Q0 CACM-2720 2 -50.59262461905514 StopSmoothedQueryLikelihood
@@ -6386,7 +6386,7 @@ results relating parallel complexity theory both for pram s and uniform circuits
 62 Q0 CACM-2648 99 -56.620840786091414 StopSmoothedQueryLikelihood
 62 Q0 CACM-2990 100 -56.62525228310225 StopSmoothedQueryLikelihood
 
-algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
+algorithms parallel computation especially comparisons parallel sequential algorithms
 
 63 Q0 CACM-2289 1 -46.7762133809611 StopSmoothedQueryLikelihood
 63 Q0 CACM-3075 2 -47.96362851864333 StopSmoothedQueryLikelihood
@@ -6489,7 +6489,7 @@ algorithms for parallel computation and especially comparisons between parallel 
 63 Q0 CACM-3152 99 -59.11154261691907 StopSmoothedQueryLikelihood
 63 Q0 CACM-2727 100 -59.1723723957735 StopSmoothedQueryLikelihood
 
-list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
+list articles el1 ecl el1 el 1 don remember
 
 64 Q0 CACM-2651 1 -61.25349164662057 StopSmoothedQueryLikelihood
 64 Q0 CACM-1717 2 -68.75671407514783 StopSmoothedQueryLikelihood

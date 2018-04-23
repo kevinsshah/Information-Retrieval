@@ -1,6 +1,6 @@
 
 
-what articles exist which deal with tss time sharing system an operating system for ibm computers
+articles exist deal tss time sharing system operating system ibm computers
 
 1 Q0 CACM-2319 1 23.93182601965443 BM25StopNoStem
 1 Q0 CACM-2629 2 23.575143246337433 BM25StopNoStem
@@ -103,7 +103,7 @@ what articles exist which deal with tss time sharing system an operating system 
 1 Q0 CACM-1226 99 12.787589327045705 BM25StopNoStem
 1 Q0 CACM-1755 100 12.756222063718731 BM25StopNoStem
 
-i am interested in articles written either by prieve or udo pooch prieve b pooch u
+interested articles written prieve udo pooch prieve pooch
 
 2 Q0 CACM-2434 1 26.835397627906634 BM25StopNoStem
 2 Q0 CACM-3078 2 22.56391677898857 BM25StopNoStem
@@ -196,7 +196,7 @@ i am interested in articles written either by prieve or udo pooch prieve b pooch
 2 Q0 CACM-3077 89 1.486935903728852 BM25StopNoStem
 2 Q0 CACM-2233 90 1.4121710865470505 BM25StopNoStem
 
-intermediate languages used in construction of multi targeted compilers tcoll
+intermediate languages construction multi targeted compilers tcoll
 
 3 Q0 CACM-2061 1 8.778315054910015 BM25StopNoStem
 3 Q0 CACM-1988 2 8.710735451803483 BM25StopNoStem
@@ -299,7 +299,7 @@ intermediate languages used in construction of multi targeted compilers tcoll
 3 Q0 CACM-1466 99 3.9738836488126363 BM25StopNoStem
 3 Q0 CACM-2871 100 3.9632182029168233 BM25StopNoStem
 
-i m interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing are examples of my interests
+interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message passing examples interests
 
 4 Q0 CACM-2377 1 36.90896205115628 BM25StopNoStem
 4 Q0 CACM-2939 2 32.99714557923284 BM25StopNoStem
@@ -402,7 +402,7 @@ i m interested in mechanisms for communicating between disjoint processes possib
 4 Q0 CACM-1745 99 7.260696445381691 BM25StopNoStem
 4 Q0 CACM-2578 100 7.258195719238304 BM25StopNoStem
 
-i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
+papers design implementation editing interfaces window managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction
 
 5 Q0 CACM-2035 1 24.89245914052174 BM25StopNoStem
 5 Q0 CACM-1829 2 23.98121631248304 BM25StopNoStem
@@ -505,7 +505,7 @@ i d like papers on design and implementation of editing interfaces window manage
 5 Q0 CACM-2553 99 12.751037071836945 BM25StopNoStem
 5 Q0 CACM-2689 100 12.751037071836945 BM25StopNoStem
 
-interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion
+interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion
 
 6 Q0 CACM-2826 1 36.61118652202677 BM25StopNoStem
 6 Q0 CACM-0438 2 30.06657738566275 BM25StopNoStem
@@ -608,7 +608,7 @@ interested in articles on robotics motion planning particularly the geometric an
 6 Q0 CACM-1748 99 3.037719087350731 BM25StopNoStem
 6 Q0 CACM-2810 100 3.037719087350731 BM25StopNoStem
 
-i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
+interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault tolerance techniques understanding correctness algorithms
 
 7 Q0 CACM-3043 1 32.437519984323 BM25StopNoStem
 7 Q0 CACM-2912 2 25.404361572095382 BM25StopNoStem
@@ -711,7 +711,7 @@ i am interested in distributed algorithms concurrent programs in which processes
 7 Q0 CACM-2094 99 12.7292381849811 BM25StopNoStem
 7 Q0 CACM-2963 100 12.7292381849811 BM25StopNoStem
 
-addressing schemes for resources in networks resource addressing in network operating systems
+addressing schemes resources networks resource addressing network operating systems
 
 8 Q0 CACM-2625 1 36.118656427605 BM25StopNoStem
 8 Q0 CACM-1869 2 27.145124953864272 BM25StopNoStem
@@ -814,7 +814,7 @@ addressing schemes for resources in networks resource addressing in network oper
 8 Q0 CACM-0003 99 6.71106644843584 BM25StopNoStem
 8 Q0 CACM-2319 100 6.612651479405637 BM25StopNoStem
 
-security considerations in local networks network operating systems and distributed systems
+security considerations local networks network operating systems distributed systems
 
 9 Q0 CACM-3068 1 24.95263629893608 BM25StopNoStem
 9 Q0 CACM-2849 2 23.798666190047204 BM25StopNoStem
@@ -917,7 +917,7 @@ security considerations in local networks network operating systems and distribu
 9 Q0 CACM-2127 99 11.463634586864146 BM25StopNoStem
 9 Q0 CACM-2730 100 11.385181034093822 BM25StopNoStem
 
-parallel languages languages for parallel computation
+parallel languages languages parallel computation
 
 10 Q0 CACM-2785 1 34.048243665512764 BM25StopNoStem
 10 Q0 CACM-2700 2 26.704833926536917 BM25StopNoStem
@@ -1020,7 +1020,7 @@ parallel languages languages for parallel computation
 10 Q0 CACM-1457 99 13.39541062165854 BM25StopNoStem
 10 Q0 CACM-2873 100 13.39541062165854 BM25StopNoStem
 
-setl very high level languages
+setl high level languages
 
 11 Q0 CACM-2699 1 17.39406032354013 BM25StopNoStem
 11 Q0 CACM-1923 2 13.16500809325861 BM25StopNoStem
@@ -1226,7 +1226,7 @@ portable operating systems
 12 Q0 CACM-1912 99 3.2326040713160316 BM25StopNoStem
 12 Q0 CACM-1264 100 3.1994070819510747 BM25StopNoStem
 
-code optimization for space efficiency
+code optimization space efficiency
 
 13 Q0 CACM-1947 1 13.03399357762205 BM25StopNoStem
 13 Q0 CACM-2897 2 10.441855758040196 BM25StopNoStem
@@ -1329,7 +1329,7 @@ code optimization for space efficiency
 13 Q0 CACM-3154 99 4.293779363692286 BM25StopNoStem
 13 Q0 CACM-2794 100 4.283705619860324 BM25StopNoStem
 
-find all discussions of optimal implementations of sort algorithms for database management applications
+find discussions optimal implementations sort algorithms database management applications
 
 14 Q0 CACM-3164 1 11.80689659625138 BM25StopNoStem
 14 Q0 CACM-3131 2 11.139120413523976 BM25StopNoStem
@@ -1432,7 +1432,7 @@ find all discussions of optimal implementations of sort algorithms for database 
 14 Q0 CACM-3169 99 5.610741554865935 BM25StopNoStem
 14 Q0 CACM-3038 100 5.5626606576439945 BM25StopNoStem
 
-find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
+find discussions horizontal microcode optimization special emphasis optimization loops global optimization
 
 15 Q0 CACM-2464 1 58.955095699523056 BM25StopNoStem
 15 Q0 CACM-2835 2 55.37083230902585 BM25StopNoStem
@@ -1535,7 +1535,7 @@ find all discussions of horizontal microcode optimization with special emphasis 
 15 Q0 CACM-2323 99 4.886133376565756 BM25StopNoStem
 15 Q0 CACM-1459 100 4.850825047476984 BM25StopNoStem
 
-find all descriptions of file handling in operating systems based on multiple processes and message passing
+find descriptions handling operating systems based multiple processes message passing
 
 16 Q0 CACM-3141 1 16.86238677521323 BM25StopNoStem
 16 Q0 CACM-2080 2 14.492299497899646 BM25StopNoStem
@@ -1638,7 +1638,7 @@ find all descriptions of file handling in operating systems based on multiple pr
 16 Q0 CACM-2733 99 5.966091118546689 BM25StopNoStem
 16 Q0 CACM-1264 100 5.953208645251749 BM25StopNoStem
 
-optimization of intermediate and machine code
+optimization intermediate machine code
 
 17 Q0 CACM-1223 1 13.28142999859748 BM25StopNoStem
 17 Q0 CACM-1658 2 11.721659046175713 BM25StopNoStem
@@ -1741,7 +1741,7 @@ optimization of intermediate and machine code
 17 Q0 CACM-2746 99 4.092553651340763 BM25StopNoStem
 17 Q0 CACM-2888 100 4.082801343325581 BM25StopNoStem
 
-languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
+languages compilers parallel processors especially highly horizontal microcoded machines code compaction
 
 18 Q0 CACM-2138 1 15.044201674027267 BM25StopNoStem
 18 Q0 CACM-1988 2 14.489689233296652 BM25StopNoStem
@@ -1947,7 +1947,7 @@ parallel algorithms
 19 Q0 CACM-1536 99 3.3965627331731914 BM25StopNoStem
 19 Q0 CACM-2968 100 3.3869222892886697 BM25StopNoStem
 
-graph theoretic algorithms applicable to sparse matrices
+graph theoretic algorithms applicable sparse matrices
 
 20 Q0 CACM-2695 1 16.974029228321573 BM25StopNoStem
 20 Q0 CACM-2986 2 13.9814641327826 BM25StopNoStem
@@ -2050,7 +2050,7 @@ graph theoretic algorithms applicable to sparse matrices
 20 Q0 CACM-1153 99 4.888225702739455 BM25StopNoStem
 20 Q0 CACM-2888 100 4.862523250008336 BM25StopNoStem
 
-computational complexity intractability class complete reductions algorithms and efficiency
+computational complexity intractability class complete reductions algorithms efficiency
 
 21 Q0 CACM-2337 1 13.847191036498756 BM25StopNoStem
 21 Q0 CACM-3018 2 13.008114905618624 BM25StopNoStem
@@ -2153,7 +2153,7 @@ computational complexity intractability class complete reductions algorithms and
 21 Q0 CACM-2701 99 4.940154820015752 BM25StopNoStem
 21 Q0 CACM-2111 100 4.912747206936684 BM25StopNoStem
 
-i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
+interested hidden line hidden surface algorithms cylinders toroids spheres cones specialized topic computer graphics
 
 22 Q0 CACM-2473 1 44.97823708520304 BM25StopNoStem
 22 Q0 CACM-2751 2 44.78385322765354 BM25StopNoStem
@@ -2256,7 +2256,7 @@ i am interested in hidden line and hidden surface algorithms for cylinders toroi
 22 Q0 CACM-1067 99 4.941573043004257 BM25StopNoStem
 22 Q0 CACM-1108 100 4.938907806199217 BM25StopNoStem
 
-distributed computing structures and algorithms
+distributed computing structures algorithms
 
 23 Q0 CACM-3148 1 12.077888672338268 BM25StopNoStem
 23 Q0 CACM-2849 2 10.449575246663198 BM25StopNoStem
@@ -2462,7 +2462,7 @@ applied stochastic processes
 24 Q0 CACM-2519 99 2.8884293166059485 BM25StopNoStem
 24 Q0 CACM-0440 100 2.888159452146936 BM25StopNoStem
 
-performance evaluation and modelling of computer systems
+performance evaluation modelling computer systems
 
 25 Q0 CACM-2318 1 14.256307630496845 BM25StopNoStem
 25 Q0 CACM-1938 2 11.799292860206856 BM25StopNoStem
@@ -2565,7 +2565,7 @@ performance evaluation and modelling of computer systems
 25 Q0 CACM-0742 99 4.638009016374848 BM25StopNoStem
 25 Q0 CACM-1029 100 4.602081907941158 BM25StopNoStem
 
-concurrency control mechanisms in operating systems
+concurrency control mechanisms operating systems
 
 26 Q0 CACM-2626 1 11.9615538197239 BM25StopNoStem
 26 Q0 CACM-2840 2 11.04290338697815 BM25StopNoStem
@@ -2668,7 +2668,7 @@ concurrency control mechanisms in operating systems
 26 Q0 CACM-1922 99 5.060473111508683 BM25StopNoStem
 26 Q0 CACM-1923 100 5.0504549022003635 BM25StopNoStem
 
-memory management aspects of operating systems
+memory management aspects operating systems
 
 27 Q0 CACM-2297 1 14.118678287599913 BM25StopNoStem
 27 Q0 CACM-1752 2 12.749778249722304 BM25StopNoStem
@@ -2771,7 +2771,7 @@ memory management aspects of operating systems
 27 Q0 CACM-2435 99 6.053408236726356 BM25StopNoStem
 27 Q0 CACM-1748 100 5.957169897212342 BM25StopNoStem
 
-any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
+information packet radio networks interest algorithms packet routing dealing network topography interested hardware network
 
 28 Q0 CACM-3032 1 68.48124567805365 BM25StopNoStem
 28 Q0 CACM-2949 2 56.788960313807465 BM25StopNoStem
@@ -2874,7 +2874,7 @@ any information on packet radio networks of particular interest are algorithms f
 28 Q0 CACM-0356 99 6.2179873244026505 BM25StopNoStem
 28 Q0 CACM-2484 100 6.195754228737165 BM25StopNoStem
 
-number theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
+number theoretic algorithms especially involving prime number series sieves chinese remainder theorem
 
 29 Q0 CACM-1933 1 21.215696989343463 BM25StopNoStem
 29 Q0 CACM-1840 2 20.832095564032798 BM25StopNoStem
@@ -2977,7 +2977,7 @@ number theoretic algorithms especially involving prime number series sieves and 
 29 Q0 CACM-2121 99 11.085821574085841 BM25StopNoStem
 29 Q0 CACM-1679 100 11.081578997563568 BM25StopNoStem
 
-articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo
+articles text formatting systems including systems examples nroff scribe bravo
 
 30 Q0 CACM-1926 1 17.002547430232006 BM25StopNoStem
 30 Q0 CACM-2738 2 15.150722632120209 BM25StopNoStem
@@ -3080,7 +3080,7 @@ articles on text formatting systems including what you see is what you get syste
 30 Q0 CACM-0397 99 10.283976892525555 BM25StopNoStem
 30 Q0 CACM-1636 100 10.283647983632854 BM25StopNoStem
 
-i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c
+find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson
 
 31 Q0 CACM-3047 1 98.56176517586754 BM25StopNoStem
 31 Q0 CACM-1686 2 88.86456329407078 BM25StopNoStem
@@ -3183,7 +3183,7 @@ i d like to find articles describing the use of singular value decomposition in 
 31 Q0 CACM-0097 99 16.55575444804399 BM25StopNoStem
 31 Q0 CACM-2041 100 16.55575444804399 BM25StopNoStem
 
-i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
+find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithms graph coloring graph isomorphism method
 
 32 Q0 CACM-2630 1 118.11853645457882 BM25StopNoStem
 32 Q0 CACM-3139 2 117.45544031652811 BM25StopNoStem
@@ -3286,7 +3286,7 @@ i d like to find articles describing graph algorithms that are based on the eige
 32 Q0 CACM-2094 99 16.710562801156286 BM25StopNoStem
 32 Q0 CACM-1658 100 16.701972904312335 BM25StopNoStem
 
-articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
+articles sensitivity eigenvalue decomposition real matrices matrices especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart
 
 33 Q0 CACM-2043 1 54.32262867181294 BM25StopNoStem
 33 Q0 CACM-1954 2 53.825535475173716 BM25StopNoStem
@@ -3389,7 +3389,7 @@ articles about the sensitivity of the eigenvalue decomposition of real matrices 
 33 Q0 CACM-0256 99 20.47266587443988 BM25StopNoStem
 33 Q0 CACM-0301 100 20.47266587443988 BM25StopNoStem
 
-currently interested in isolation of root of polynomial there is an old more recent material heindel l
+interested isolation root polynomial recent material heindel
 
 34 Q0 CACM-1524 1 13.022322463043325 BM25StopNoStem
 34 Q0 CACM-1893 2 12.768792783049129 BM25StopNoStem
@@ -3492,7 +3492,7 @@ currently interested in isolation of root of polynomial there is an old more rec
 34 Q0 CACM-1278 99 4.157466728778355 BM25StopNoStem
 34 Q0 CACM-1294 100 4.157466728778355 BM25StopNoStem
 
-probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
+probabilistic algorithms especially dealing algebraic symbolic manipulation examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabin
 
 35 Q0 CACM-2932 1 71.47784126834429 BM25StopNoStem
 35 Q0 CACM-1474 2 69.64395078077 BM25StopNoStem
@@ -3595,7 +3595,7 @@ probabilistic algorithms especially those dealing with algebraic and symbolic ma
 35 Q0 CACM-1689 99 6.12611980030473 BM25StopNoStem
 35 Q0 CACM-2828 100 6.079998074607944 BM25StopNoStem
 
-fast algorithm for context free language recognition or parsing
+fast algorithm context free language recognition parsing
 
 36 Q0 CACM-1265 1 21.506623969701156 BM25StopNoStem
 36 Q0 CACM-2110 2 19.926689523484864 BM25StopNoStem
@@ -3698,7 +3698,7 @@ fast algorithm for context free language recognition or parsing
 36 Q0 CACM-0633 99 5.3530074097790346 BM25StopNoStem
 36 Q0 CACM-3093 100 5.335098076461929 BM25StopNoStem
 
-articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
+articles describing relationship data types concurrency type process synchronization attempt processes type correct message passing system notion types messages check sender message receiver treating bit stream type
 
 37 Q0 CACM-2956 1 74.78938811535664 BM25StopNoStem
 37 Q0 CACM-2265 2 74.46324106889071 BM25StopNoStem
@@ -3801,7 +3801,7 @@ articles describing the relationship between data types and concurrency e g what
 37 Q0 CACM-3128 99 19.53273983206574 BM25StopNoStem
 37 Q0 CACM-1828 100 18.60960165184485 BM25StopNoStem
 
-what is the type of a module i don t want the entire literature on abstract data types here but i m not sure how to phrase this to avoid it i m interested in questions about how one can check that a module matches contexts in which it is used
+type module don want entire literature abstract data types sure phrase avoid interested questions check module matches contexts
 
 38 Q0 CACM-2867 1 36.09349031045251 BM25StopNoStem
 38 Q0 CACM-2941 2 32.28259094265164 BM25StopNoStem
@@ -3904,7 +3904,7 @@ what is the type of a module i don t want the entire literature on abstract data
 38 Q0 CACM-1867 99 5.306044997202583 BM25StopNoStem
 38 Q0 CACM-2667 100 5.304306346943266 BM25StopNoStem
 
-what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer supplied definitions of operators like
+type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer supplied definitions operators
 
 39 Q0 CACM-2651 1 66.95033550103062 BM25StopNoStem
 39 Q0 CACM-2940 2 61.36701702544108 BM25StopNoStem
@@ -4007,7 +4007,7 @@ what does type compatibility mean in languages that allow programmer defined typ
 39 Q0 CACM-0724 99 17.06250708347124 BM25StopNoStem
 39 Q0 CACM-3006 100 17.00151721608638 BM25StopNoStem
 
-list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed
+list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed
 
 40 Q0 CACM-1098 1 50.36742576104031 BM25StopNoStem
 40 Q0 CACM-2316 2 46.41948616656514 BM25StopNoStem
@@ -4110,7 +4110,7 @@ list all articles dealing with data types in the following languages that are re
 40 Q0 CACM-2051 99 25.500526027765847 BM25StopNoStem
 40 Q0 CACM-2957 100 25.420559802629352 BM25StopNoStem
 
-theory of distributed systems and databases subtopics of special interest include reliability and fault tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520
+theory distributed systems databases subtopics special interest include reliability fault tolerance distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel systems theory communicating processes protocols box 2158 yale station haven conn 06520
 
 41 Q0 CACM-3082 1 95.1493457436809 BM25StopNoStem
 41 Q0 CACM-2578 2 90.51698265006355 BM25StopNoStem
@@ -4213,7 +4213,7 @@ theory of distributed systems and databases subtopics of special interest includ
 41 Q0 CACM-1728 99 26.514195504816854 BM25StopNoStem
 41 Q0 CACM-2166 100 26.383321730977695 BM25StopNoStem
 
-computer performance evaluation techniques using pattern recognition and clustering la 70803
+computer performance evaluation techniques pattern recognition clustering la 70803
 
 42 Q0 CACM-2641 1 18.127956088526137 BM25StopNoStem
 42 Q0 CACM-0462 2 17.023723898444295 BM25StopNoStem
@@ -4316,7 +4316,7 @@ computer performance evaluation techniques using pattern recognition and cluster
 42 Q0 CACM-1642 99 5.429347472643873 BM25StopNoStem
 42 Q0 CACM-2951 100 5.4231210682515805 BM25StopNoStem
 
-analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
+analysis perception shape humans computers shape descriptions shape recognition computer dimensional shapes measures circularity shape matching
 
 43 Q0 CACM-2569 1 106.61895996584943 BM25StopNoStem
 43 Q0 CACM-3107 2 83.81623475892876 BM25StopNoStem
@@ -4419,7 +4419,7 @@ analysis and perception of shape by humans and computers shape descriptions shap
 43 Q0 CACM-0204 99 5.808180449625899 BM25StopNoStem
 43 Q0 CACM-2153 100 5.801334721047939 BM25StopNoStem
 
-texture analysis by computer digitized texture analysis texture synthesis perception of texture
+texture analysis computer digitized texture analysis texture synthesis perception texture
 
 44 Q0 CACM-2829 1 154.61534672160818 BM25StopNoStem
 44 Q0 CACM-2523 2 100.66330703608074 BM25StopNoStem
@@ -4522,7 +4522,7 @@ texture analysis by computer digitized texture analysis texture synthesis percep
 44 Q0 CACM-1515 99 10.98435158800985 BM25StopNoStem
 44 Q0 CACM-2820 100 10.92346866021425 BM25StopNoStem
 
-the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
+operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases
 
 45 Q0 CACM-2765 1 17.453366082505877 BM25StopNoStem
 45 Q0 CACM-2816 2 16.671713200570633 BM25StopNoStem
@@ -4625,7 +4625,7 @@ the use of operations research models to optimize information system performance
 45 Q0 CACM-3028 99 7.165830448331339 BM25StopNoStem
 45 Q0 CACM-2226 100 7.115768663793255 BM25StopNoStem
 
-the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
+application fuzzy subset theory clustering information retrieval problems includes performance evaluation automatic indexing considerations
 
 46 Q0 CACM-2711 1 23.82273463144969 BM25StopNoStem
 46 Q0 CACM-2990 2 23.369920402661656 BM25StopNoStem
@@ -4728,7 +4728,7 @@ the application of fuzzy subset theory to clustering and information retrieval p
 46 Q0 CACM-2070 99 7.482992113350277 BM25StopNoStem
 46 Q0 CACM-2932 100 7.431202914064897 BM25StopNoStem
 
-the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
+bayesian decision models optimize information retrieval system performance includes stopping rules determine user cease scanning output retrieval search
 
 47 Q0 CACM-1699 1 30.35681027346296 BM25StopNoStem
 47 Q0 CACM-2288 2 30.284249361612645 BM25StopNoStem
@@ -4831,7 +4831,7 @@ the use of bayesian decision models to optimize information retrieval system per
 47 Q0 CACM-2092 99 14.069189719936237 BM25StopNoStem
 47 Q0 CACM-2493 100 14.017323844846919 BM25StopNoStem
 
-the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
+computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms
 
 48 Q0 CACM-2325 1 33.399454917168256 BM25StopNoStem
 48 Q0 CACM-1658 2 24.10418921967077 BM25StopNoStem
@@ -4934,7 +4934,7 @@ the use of computer science principles e g data structures numerical methods in 
 48 Q0 CACM-1809 99 14.502106616209211 BM25StopNoStem
 48 Q0 CACM-2053 100 14.459505085618332 BM25StopNoStem
 
-the role of information retrieval in knowledge based systems i e expert systems
+role information retrieval knowledge based systems expert systems
 
 49 Q0 CACM-3134 1 20.998146999584982 BM25StopNoStem
 49 Q0 CACM-1514 2 19.694025188110988 BM25StopNoStem
@@ -5037,7 +5037,7 @@ the role of information retrieval in knowledge based systems i e expert systems
 49 Q0 CACM-0322 99 11.148871947083999 BM25StopNoStem
 49 Q0 CACM-0855 100 11.148871947083999 BM25StopNoStem
 
-parallel processors in information retrieval
+parallel processors information retrieval
 
 50 Q0 CACM-1811 1 12.608988580332166 BM25StopNoStem
 50 Q0 CACM-2714 2 12.448528943766846 BM25StopNoStem
@@ -5140,7 +5140,7 @@ parallel processors in information retrieval
 50 Q0 CACM-1468 99 5.089794323584968 BM25StopNoStem
 50 Q0 CACM-1527 100 5.050929697067325 BM25StopNoStem
 
-parallel processors and paging algorithms
+parallel processors paging algorithms
 
 51 Q0 CACM-3075 1 15.145473458611194 BM25StopNoStem
 51 Q0 CACM-3156 2 13.959071903236286 BM25StopNoStem
@@ -5243,7 +5243,7 @@ parallel processors and paging algorithms
 51 Q0 CACM-2668 99 4.246230635927503 BM25StopNoStem
 51 Q0 CACM-1551 100 4.234068589150638 BM25StopNoStem
 
-modelling and simulation in agricultural ecosystems
+modelling simulation agricultural ecosystems
 
 52 Q0 CACM-2721 1 14.299389952915586 BM25StopNoStem
 52 Q0 CACM-2749 2 5.878081944447385 BM25StopNoStem
@@ -5346,7 +5346,7 @@ modelling and simulation in agricultural ecosystems
 52 Q0 CACM-2569 99 2.1908976751719305 BM25StopNoStem
 52 Q0 CACM-2682 100 2.178257101958599 BM25StopNoStem
 
-mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210
+mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210
 
 53 Q0 CACM-0139 1 38.88645409992505 BM25StopNoStem
 53 Q0 CACM-0514 2 38.88645409992505 BM25StopNoStem
@@ -5449,7 +5449,7 @@ mathematical induction group theory integers modulo m probability binomial coeff
 53 Q0 CACM-2315 99 6.235696840887864 BM25StopNoStem
 53 Q0 CACM-2779 100 6.198963085013798 BM25StopNoStem
 
-semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
+semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 01003
 
 54 Q0 CACM-2295 1 35.746727563863445 BM25StopNoStem
 54 Q0 CACM-2326 2 34.812912933299174 BM25StopNoStem
@@ -5552,7 +5552,7 @@ semantics of programming languages including abstract specifications of data typ
 54 Q0 CACM-2777 99 8.07165230357323 BM25StopNoStem
 54 Q0 CACM-1861 100 8.043916822210562 BM25StopNoStem
 
-anything dealing with star height of regular languages or regular expressions or regular events
+dealing star height regular languages regular expressions regular events
 
 55 Q0 CACM-2650 1 78.79626701062918 BM25StopNoStem
 55 Q0 CACM-1739 2 76.1449238162737 BM25StopNoStem
@@ -5655,7 +5655,7 @@ anything dealing with star height of regular languages or regular expressions or
 55 Q0 CACM-1485 99 4.007922499010198 BM25StopNoStem
 55 Q0 CACM-2305 100 3.991421926323633 BM25StopNoStem
 
-articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
+articles relation algebraic theory semigroups monoids study automata regular languages
 
 56 Q0 CACM-2327 1 18.659583140642667 BM25StopNoStem
 56 Q0 CACM-2650 2 17.59526420609085 BM25StopNoStem
@@ -5758,7 +5758,7 @@ articles relation the algebraic theory of semigroups and monoids to the study of
 56 Q0 CACM-2705 99 4.538264799969323 BM25StopNoStem
 56 Q0 CACM-0850 100 4.5158954713417145 BM25StopNoStem
 
-abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
+abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis
 
 57 Q0 CACM-3077 1 72.71662442620797 BM25StopNoStem
 57 Q0 CACM-3140 2 52.869842976756644 BM25StopNoStem
@@ -5861,7 +5861,7 @@ abstracts of articles j backus can programming be liberated from the von neumann
 57 Q0 CACM-2217 99 -15.422247958167189 BM25StopNoStem
 57 Q0 CACM-3015 100 -15.423328162918796 BM25StopNoStem
 
-algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student s t test wilcoxon and sign tests multivariate and univariate components can be included
+algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest student test wilcoxon sign tests multivariate univariate components included
 
 58 Q0 CACM-2634 1 40.26840173400769 BM25StopNoStem
 58 Q0 CACM-1344 2 39.9515664724632 BM25StopNoStem
@@ -5964,7 +5964,7 @@ algorithms or statistical packages for anova regression using least squares or g
 58 Q0 CACM-0322 99 8.764936221222488 BM25StopNoStem
 58 Q0 CACM-1801 100 8.728097864982912 BM25StopNoStem
 
-dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
+dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems
 
 59 Q0 CACM-2437 1 30.998151736151033 BM25StopNoStem
 59 Q0 CACM-1456 2 29.063961236204086 BM25StopNoStem
@@ -6067,7 +6067,7 @@ dictionary construction and accessing methods for fast retrieval of words or lex
 59 Q0 CACM-2846 99 13.716395368626507 BM25StopNoStem
 59 Q0 CACM-2847 100 13.666356045786983 BM25StopNoStem
 
-hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
+hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total
 
 60 Q0 CACM-2967 1 51.87656683543693 BM25StopNoStem
 60 Q0 CACM-3087 2 42.48234373159745 BM25StopNoStem
@@ -6170,7 +6170,7 @@ hardware and software relating to database management systems database packages 
 60 Q0 CACM-0963 99 17.07815886359116 BM25StopNoStem
 60 Q0 CACM-3067 100 17.019174656132392 BM25StopNoStem
 
-information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co citations the vector space model boolean search methods using inverted files feedback etc salton g
+information retrieval articles gerard salton clustering bibliographic coupling citations citations vector space model boolean search methods inverted feedback salton
 
 61 Q0 CACM-0634 1 40.76581390000679 BM25StopNoStem
 61 Q0 CACM-2711 2 40.30189328187004 BM25StopNoStem
@@ -6273,7 +6273,7 @@ information retrieval articles by gerard salton or others about clustering bibli
 61 Q0 CACM-1725 99 7.350317293222771 BM25StopNoStem
 61 Q0 CACM-2598 100 7.328094631099599 BM25StopNoStem
 
-results relating parallel complexity theory both for pram s and uniform circuits
+results relating parallel complexity theory pram uniform circuits
 
 62 Q0 CACM-1961 1 18.476082116818898 BM25StopNoStem
 62 Q0 CACM-2430 2 10.967768645009443 BM25StopNoStem
@@ -6376,7 +6376,7 @@ results relating parallel complexity theory both for pram s and uniform circuits
 62 Q0 CACM-1846 99 4.716773465338401 BM25StopNoStem
 62 Q0 CACM-1664 100 4.707284181107028 BM25StopNoStem
 
-algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
+algorithms parallel computation especially comparisons parallel sequential algorithms
 
 63 Q0 CACM-3075 1 37.06101718329309 BM25StopNoStem
 63 Q0 CACM-2973 2 36.80342460885652 BM25StopNoStem
@@ -6479,7 +6479,7 @@ algorithms for parallel computation and especially comparisons between parallel 
 63 Q0 CACM-2135 99 14.19971195519592 BM25StopNoStem
 63 Q0 CACM-1341 100 14.123901256441341 BM25StopNoStem
 
-list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
+list articles el1 ecl el1 el 1 don remember
 
 64 Q0 CACM-2651 1 32.315825975749355 BM25StopNoStem
 64 Q0 CACM-1307 2 7.8650747799399525 BM25StopNoStem

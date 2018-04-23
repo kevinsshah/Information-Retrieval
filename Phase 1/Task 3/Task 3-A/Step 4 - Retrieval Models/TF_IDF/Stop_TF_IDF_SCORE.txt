@@ -1,4 +1,4 @@
-Query:  what articles exist which deal with tss time sharing system an operating system for ibm computers
+Query:  articles exist deal tss time sharing system operating system ibm computers
 
 1   Q0   CACM-1938   1   1.9783901471409928   Stop_RM_TF_IDF
 1   Q0   CACM-1657   2   1.8936698542674884   Stop_RM_TF_IDF
@@ -106,7 +106,7 @@ Query:  what articles exist which deal with tss time sharing system an operating
 ----------------------------------------------------------------------------------
 
 
-Query:  i am interested in articles written either by prieve or udo pooch prieve b pooch u
+Query:  interested articles written prieve udo pooch prieve pooch
 
 2   Q0   CACM-0597   1   0.523688007976769   Stop_RM_TF_IDF
 2   Q0   CACM-0847   2   0.4189504063814152   Stop_RM_TF_IDF
@@ -204,7 +204,7 @@ Query:  i am interested in articles written either by prieve or udo pooch prieve
 ----------------------------------------------------------------------------------
 
 
-Query:  intermediate languages used in construction of multi targeted compilers tcoll
+Query:  intermediate languages construction multi targeted compilers tcoll
 
 3   Q0   CACM-0249   1   0.8859492243911267   Stop_RM_TF_IDF
 3   Q0   CACM-2316   2   0.8239827204185035   Stop_RM_TF_IDF
@@ -312,7 +312,7 @@ Query:  intermediate languages used in construction of multi targeted compilers 
 ----------------------------------------------------------------------------------
 
 
-Query:  i m interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing are examples of my interests
+Query:  interested mechanisms communicating disjoint processes possibly exclusively distributed environment descriptions complete mechanisms implementations opposed theoretical work abstract problem remote procedure calls message passing examples interests
 
 4   Q0   CACM-3043   1   1.154854337016227   Stop_RM_TF_IDF
 4   Q0   CACM-2445   2   0.960732618383545   Stop_RM_TF_IDF
@@ -420,7 +420,7 @@ Query:  i m interested in mechanisms for communicating between disjoint processe
 ----------------------------------------------------------------------------------
 
 
-Query:  i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
+Query:  papers design implementation editing interfaces window managers command interpreters essential issues human interface design views improvements user efficiency effectiveness satisfaction
 
 5   Q0   CACM-2629   1   0.731083510903102   Stop_RM_TF_IDF
 5   Q0   CACM-2357   2   0.6673360400155961   Stop_RM_TF_IDF
@@ -528,7 +528,7 @@ Query:  i d like papers on design and implementation of editing interfaces windo
 ----------------------------------------------------------------------------------
 
 
-Query:  interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion
+Query:  interested articles robotics motion planning geometric combinatorial aspects interested dynamics arm motion
 
 6   Q0   CACM-2671   1   0.6933515669147948   Stop_RM_TF_IDF
 6   Q0   CACM-1009   2   0.531569534634676   Stop_RM_TF_IDF
@@ -636,7 +636,7 @@ Query:  interested in articles on robotics motion planning particularly the geom
 ----------------------------------------------------------------------------------
 
 
-Query:  i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
+Query:  interested distributed algorithms concurrent programs processes communicate synchronize message passing areas interest include fault tolerance techniques understanding correctness algorithms
 
 7   Q0   CACM-3043   1   1.4110497019185055   Stop_RM_TF_IDF
 7   Q0   CACM-0270   2   1.047376015953538   Stop_RM_TF_IDF
@@ -744,7 +744,7 @@ Query:  i am interested in distributed algorithms concurrent programs in which p
 ----------------------------------------------------------------------------------
 
 
-Query:  addressing schemes for resources in networks resource addressing in network operating systems
+Query:  addressing schemes resources networks resource addressing network operating systems
 
 8   Q0   CACM-1685   1   1.364257932783493   Stop_RM_TF_IDF
 8   Q0   CACM-1461   2   1.1970011610897575   Stop_RM_TF_IDF
@@ -852,7 +852,7 @@ Query:  addressing schemes for resources in networks resource addressing in netw
 ----------------------------------------------------------------------------------
 
 
-Query:  security considerations in local networks network operating systems and distributed systems
+Query:  security considerations local networks network operating systems distributed systems
 
 9   Q0   CACM-3068   1   1.41328997589462   Stop_RM_TF_IDF
 9   Q0   CACM-1685   2   1.364257932783493   Stop_RM_TF_IDF
@@ -960,7 +960,7 @@ Query:  security considerations in local networks network operating systems and 
 ----------------------------------------------------------------------------------
 
 
-Query:  parallel languages languages for parallel computation
+Query:  parallel languages languages parallel computation
 
 10   Q0   CACM-0249   1   0.8859492243911267   Stop_RM_TF_IDF
 10   Q0   CACM-2316   2   0.8239827204185035   Stop_RM_TF_IDF
@@ -1068,7 +1068,7 @@ Query:  parallel languages languages for parallel computation
 ----------------------------------------------------------------------------------
 
 
-Query:  setl very high level languages
+Query:  setl high level languages
 
 11   Q0   CACM-2782   1   1.1425920174038597   Stop_RM_TF_IDF
 11   Q0   CACM-2316   2   1.0208603258387539   Stop_RM_TF_IDF
@@ -1284,7 +1284,7 @@ Query:  portable operating systems
 ----------------------------------------------------------------------------------
 
 
-Query:  code optimization for space efficiency
+Query:  code optimization space efficiency
 
 13   Q0   CACM-2748   1   1.210296954660251   Stop_RM_TF_IDF
 13   Q0   CACM-2491   2   1.1699592753711674   Stop_RM_TF_IDF
@@ -1392,7 +1392,7 @@ Query:  code optimization for space efficiency
 ----------------------------------------------------------------------------------
 
 
-Query:  find all discussions of optimal implementations of sort algorithms for database management applications
+Query:  find discussions optimal implementations sort algorithms database management applications
 
 14   Q0   CACM-1724   1   0.9534657193414112   Stop_RM_TF_IDF
 14   Q0   CACM-2348   2   0.8859492243911267   Stop_RM_TF_IDF
@@ -1500,7 +1500,7 @@ Query:  find all discussions of optimal implementations of sort algorithms for d
 ----------------------------------------------------------------------------------
 
 
-Query:  find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
+Query:  find discussions horizontal microcode optimization special emphasis optimization loops global optimization
 
 15   Q0   CACM-2464   1   0.960732618383545   Stop_RM_TF_IDF
 15   Q0   CACM-0820   2   0.6445390867406388   Stop_RM_TF_IDF
@@ -1608,7 +1608,7 @@ Query:  find all discussions of horizontal microcode optimization with special e
 ----------------------------------------------------------------------------------
 
 
-Query:  find all descriptions of file handling in operating systems based on multiple processes and message passing
+Query:  find descriptions handling operating systems based multiple processes message passing
 
 16   Q0   CACM-1461   1   1.1970011610897575   Stop_RM_TF_IDF
 16   Q0   CACM-3141   2   0.9743194314909838   Stop_RM_TF_IDF
@@ -1716,7 +1716,7 @@ Query:  find all descriptions of file handling in operating systems based on mul
 ----------------------------------------------------------------------------------
 
 
-Query:  optimization of intermediate and machine code
+Query:  optimization intermediate machine code
 
 17   Q0   CACM-2491   1   1.32440984499182   Stop_RM_TF_IDF
 17   Q0   CACM-2748   2   1.210296954660251   Stop_RM_TF_IDF
@@ -1824,7 +1824,7 @@ Query:  optimization of intermediate and machine code
 ----------------------------------------------------------------------------------
 
 
-Query:  languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
+Query:  languages compilers parallel processors especially highly horizontal microcoded machines code compaction
 
 18   Q0   CACM-0249   1   1.3514496759260324   Stop_RM_TF_IDF
 18   Q0   CACM-1795   2   1.0135872569445243   Stop_RM_TF_IDF
@@ -2040,7 +2040,7 @@ Query:  parallel algorithms
 ----------------------------------------------------------------------------------
 
 
-Query:  graph theoretic algorithms applicable to sparse matrices
+Query:  graph theoretic algorithms applicable sparse matrices
 
 20   Q0   CACM-2630   1   1.04086262777402   Stop_RM_TF_IDF
 20   Q0   CACM-1963   2   1.0025036017915252   Stop_RM_TF_IDF
@@ -2148,7 +2148,7 @@ Query:  graph theoretic algorithms applicable to sparse matrices
 ----------------------------------------------------------------------------------
 
 
-Query:  computational complexity intractability class complete reductions algorithms and efficiency
+Query:  computational complexity intractability class complete reductions algorithms efficiency
 
 21   Q0   CACM-2337   1   1.0326456463002271   Stop_RM_TF_IDF
 21   Q0   CACM-2932   2   0.9557469427661225   Stop_RM_TF_IDF
@@ -2256,7 +2256,7 @@ Query:  computational complexity intractability class complete reductions algori
 ----------------------------------------------------------------------------------
 
 
-Query:  i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
+Query:  interested hidden line hidden surface algorithms cylinders toroids spheres cones specialized topic computer graphics
 
 22   Q0   CACM-2678   1   1.8319673536871666   Stop_RM_TF_IDF
 22   Q0   CACM-2473   2   1.7510078350308202   Stop_RM_TF_IDF
@@ -2364,7 +2364,7 @@ Query:  i am interested in hidden line and hidden surface algorithms for cylinde
 ----------------------------------------------------------------------------------
 
 
-Query:  distributed computing structures and algorithms
+Query:  distributed computing structures algorithms
 
 23   Q0   CACM-0371   1   0.8393203178442252   Stop_RM_TF_IDF
 23   Q0   CACM-3148   2   0.76678916556843   Stop_RM_TF_IDF
@@ -2580,7 +2580,7 @@ Query:  applied stochastic processes
 ----------------------------------------------------------------------------------
 
 
-Query:  performance evaluation and modelling of computer systems
+Query:  performance evaluation modelling computer systems
 
 25   Q0   CACM-2318   1   1.6090530539768804   Stop_RM_TF_IDF
 25   Q0   CACM-2329   2   1.2574636387533353   Stop_RM_TF_IDF
@@ -2688,7 +2688,7 @@ Query:  performance evaluation and modelling of computer systems
 ----------------------------------------------------------------------------------
 
 
-Query:  concurrency control mechanisms in operating systems
+Query:  concurrency control mechanisms operating systems
 
 26   Q0   CACM-1461   1   1.1970011610897575   Stop_RM_TF_IDF
 26   Q0   CACM-3068   2   0.9743065996737879   Stop_RM_TF_IDF
@@ -2796,7 +2796,7 @@ Query:  concurrency control mechanisms in operating systems
 ----------------------------------------------------------------------------------
 
 
-Query:  memory management aspects of operating systems
+Query:  memory management aspects operating systems
 
 27   Q0   CACM-1461   1   1.1970011610897575   Stop_RM_TF_IDF
 27   Q0   CACM-2798   2   1.0884106896321206   Stop_RM_TF_IDF
@@ -2904,7 +2904,7 @@ Query:  memory management aspects of operating systems
 ----------------------------------------------------------------------------------
 
 
-Query:  any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
+Query:  information packet radio networks interest algorithms packet routing dealing network topography interested hardware network
 
 28   Q0   CACM-1685   1   1.364257932783493   Stop_RM_TF_IDF
 28   Q0   CACM-2890   2   1.3362855496571937   Stop_RM_TF_IDF
@@ -3012,7 +3012,7 @@ Query:  any information on packet radio networks of particular interest are algo
 ----------------------------------------------------------------------------------
 
 
-Query:  number theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
+Query:  number theoretic algorithms especially involving prime number series sieves chinese remainder theorem
 
 29   Q0   CACM-2087   1   1.297863894913765   Stop_RM_TF_IDF
 29   Q0   CACM-1840   2   1.2757668831232225   Stop_RM_TF_IDF
@@ -3120,7 +3120,7 @@ Query:  number theoretic algorithms especially involving prime number series sie
 ----------------------------------------------------------------------------------
 
 
-Query:  articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo
+Query:  articles text formatting systems including systems examples nroff scribe bravo
 
 30   Q0   CACM-1926   1   0.6867199566358502   Stop_RM_TF_IDF
 30   Q0   CACM-2345   2   0.6786900151555177   Stop_RM_TF_IDF
@@ -3228,7 +3228,7 @@ Query:  articles on text formatting systems including what you see is what you g
 ----------------------------------------------------------------------------------
 
 
-Query:  i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c
+Query:  find articles describing singular decomposition digital image processing applications include finding approximations original image restoring images subject noise article subject andrews patterson outer product expansions digital image processing american mathematical andrews patterson
 
 31   Q0   CACM-1839   1   1.1390775742171628   Stop_RM_TF_IDF
 31   Q0   CACM-3047   2   1.118884571745525   Stop_RM_TF_IDF
@@ -3336,7 +3336,7 @@ Query:  i d like to find articles describing the use of singular value decomposi
 ----------------------------------------------------------------------------------
 
 
-Query:  i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
+Query:  find articles describing graph algorithms based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithms graph coloring graph isomorphism method
 
 32   Q0   CACM-1839   1   1.7086163613257441   Stop_RM_TF_IDF
 32   Q0   CACM-1791   2   1.4159213966905517   Stop_RM_TF_IDF
@@ -3444,7 +3444,7 @@ Query:  i d like to find articles describing graph algorithms that are based on 
 ----------------------------------------------------------------------------------
 
 
-Query:  articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
+Query:  articles sensitivity eigenvalue decomposition real matrices matrices especially interested separation eigenspaces distinct eigenvalues articles subject davis kahn rotation eigenvectors permutation siam numerical analysis vol 7 1 1970 stewart error bounds approximate invariant subspaces closed linear operators siam numerical analysis vol 8 4 1971 davis kahn stewart
 
 33   Q0   CACM-2043   1   2.484587475860671   Stop_RM_TF_IDF
 33   Q0   CACM-1954   2   2.3925657174954607   Stop_RM_TF_IDF
@@ -3552,7 +3552,7 @@ Query:  articles about the sensitivity of the eigenvalue decomposition of real m
 ----------------------------------------------------------------------------------
 
 
-Query:  currently interested in isolation of root of polynomial there is an old more recent material heindel l
+Query:  interested isolation root polynomial recent material heindel
 
 34   Q0   CACM-1893   1   0.9751167220061341   Stop_RM_TF_IDF
 34   Q0   CACM-1524   2   0.9619718622585759   Stop_RM_TF_IDF
@@ -3660,7 +3660,7 @@ Query:  currently interested in isolation of root of polynomial there is an old 
 ----------------------------------------------------------------------------------
 
 
-Query:  probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
+Query:  probabilistic algorithms especially dealing algebraic symbolic manipulation examples rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identities siam rabin
 
 35   Q0   CACM-2090   1   2.188407650106358   Stop_RM_TF_IDF
 35   Q0   CACM-1386   2   1.504169108067693   Stop_RM_TF_IDF
@@ -3768,7 +3768,7 @@ Query:  probabilistic algorithms especially those dealing with algebraic and sym
 ----------------------------------------------------------------------------------
 
 
-Query:  fast algorithm for context free language recognition or parsing
+Query:  fast algorithm context free language recognition parsing
 
 36   Q0   CACM-2084   1   1.7511833659713214   Stop_RM_TF_IDF
 36   Q0   CACM-2110   2   1.6563676536320462   Stop_RM_TF_IDF
@@ -3876,7 +3876,7 @@ Query:  fast algorithm for context free language recognition or parsing
 ----------------------------------------------------------------------------------
 
 
-Query:  articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
+Query:  articles describing relationship data types concurrency type process synchronization attempt processes type correct message passing system notion types messages check sender message receiver treating bit stream type
 
 37   Q0   CACM-2376   1   1.5815756328836352   Stop_RM_TF_IDF
 37   Q0   CACM-2651   2   1.4668520093864528   Stop_RM_TF_IDF
@@ -3984,7 +3984,7 @@ Query:  articles describing the relationship between data types and concurrency 
 ----------------------------------------------------------------------------------
 
 
-Query:  what is the type of a module i don t want the entire literature on abstract data types here but i m not sure how to phrase this to avoid it i m interested in questions about how one can check that a module matches contexts in which it is used
+Query:  type module don want entire literature abstract data types sure phrase avoid interested questions check module matches contexts
 
 38   Q0   CACM-2958   1   1.636174094844734   Stop_RM_TF_IDF
 38   Q0   CACM-2651   2   1.4668520093864528   Stop_RM_TF_IDF
@@ -4092,7 +4092,7 @@ Query:  what is the type of a module i don t want the entire literature on abstr
 ----------------------------------------------------------------------------------
 
 
-Query:  what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer supplied definitions of operators like
+Query:  type compatibility mean languages allow programmer defined types want restrict extensible languages allow definition abstract data types programmer supplied definitions operators
 
 39   Q0   CACM-2651   1   1.9875164151712266   Stop_RM_TF_IDF
 39   Q0   CACM-2406   2   1.8606555976530001   Stop_RM_TF_IDF
@@ -4200,7 +4200,7 @@ Query:  what does type compatibility mean in languages that allow programmer def
 ----------------------------------------------------------------------------------
 
 
-Query:  list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed
+Query:  list articles dealing data types languages referenced frequently papers languages catch languages interesting type structures missed
 
 40   Q0   CACM-2406   1   1.590953373440981   Stop_RM_TF_IDF
 40   Q0   CACM-2651   2   1.555052094940435   Stop_RM_TF_IDF
@@ -4308,7 +4308,7 @@ Query:  list all articles dealing with data types in the following languages tha
 ----------------------------------------------------------------------------------
 
 
-Query:  theory of distributed systems and databases subtopics of special interest include reliability and fault tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520
+Query:  theory distributed systems databases subtopics special interest include reliability fault tolerance distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel systems theory communicating processes protocols box 2158 yale station haven conn 06520
 
 41   Q0   CACM-2128   1   1.1617448394016643   Stop_RM_TF_IDF
 41   Q0   CACM-2578   2   1.090170076476563   Stop_RM_TF_IDF
@@ -4416,7 +4416,7 @@ Query:  theory of distributed systems and databases subtopics of special interes
 ----------------------------------------------------------------------------------
 
 
-Query:  computer performance evaluation techniques using pattern recognition and clustering la 70803
+Query:  computer performance evaluation techniques pattern recognition clustering la 70803
 
 42   Q0   CACM-2318   1   1.4344903846512909   Stop_RM_TF_IDF
 42   Q0   CACM-0436   2   1.1970011610897575   Stop_RM_TF_IDF
@@ -4524,7 +4524,7 @@ Query:  computer performance evaluation techniques using pattern recognition and
 ----------------------------------------------------------------------------------
 
 
-Query:  analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
+Query:  analysis perception shape humans computers shape descriptions shape recognition computer dimensional shapes measures circularity shape matching
 
 43   Q0   CACM-1554   1   1.2017793037888738   Stop_RM_TF_IDF
 43   Q0   CACM-2825   2   1.1482304441648532   Stop_RM_TF_IDF
@@ -4632,7 +4632,7 @@ Query:  analysis and perception of shape by humans and computers shape descripti
 ----------------------------------------------------------------------------------
 
 
-Query:  texture analysis by computer digitized texture analysis texture synthesis perception of texture
+Query:  texture analysis computer digitized texture analysis texture synthesis perception texture
 
 44   Q0   CACM-2825   1   1.1482304441648532   Stop_RM_TF_IDF
 44   Q0   CACM-0525   2   1.047376015953538   Stop_RM_TF_IDF
@@ -4740,7 +4740,7 @@ Query:  texture analysis by computer digitized texture analysis texture synthesi
 ----------------------------------------------------------------------------------
 
 
-Query:  the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
+Query:  operations research models optimize information system performance includes fine tuning decisions secondary index selection reorganization distributed databases
 
 45   Q0   CACM-2318   1   1.9930400703962352   Stop_RM_TF_IDF
 45   Q0   CACM-2984   2   1.5574490127969718   Stop_RM_TF_IDF
@@ -4848,7 +4848,7 @@ Query:  the use of operations research models to optimize information system per
 ----------------------------------------------------------------------------------
 
 
-Query:  the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
+Query:  application fuzzy subset theory clustering information retrieval problems includes performance evaluation automatic indexing considerations
 
 46   Q0   CACM-1457   1   1.4731728871427676   Stop_RM_TF_IDF
 46   Q0   CACM-2278   2   1.3930238885801913   Stop_RM_TF_IDF
@@ -4956,7 +4956,7 @@ Query:  the application of fuzzy subset theory to clustering and information ret
 ----------------------------------------------------------------------------------
 
 
-Query:  the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
+Query:  bayesian decision models optimize information retrieval system performance includes stopping rules determine user cease scanning output retrieval search
 
 47   Q0   CACM-2318   1   1.9930400703962352   Stop_RM_TF_IDF
 47   Q0   CACM-2278   2   1.6922741788526308   Stop_RM_TF_IDF
@@ -5064,7 +5064,7 @@ Query:  the use of bayesian decision models to optimize information retrieval sy
 ----------------------------------------------------------------------------------
 
 
-Query:  the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
+Query:  computer science principles data structures numerical methods generating optimization linear programming algorithms includes issues khachian russian ellipsoidal algorithm complexity algorithms
 
 48   Q0   CACM-1990   1   2.16692604890252   Stop_RM_TF_IDF
 48   Q0   CACM-2509   2   2.0440688933935554   Stop_RM_TF_IDF
@@ -5172,7 +5172,7 @@ Query:  the use of computer science principles e g data structures numerical met
 ----------------------------------------------------------------------------------
 
 
-Query:  the role of information retrieval in knowledge based systems i e expert systems
+Query:  role information retrieval knowledge based systems expert systems
 
 49   Q0   CACM-0651   1   1.5710640239303069   Stop_RM_TF_IDF
 49   Q0   CACM-2278   2   1.3930238885801913   Stop_RM_TF_IDF
@@ -5280,7 +5280,7 @@ Query:  the role of information retrieval in knowledge based systems i e expert 
 ----------------------------------------------------------------------------------
 
 
-Query:  parallel processors in information retrieval
+Query:  parallel processors information retrieval
 
 50   Q0   CACM-2278   1   1.3930238885801913   Stop_RM_TF_IDF
 50   Q0   CACM-0891   2   1.1623306803125888   Stop_RM_TF_IDF
@@ -5388,7 +5388,7 @@ Query:  parallel processors in information retrieval
 ----------------------------------------------------------------------------------
 
 
-Query:  parallel processors and paging algorithms
+Query:  parallel processors paging algorithms
 
 51   Q0   CACM-2022   1   1.0979801352954799   Stop_RM_TF_IDF
 51   Q0   CACM-2085   2   1.0979801352954799   Stop_RM_TF_IDF
@@ -5496,7 +5496,7 @@ Query:  parallel processors and paging algorithms
 ----------------------------------------------------------------------------------
 
 
-Query:  modelling and simulation in agricultural ecosystems
+Query:  modelling simulation agricultural ecosystems
 
 52   Q0   CACM-2749   1   0.6547553077001933   Stop_RM_TF_IDF
 52   Q0   CACM-2721   2   0.6244562295041706   Stop_RM_TF_IDF
@@ -5604,7 +5604,7 @@ Query:  modelling and simulation in agricultural ecosystems
 ----------------------------------------------------------------------------------
 
 
-Query:  mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210
+Query:  mathematical induction group theory integers modulo probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210
 
 53   Q0   CACM-1887   1   1.397727547472331   Stop_RM_TF_IDF
 53   Q0   CACM-2506   2   1.297863894913765   Stop_RM_TF_IDF
@@ -5712,7 +5712,7 @@ Query:  mathematical induction group theory integers modulo m probability binomi
 ----------------------------------------------------------------------------------
 
 
-Query:  semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
+Query:  semantics programming languages including abstract specifications data types denotational semantics proofs correctness hoare dijkstra university massachusetts amherst ma 01003
 
 54   Q0   CACM-2295   1   1.8094503727689697   Stop_RM_TF_IDF
 54   Q0   CACM-2958   2   1.7525492077284603   Stop_RM_TF_IDF
@@ -5820,7 +5820,7 @@ Query:  semantics of programming languages including abstract specifications of 
 ----------------------------------------------------------------------------------
 
 
-Query:  anything dealing with star height of regular languages or regular expressions or regular events
+Query:  dealing star height regular languages regular expressions regular events
 
 55   Q0   CACM-0249   1   0.8859492243911267   Stop_RM_TF_IDF
 55   Q0   CACM-2316   2   0.8239827204185035   Stop_RM_TF_IDF
@@ -5928,7 +5928,7 @@ Query:  anything dealing with star height of regular languages or regular expres
 ----------------------------------------------------------------------------------
 
 
-Query:  articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
+Query:  articles relation algebraic theory semigroups monoids study automata regular languages
 
 56   Q0   CACM-2327   1   1.4208306783410967   Stop_RM_TF_IDF
 56   Q0   CACM-1678   2   0.9851151066896895   Stop_RM_TF_IDF
@@ -6036,7 +6036,7 @@ Query:  articles relation the algebraic theory of semigroups and monoids to the 
 ----------------------------------------------------------------------------------
 
 
-Query:  abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
+Query:  abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629-630 backus de millo lipton perlis
 
 57   Q0   CACM-3155   1   2.094752031907076   Stop_RM_TF_IDF
 57   Q0   CACM-0223   2   1.9336172602219164   Stop_RM_TF_IDF
@@ -6144,7 +6144,7 @@ Query:  abstracts of articles j backus can programming be liberated from the von
 ----------------------------------------------------------------------------------
 
 
-Query:  algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student s t test wilcoxon and sign tests multivariate and univariate components can be included
+Query:  algorithms statistical packages anova regression squares generalized linear models system design capabilities statistical formula interest student test wilcoxon sign tests multivariate univariate components included
 
 58   Q0   CACM-2318   1   1.3711469540833896   Stop_RM_TF_IDF
 58   Q0   CACM-1344   2   1.232807488973858   Stop_RM_TF_IDF
@@ -6252,7 +6252,7 @@ Query:  algorithms or statistical packages for anova regression using least squa
 ----------------------------------------------------------------------------------
 
 
-Query:  dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
+Query:  dictionary construction accessing methods fast retrieval words lexical items morphologically related information hashing indexing methods applied english spelling natural language problems
 
 59   Q0   CACM-1681   1   1.4303871156019656   Stop_RM_TF_IDF
 59   Q0   CACM-2278   2   1.3930238885801913   Stop_RM_TF_IDF
@@ -6360,7 +6360,7 @@ Query:  dictionary construction and accessing methods for fast retrieval of word
 ----------------------------------------------------------------------------------
 
 
-Query:  hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
+Query:  hardware software relating database management systems database packages back end computers special associative hardware microcomputers attached disk heads things rap relational network codasyl hierarchical models systems system ims adabas total
 
 60   Q0   CACM-2311   1   1.767106269144901   Stop_RM_TF_IDF
 60   Q0   CACM-2318   2   1.5457096234089793   Stop_RM_TF_IDF
@@ -6468,7 +6468,7 @@ Query:  hardware and software relating to database management systems database p
 ----------------------------------------------------------------------------------
 
 
-Query:  information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co citations the vector space model boolean search methods using inverted files feedback etc salton g
+Query:  information retrieval articles gerard salton clustering bibliographic coupling citations citations vector space model boolean search methods inverted feedback salton
 
 61   Q0   CACM-2278   1   1.6922741788526308   Stop_RM_TF_IDF
 61   Q0   CACM-0634   2   1.6758016255256607   Stop_RM_TF_IDF
@@ -6576,7 +6576,7 @@ Query:  information retrieval articles by gerard salton or others about clusteri
 ----------------------------------------------------------------------------------
 
 
-Query:  results relating parallel complexity theory both for pram s and uniform circuits
+Query:  results relating parallel complexity theory pram uniform circuits
 
 62   Q0   CACM-2932   1   0.9557469427661225   Stop_RM_TF_IDF
 62   Q0   CACM-2327   2   0.8971312119723845   Stop_RM_TF_IDF
@@ -6684,7 +6684,7 @@ Query:  results relating parallel complexity theory both for pram s and uniform 
 ----------------------------------------------------------------------------------
 
 
-Query:  algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
+Query:  algorithms parallel computation especially comparisons parallel sequential algorithms
 
 63   Q0   CACM-3061   1   0.9356190064103302   Stop_RM_TF_IDF
 63   Q0   CACM-0371   2   0.8393203178442252   Stop_RM_TF_IDF
@@ -6792,7 +6792,7 @@ Query:  algorithms for parallel computation and especially comparisons between p
 ----------------------------------------------------------------------------------
 
 
-Query:  list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
+Query:  list articles el1 ecl el1 el 1 don remember
 
 64   Q0   CACM-2513   1   1.018508256422523   Stop_RM_TF_IDF
 64   Q0   CACM-1588   2   0.7746400823495245   Stop_RM_TF_IDF
