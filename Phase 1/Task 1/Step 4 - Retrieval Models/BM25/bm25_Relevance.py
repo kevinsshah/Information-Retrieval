@@ -67,9 +67,9 @@ def populate_R_dict():
             R[qid] = []
             R[qid].append(rel_doc)
     query_ids = []
-    for item in queries:
+    for item in queries: # get all the query ids
         query_ids .append(item.split("||")[0])
-    for id in query_ids:
+    for id in query_ids: # for all queries who does not have relevance information, R[qid] = 0
         if id not in R.keys():
             R[id] = []
 
@@ -80,19 +80,19 @@ def populate_r_dict():
     global queries
     for query in queries:
         row = query.split("||")
-        qid = row[0]
+        qid = row[0] # get the query id
         if qid not in r.keys():
-            r[qid] = {}
-        rel_doc_set = R[qid]
+            r[qid] = {} # create entry in the dictionary
+        rel_doc_set = R[qid] # contains all the relevant documents for this query (qid)
         query_text = row[1]
         query_text = query_text.split(" ")
         for term in query_text:
             if term in index:
                 doc_set = set()
                 inverted_list = index[term]
-                for item in inverted_list:
+                for item in inverted_list: # fetch all documents containing this term
                     doc_set.add(item['docid'])
-                value = len(doc_set.intersection(rel_doc_set))
+                value = len(doc_set.intersection(rel_doc_set)) # fetch all relevant documents containing this term
                 r[qid][term] = value
 
 
@@ -177,7 +177,7 @@ def calculate_scores():
     # loop over all the queries
     for query in queries:
         calculate_score(output,query)
-        print("Done " + query)
+        #print("Done " + query)
     output.close()
 
 
