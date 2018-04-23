@@ -13,6 +13,9 @@ index = {} # dict for storing the index
 K = {} # dict for storing K value for each document
 doc_length = {} # dict for storing number of terms in a document
 R = {} # dict for storing the relevant documents of a query
+r = {} # dict for storing the number of relevant documents containing a particular query term i
+queries = [] # list of queries
+
 
 # search if a given document is present in the inverted list of given term
 def search(key,value,lst):
@@ -48,6 +51,7 @@ def populate_dicts():
 
 # Use file cacm.rel.txt to build the relevance information dictionary
 def populate_R_dict():
+    global queries
     rel_file = open("cacm.rel.txt","r",encoding='utf-8')
     rel_content = rel_file.read()
     rel_file.close()
@@ -62,26 +66,34 @@ def populate_R_dict():
         else:
             R[qid] = []
             R[qid].append(rel_doc)
+    query_ids = []
+    for item in queries:
+        query_ids .append(item.split("||")[0])
+    for id in query_ids:
+        if id not in R.keys():
+            R[id] = []
 
 
-# calculates r (in the formula for bm25) for given query qid and term
-def compute_r(term,qid):
-    r =0
-    rel_doc_list = R[qid] # fetch the list of relevant documents for qid
-    for doc in rel_doc_list:
-        each = doc.split("-")
-        doc_id = each[1]
-        if len(doc_id) != 4: # handle CACM-XXX where len(XXX) is less than 4
-            while (len(doc_id)!=4):
-                doc_id = "0" +doc_id
-        doc = each[0]+"-"+doc_id
-        f = open("../../Step 1-Corpus Generation/Corpus/" + doc + ".txt",'r',encoding='utf-8')
-        content =f.read()
-        f.close()
-        content = content.split()
-        if term in content: # if this relevant doc contains the term increment r by 1
-            r+=1
-    return r
+# build the dictionary that contains query X as a key and value as dictionary that contains every query term in X as
+#   a key with r (number of relevant documents containing this term) as its value.
+def populate_r_dict():
+    global queries
+    for query in queries:
+        row = query.split("||")
+        qid = row[0]
+        if qid not in r.keys():
+            r[qid] = {}
+        rel_doc_set = R[qid]
+        query_text = row[1]
+        query_text = query_text.split(" ")
+        for term in query_text:
+            if term in index:
+                doc_set = set()
+                inverted_list = index[term]
+                for item in inverted_list:
+                    doc_set.add(item['docid'])
+                value = len(doc_set.intersection(rel_doc_set))
+                r[qid][term] = value
 
 
 # calculate bm25 score for a single query and write it to output file
@@ -104,7 +116,6 @@ def calculate_score(output,query):
         score = 0
         for term in qterms: # iterate over all terms in query
             if term in index:
-                r = compute_r(term,qid)
                 inverted_list = index[term] # fetch inverted list of current term
                 n = len(inverted_list)
                 f = 0 # initialize tf in a document to 0
@@ -114,7 +125,8 @@ def calculate_score(output,query):
                 if doc_index != -1:
                     f = index[term][doc_index]['tf']
                 # calculate bm25 score by formula
-                a = ((r+0.5)/(len(R[qid])-r+0.5))/((n-r+0.5)/(N-n-len(R[qid])+r+0.5))
+                a = ((r[qid][term]+0.5)/(len(R[qid])-r[qid][term]+0.5))/\
+                    ((n-r[qid][term]+0.5)/(N-n-len(R[qid])+r[qid][term]+0.5))
                 first = math.log(a)
                 second = ((k1+1)*f)/(value+f)
                 third = ((k2+1)*qf[term])/(k2+qf[term])
@@ -155,20 +167,12 @@ def create_index_dict():
             docid = posting[0]
             tf = int(posting[1])
             index[term].append({'docid':docid,'tf':tf})
-
     index_file.close()
 
 
 # calculate scores for all the queries from cleanQueries.txt
 def calculate_scores():
-    # get all queries from file
-    paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
-    paths = os.path.join(paths, "Step 3- Query Cleaning")
-    path = open(os.path.join(paths,"cleanQueries.txt"),'r',encoding='utf-8')
-    content = path.read()
-    path.close()
-    queries = content.split("\n")
-    queries = [q for q in queries if q!=""]
+    global queries
     output = open("BM25Scores_Relevance.txt",'w',encoding='utf=8')
     # loop over all the queries
     for query in queries:
@@ -177,8 +181,23 @@ def calculate_scores():
     output.close()
 
 
+# get list of queries
+def get_queries():
+    global queries
+    # get all queries from file
+    paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
+    paths = os.path.join(paths, "Step 3- Query Cleaning")
+    path = open(os.path.join(paths,"cleanQueries.txt"),'r',encoding='utf-8')
+    content = path.read()
+    path.close()
+    queries = content.split("\n")
+    queries = [q for q in queries if q!=""]
+
+
 if __name__ == "__main__":
     create_index_dict() # retrieve index from file
+    get_queries()
     populate_dicts() # populate K and doc_length dicts
     populate_R_dict() # populate R dict containing relevance information
+    populate_r_dict()  # compute r for every query term of each query
     calculate_scores()
