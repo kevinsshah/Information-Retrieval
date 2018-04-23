@@ -8,12 +8,11 @@ k1 = 1.2
 b = 0.75
 k2 = 100
 N = 3204
-r = 0
-R = 0
 
 index = {} # dict for storing the index
-K = {} # dicy for storing K value for each document
+K = {} # dict for storing K value for each document
 doc_length = {} # dict for storing number of terms in a document
+R = {} # dict for storing the relevant documents of a query
 
 # search if a given document is present in the inverted list of given term
 def search(key,value,lst):
@@ -47,6 +46,45 @@ def populate_dicts():
         K[key] = k1*((1-b) + (b*ratio))
 
 
+# Use file cacm.rel.txt to build the relevance information dictionary
+def populate_R_dict():
+    rel_file = open("cacm.rel.txt","r",encoding='utf-8')
+    rel_content = rel_file.read()
+    rel_file.close()
+    rel_content = rel_content.split("\n")
+    rel_content = [w for w in rel_content if w!=""]
+    for line in rel_content:
+        row = line.split(" ")
+        qid = row[0]
+        rel_doc = row[2]
+        if qid in R.keys():
+            R[qid].append(rel_doc)
+        else:
+            R[qid] = []
+            R[qid].append(rel_doc)
+
+
+# calculates r (in the formula for bm25) for given query qid and term
+def compute_r(term,qid):
+    r =0
+    rel_doc_list = R[qid] # fetch the list of relevant documents for qid
+    for doc in rel_doc_list:
+        each = doc.split("-")
+        doc_id = each[1]
+        if len(doc_id) != 4: # handle CACM-XXX where len(XXX) is less than 4
+            while (len(doc_id)!=4):
+                doc_id = "0" +doc_id
+        doc = each[0]+"-"+doc_id
+        f = open("../../Step 1-Corpus Generation/Corpus/" + doc + ".txt",'r',encoding='utf-8')
+        content =f.read()
+        f.close()
+        content = content.split()
+        if term in content: # if this relevant doc contains the term increment r by 1
+            r+=1
+    return r
+
+
+# calculate bm25 score for a single query and write it to output file
 def calculate_score(output,query):
     query = query.split("||") # separate query id and query
     qid = query[0]
@@ -62,10 +100,11 @@ def calculate_score(output,query):
         qf[q] += 1
 
     bm_score = {} # dict for storing the bm scores of each document
-    for key,value in K.items(): # iterate over all terms in query
+    for key,value in K.items(): # iterate over all documents
         score = 0
-        for term in qterms:
+        for term in qterms: # iterate over all terms in query
             if term in index:
+                r = compute_r(term,qid)
                 inverted_list = index[term] # fetch inverted list of current term
                 n = len(inverted_list)
                 f = 0 # initialize tf in a document to 0
@@ -75,7 +114,7 @@ def calculate_score(output,query):
                 if doc_index != -1:
                     f = index[term][doc_index]['tf']
                 # calculate bm25 score by formula
-                a = ((r+0.5)/(R-r+0.5))/((n-r+0.5)/(N-n-R+r+0.5))
+                a = ((r+0.5)/(len(R[qid])-r+0.5))/((n-r+0.5)/(N-n-len(R[qid])+r+0.5))
                 first = math.log(a)
                 second = ((k1+1)*f)/(value+f)
                 third = ((k2+1)*qf[term])/(k2+qf[term])
@@ -95,6 +134,7 @@ def calculate_score(output,query):
         i+=1
 
 
+# creating inverted index
 def create_index_dict():
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 2-Index Generation")
@@ -119,6 +159,7 @@ def create_index_dict():
     index_file.close()
 
 
+# calculate scores for all the queries from cleanQueries.txt
 def calculate_scores():
     # get all queries from file
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
@@ -128,14 +169,16 @@ def calculate_scores():
     path.close()
     queries = content.split("\n")
     queries = [q for q in queries if q!=""]
-    output = open("BM25Scores.txt",'w',encoding='utf=8')
+    output = open("BM25Scores_Relevance.txt",'w',encoding='utf=8')
     # loop over all the queries
     for query in queries:
         calculate_score(output,query)
+        print("Done " + query)
     output.close()
 
 
 if __name__ == "__main__":
     create_index_dict() # retrieve index from file
     populate_dicts() # populate K and doc_length dicts
+    populate_R_dict() # populate R dict containing relevance information
     calculate_scores()
