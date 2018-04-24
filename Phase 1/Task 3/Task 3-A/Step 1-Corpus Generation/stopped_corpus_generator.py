@@ -3,7 +3,7 @@ import os
 
 # File paths for Corpus and stop words
 STOP_WORDS_REPO = "common_words"
-INPUT_FOLDER = os.getcwd() + "/" + "Corpus"
+INPUT_FOLDER = "../../../Task 1/Step 1-Corpus Generation/Corpus"
 OUTPUT_FOLDER = os.getcwd() + "/" + "Stop_Corpus"
 
 def corpus_generator():
