@@ -110,14 +110,13 @@ def export_score_list(fd, generated_score_list, id_num):
     final_ranked_list = sorted(generated_score_list.items(), key=lambda x: x[1], reverse=True)
 
     search_term = str(original_query_list[id_num - 1])
-    fd.write("Query:  " + search_term)
-    fd.write("\n\n")
+    fd.write("\n\n" + search_term + "\n")
 
     # The top 100 rankings is written in "query_id Q0 doc_id rank TF_IDF_score system_name" format
     for RANKING in range(100):
         try:
-            text = str(id_num) + "   Q0   " + str(final_ranked_list[RANKING][0]) + "   " + str(RANKING + 1) + "   " \
-               + str(final_ranked_list[RANKING][1]) + "   Stop_RM_TF_IDF\n"
+            text = "\n" + str(id_num) + " Q0 " + str(final_ranked_list[RANKING][0]) + " " + str(RANKING + 1) + " " \
+               + str(final_ranked_list[RANKING][1]) + " STOP_RM_TF_IDF"
             fd.write(text)
         except IndexError:
             return
@@ -132,7 +131,6 @@ def calculate_query_score():
     for query_line in per_query_split_list:
         generated_score_list = calc_score_per_query(query_line)
         export_score_list(fd, generated_score_list, id_num)
-        fd.write("\n\n\n----------------------------------------------------------------------------------\n\n\n")
         id_num += 1
 
     fd.close()
