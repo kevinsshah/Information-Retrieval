@@ -95,10 +95,10 @@ def generate_snippets():
     global STOP_WORDS
 
     # file to write the snippets
-    output = open("Snippets_BM25.html", 'w', encoding='utf=8')
+    output = open("Snippets_Lucene.html", 'w', encoding='utf=8')
 
     for key, value in QUERY_LIST.items():
-        output.write("\n<br><br>" + "<U>QUERY : " + value + "</U>\n<br>")
+        output.write("\n<br>" + "<U>QUERY " + key + ") : " + value + "</U>\n<br>")
 
         for doc in query_doc_map[key]:
 
@@ -141,6 +141,7 @@ def generate_snippets():
                     output.write(line)
                     i += 1
             output.write("\n<br>")
+        output.write("<br>----------------------------------------------------------------------------------------------------------------<br>")
     output.close()
 
 
@@ -284,7 +285,6 @@ def calculate_sentence_significance(sentence, sig_words):
 
 def find_significant_words(doc, query):
     c = clean_sentence(query)
-    print(doc, c)
     return c
 
 # finding the significant words in the document
