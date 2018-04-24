@@ -180,7 +180,7 @@ def set_paths():
                 "Enter 5 for BM25 Pseudo-relevance Feedback \n" +
                 "Enter 6 for Stopped BM25\n" +
                 "Enter 7 for Stopped Smoothed Query Likelihood\n" +
-                "Enter 8 for Stopped TF-IDF\n")
+                "Enter 8 for Stopped Lucene\n")
 
     newpath = r'Precision Recall Tables/'
     if int(inp) == 1:
@@ -219,10 +219,10 @@ def set_paths():
             os.makedirs(newpath)
         inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/Query Likelihood/StopQueryLikelihoodScores.txt"
     elif int(inp) == 8:
-        newpath = newpath + '/Stopped TF-IDF/'
+        newpath = newpath + '/Stopped Lucene/'
         if not os.path.exists(newpath):
             os.makedirs(newpath)
-        inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/TF_IDF/Stop_TF_IDF_SCORE.txt"
+        inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/Lucene/Stop_Lucene_Scores.txt"
     else:
         print("Incorrect Choice. Try again!")
         exit()
