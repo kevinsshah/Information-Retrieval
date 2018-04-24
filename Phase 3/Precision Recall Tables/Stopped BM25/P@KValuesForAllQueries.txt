@@ -229,20 +229,6 @@ Precision at rank 20: 0.050000
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-For query 34: currently interested in isolation of root of polynomial there is an old more recent material heindel l
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 35: probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
 For query 36: fast algorithm for context free language recognition or parsing
 
 Precision at rank 5: 0.400000
@@ -278,13 +264,6 @@ Precision at rank 20: 0.100000
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-For query 41: theory of distributed systems and databases subtopics of special interest include reliability and fault tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
 For query 42: computer performance evaluation techniques using pattern recognition and clustering la 70803
 
 Precision at rank 5: 0.000000
@@ -313,20 +292,6 @@ Precision at rank 20: 0.300000
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-For query 46: the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 47: the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
 For query 48: the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
 
 Precision at rank 5: 0.400000
@@ -335,55 +300,6 @@ Precision at rank 20: 0.100000
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 For query 49: the role of information retrieval in knowledge based systems i e expert systems
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 50: parallel processors in information retrieval
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 51: parallel processors and paging algorithms
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 52: modelling and simulation in agricultural ecosystems
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 53: mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 54: semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 55: anything dealing with star height of regular languages or regular expressions or regular events
-
-Precision at rank 5: 0.000000
-Precision at rank 20: 0.000000
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-For query 56: articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
 
 Precision at rank 5: 0.000000
 Precision at rank 20: 0.000000
