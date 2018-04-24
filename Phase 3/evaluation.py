@@ -17,7 +17,7 @@ inputpath = r"BM25/BM25Scores_Relevance.txt"
 
 # building the mapping queryId -> List of top 100 docs
 def build_queryId_top100Docs():
-    paths = os.path.abspath(os.path.join(os.getcwd(), "../Phase 1/Task 1/Step 4 - Retrieval Models/")+inputpath)
+    paths = os.path.abspath(os.path.join(os.getcwd(), "../")+inputpath)
     search_res = open(paths, 'r', encoding='utf-8')
     data = search_res.read()
     lines = data.split("\n")
@@ -182,9 +182,70 @@ def calculate_MAP_MRR_PatK():
     f2.close()
 
 
+# set paths based on user input
+def set_paths():
+
+    global newpath
+    global inputpath
+
+    inp = input("Decide the model on which you want to perform evaluation:\n"
+                + "Enter 1 for Baseline BM25\n" +
+                "Enter 2 for Baseline Lucene\n" +
+                "Enter 3 for Baseline Smoothed Query Likelihood\n" +
+                "Enter 4 for Baseline TF-IDF\n" +
+                "Enter 5 for BM25 Pseudo-relevance Feedback \n" +
+                "Enter 6 for Stopped BM25\n" +
+                "Enter 7 for Stopped Smoothed Query Likelihood\n" +
+                "Enter 8 for Stopped TF-IDF\n")
+
+    newpath = r'Precision Recall Tables/'
+    if int(inp) == 1:
+        newpath = newpath +'/BM25 (No-Relevance)/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/BM25/BM25Scores_NoRelevance.txt"
+    elif int(inp) == 2:
+        newpath = newpath + '/Baseline Lucene/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/Lucene/Lucene_Scores.txt"
+    elif int(inp) == 3:
+        newpath = newpath + '/Baseline Smoothed Query Likelihood/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/QueryLiklihoodScores.txt"
+    elif int(inp) == 4:
+        newpath = newpath + '/Baseline TF-IDF/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/TF_IDF/TF_IDF_SCORE.txt"
+    elif int(inp) == 5:
+        newpath = newpath + '/BM25 Pseudo-relevance Feedback/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 2/Step 2 - Retrieval PRF/BM25Scores_NoRelevance_PRF.txt"
+    elif int(inp) == 6:
+        newpath = newpath + '/Stopped BM25/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/BM25/Stop_BM25Scores_NoRelevance.txt"
+    elif int(inp) == 7:
+        newpath = newpath + '/Stopped Smoothed Query Likelihood/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/Query Likelihood/StopQueryLikelihoodScores.txt"
+    elif int(inp) == 8:
+        newpath = newpath + '/Stopped TF-IDF/'
+        if not os.path.exists(newpath):
+            os.makedirs(newpath)
+        inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/TF_IDF/Stop_TF_IDF_SCORE.txt"
+
+
 if __name__ == "__main__":
+    set_paths()
     build_queryId_query()
     build_queryId_top100Docs()
     build_queryId_relevantDocs()
     calculate_precision_and_recall()
     calculate_MAP_MRR_PatK()
+

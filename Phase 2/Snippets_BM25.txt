@@ -1,0 +1,2048 @@
+
+QUERY : what articles exist which deal with tss time sharing system an operating system for ibm computers
+
+DCOCUMENT: CACM-2319
+...severe interactions between the various subsystems of an <b>operating</b> system, an overall model of the total <b>system</b> must be developed to be able to analyze and design the performance aspects of an <b>operating</b> <b>system</b> although such total <b>system</b> designs are exceptional today, it is projected that they will become increasingly more common and necessary in the near ...great <b>deal</b> of information and a large number of models for subsystems have been developed, gaps still <b>exist</b> in out 
+
+DCOCUMENT: CACM-1657
+...simple mechanism is described for the execution of part of a program with its own memory ...32 4.31 
+
+DCOCUMENT: CACM-2629
+...offers a number of features seldom found even in larger <b>operating</b> systems, including: (1) a hierarchical file <b>system</b> incorporating demountable volumes; (2) compatible file, device, and inter-process I/O; (3) the ability to initiate asynchronous processes; (4) <b>system</b> command language selectable on a per-user basis; and (5) over 100 subsystems including a dozen languageshis paper discusses the nature and implementation of the file <b>system</b> and of the user command ...30 
+
+DCOCUMENT: CACM-1938
+...terminal user's ability to utilize the full resources of the <b>system</b> that makes quantitative evaluation of time-sharing systems particularly ...defined in this article, are those multiaccess systems which permit a terminal user to utilize essentially the full resources of the <b>system</b> while <b>sharing</b> its <b>time</b> with other terminal 
+
+DCOCUMENT: CACM-2218
+...<b>system</b> is based upon the use of variable sized segments and a dynamic overlay procedure, data is also presented which provides some indication of the effectiveness of this type of organization in a time-sharing ...vehicle for this investigation was a SIMULA based simulation model reflecting an early framework for a planned Burroughs B6500 time-sharing 
+
+DCOCUMENT: CACM-2379
+...microprogram defines a machine with some unusual architectural feature; the software exploits these features to define the <b>operating</b> <b>system</b> as ...produced to test the effect of machine architecture on complexity of 
+
+DCOCUMENT: CACM-1827
+...<b>time</b> of occurrence of each event is accurately recorded, and data items are further identified by job and ...general guidelines are offered for the construction of future monitoring 
+
+DCOCUMENT: CACM-1410
+...optimization of time-shared <b>system</b> performance requires the description of the stochastic processes governing the user inputs and the program ...data obtained appear to justify satisfactorily the common assumption that the interarrival times are serially 
+
+DCOCUMENT: CACM-1605
+...considered to be definitive of "system effectiveness," and analysis of variance techniques were employed to estimate <b>system</b> differences in these variables after differences due to the design factors had been ...analysis of the experimental results provided strong evidence of important <b>system</b> differences, as well as a critique of the experimental design itself with implications for further 
+
+DCOCUMENT: CACM-1519
+...handle a large number of online console users while at the same <b>time</b> running several off line (background) ...online users and off line jobs use a 
+
+QUERY : i am interested in articles written either by prieve or udo pooch prieve b pooch u
+
+DCOCUMENT: CACM-2434
+...modified model, Dening's results on page residency are rederived and reconsidered for selecting the working set ...method for selecting the working set parameter, which uses interreference intervals, is 
+
+DCOCUMENT: CACM-3078
+...major purpose of this paper is to demonstrate that the difficulties of obtaining analytical solutions to Markov processes can be considerably reduced by the application of symbol manipulation ...physical systems can be modeled by Markov and semi-Markov processes, the potential range of application of these techniques is much wider than the problem of availability 
+
+DCOCUMENT: CACM-2863
+...criterion for comparing variable space page replacement algorithms is ...demand paging, performance measurement, multilevel memory systems, virtual memory, working set, page replacement algorithms, 
+
+DCOCUMENT: CACM-3129
+...transaction (or job) generates a demand vector which designates the space required in each file for record ...paper considers several criteria for best allocating storage 
+
+DCOCUMENT: CACM-1519
+...handle a large number of online console users while at the same time running several off line (background) ...online users and off line jobs use a 
+
+DCOCUMENT: CACM-0497
+...confined himself primarily to the analytical derivation, suggesting briefly, however, how the solution of the equation derived for each particular point of subdivision u(i) could be reduced to a discrete ...shown how Bellman's method may be applied to the curve-fitting problem when the additional constraints are added that the ends of the line segments must be on the 
+
+DCOCUMENT: CACM-1977
+...interactive program with a graphical display has been developed for the approximation of data by means of a linear combination of functions (including splines) selected by the ...data fitting, functional approximation, linear programming, interactive graphical display, spline 
+
+DCOCUMENT: CACM-0727
+...numerous examples and mathematical theory are suppliedxtension of the method in a natural way to n-dimensional problems is indicated by ...problems for Delta(u)=F(u), Fu >= 0, are treated numerically by an exceptionally fast, exceptionally accurate numerical 
+
+DCOCUMENT: CACM-3144
+...model reveals the anatomy of interpreters and how these differ from procedures, and exhibits links to protection domains and multiprocessor ...system is a system in which programs execute by virtue of being 
+
+DCOCUMENT: CACM-1364
+...properties were obtained by means of numerical ...authors point out some interesting properties of the 
+
+QUERY : intermediate languages used in construction of multi targeted compilers tcoll
+
+DCOCUMENT: CACM-1988
+...formalism here might be used to define and answer such a question as "Can one do bootstrapping using a meta-compiler whose metaphase is interpretive?" In addition an algorithm is presented for deciding whether or not a given system can be produced from a given set of component ...formalism is presented for describing the actions of processors for programming languages-compilers, interpreters, assemblers-and their interactions in complex systems such as compiler-compilers or extendible 
+
+DCOCUMENT: CACM-2112
+...framework described string recognition and parsing may be treated as special cases of the translation ...formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+
+DCOCUMENT: CACM-0265
+...symbol manipulation, bit manipulation and expanded character set input-output, and visual ...paper describes some subroutines, coded in symbolic <b>languages</b> and for use within Fortran coded programs, to 
+
+DCOCUMENT: CACM-1304
+...basic features, system characteristics and the control algorithm for a multi-programming system with rapid turnaround ...1978 
+
+DCOCUMENT: CACM-2061
+...syntactic analysis, parser construction, syntactical analyzer construction, generators, <b>compiler</b> compilers, <b>compiler</b> writing systems, translator writing systems metacompilers, context-free grammars, formal languages, pushdown ...algorithm is described; it essentially carries out an exhaustive study of all possible runs of the pushdown automata generating the reduction 
+
+DCOCUMENT: CACM-2579
+...paper compares register allocation based on usage counts to other commonly used register allocation techniques, and presents evidence which shows that the usage count technique is significantly better than these other ...paper introduces the notion of usage counts, shows how usage counts can be developed by algorithms that eliminate redundant computations, and describes how usage counts can provide the basis for register 
+
+DCOCUMENT: CACM-2411
+...control structures, flowcharts, goto statements, inductive assertion, least fix points, optimization in compilers, program documentation, program flow graphs, ...12 4.22 
+
+DCOCUMENT: CACM-0062
+...1978 ...
+
+DCOCUMENT: CACM-1496
+...semantic meta-language has been developed for representing the meanings of statements in a large class of computer ...informal discussion of the meta-language based on the example of a complete translator for a small <b>language</b> is 
+
+DCOCUMENT: CACM-2666
+...nondiscrete solution can be interpreted as a set of timetables, differing from week to week, which together satisfy the long-term requirements of the ...discrete problem may have no feasible solution, there may exist a solution to the equivalent 
+
+QUERY : i m interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing are examples of my interests
+
+DCOCUMENT: CACM-2377
+...system which uses segmentation as a memory addressing scheme, protection can be achieved in part by associating concentric rings of decreasing access privilege with a ...paper describes hardware processor <b>mechanisms</b> for implementing these 
+
+DCOCUMENT: CACM-2844
+...discrete event simulation, event-scanning mechanisms, priority queues, ...34 
+
+DCOCUMENT: CACM-2939
+...permits incremental program development with <b>complete</b> type checking performed at compile time, is also ...programming languages, data types, data abstractions, control abstractions, programming methodology, separate 
+
+DCOCUMENT: CACM-3128
+...relationship of the <b>mechanism</b> to protection <b>mechanisms</b> in the system is explained; in particular, eventcounts are shown to be applicable to situations where confinement of information ...control of ordering seems to simplify correctness arguments and also simplifies <b>implementation</b> in <b>distributed</b> 
+
+DCOCUMENT: CACM-2905
+...shown to be <b>complete</b> in the sense that for every set I the smallest table in which the elements of I can be stored and from which they can be retrieved by using a perfect hashing function constructed by this method can be ...refinement of hashing which allows retrieval of an item in a static table with a single probe is 
+
+DCOCUMENT: CACM-2840
+...model of protection <b>mechanisms</b> in computing systems is presented and its appropriateness is ...<b>problem</b> for protection systems under this model is to determine in a given situation whether a subject can acquire a particular right to an 
+
+DCOCUMENT: CACM-0483
+...60 is defined partly by formal <b>mechanisms</b> of phrase structure grammar, partly by informally stated ...shown that no formal <b>mechanisms</b> of the type used are sufficient to 
+
+DCOCUMENT: CACM-2558
+...attempt is made to distinguish between access limitation and ...access keys, access control authentication, 
+
+DCOCUMENT: CACM-3043
+...concept is proposed for real-time applications controlled by microcomputer networks with <b>distributed</b> ...communicate and synchronize by means of <b>procedure</b> <b>calls</b> and guarded 
+
+DCOCUMENT: CACM-2342
+...0 4.10 4.30 4.32 4.42 5.24 ...formation of partial rules and the calculation of transition rules are both applicable to hardware <b>processes</b> as well as to software processes, and symmetry between <b>processes</b> is not 
+
+QUERY : i d like papers on design and implementation of editing interfaces window managers command interpreters etc the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
+
+DCOCUMENT: CACM-2035
+...aids program <b>design</b> by providing display scope and premarked randomly addressable LINC tapes as standard items, in an environment similar to that of a sophisticated ...focuses on the preparation and <b>editing</b> of continuously displayed 23,040-character text strings (manuscripts) which can be positioned anywhere by the <b>user</b> and edited by simply adding and deleting lines as though working directly on an elastic 
+
+DCOCUMENT: CACM-1829
+...resident auxiliary monitor which provides comprehensive managerial capability over the graphical system in response to commands from the <b>human</b> ...respond to commands from a <b>user</b> program through a similar interface, where routine calls take the place of manual 
+
+DCOCUMENT: CACM-2003
+...interactive monitor language, which is designed to perform the overall and control functions of the software system; its <b>design</b> criteria provide the <b>user</b> with commands which are both simple and efficient in order to perform all the functions needed in computer-aided ...main emphasis is given to the description of the features of the two high level <b>user</b> oriented languages, operating at different levels, on which the interaction is 
+
+DCOCUMENT: CACM-2357
+...required one man-year for initial software implementation, although basically simple, provides the necessary elements to input and modify files, submit them for batch execution, and provide results at the user's ...multiplexer designed and developed as part of the project cost one man-year for <b>design</b> and checkout, and $16,000 for parts and 
+
+DCOCUMENT: CACM-1742
+...found that successive <b>improvements</b> to the display processor <b>design</b> lie on a circular path, by making <b>improvements</b> one can return to the original simple <b>design</b> plus one new general purpose computer for each ...degree of physical separation between display and parent computer is a key factor in display processor 
+
+DCOCUMENT: CACM-2321
+...systems that combine computers, digital terminals, and communications equipment present <b>design</b> optimization problems that require reconsideration of the traditional functional responsibilities of the respective ...consideration must be given to problems of coordination, synchronization, error control, signaling, stream multiplexing, and switch control, in addition to minimizing the technological interdependence of specific subsystem 
+
+DCOCUMENT: CACM-1188
+...computer designer can benefit from using a <b>design</b> language at a higher level just as a computer <b>user</b> can benefit from a higher level ...achieve most of the purposes a translator is required to translate a <b>design</b> of computer logic into a set of Boolean 
+
+DCOCUMENT: CACM-1698
+...model we answer questions like: How many processes are suspended waiting for console input? What is the maximum rate at which a process can execute? What bounds can be set on overall buffer requirements? Answers to these and similar questions are needed in certain aspects of operating system ...claim is made that a virtual console behaves like any actual console, but the entire collection of virtual 
+
+DCOCUMENT: CACM-3050
+...<b>paper</b> presents a management game that allows the player to configure a computer system to meet a hypothetical job mix is under the control of a game administrator and can be varied to simulate a variety of real-world situations (I/O ...problems facing <b>managers</b> of computer installations is the problem of configuring the computer system to meet the demands made by the mix of jobs that the computer center must 
+
+DCOCUMENT: CACM-2299
+...<b>design</b> philosophy for developing a sophisticated utility program is illustrated by the actual <b>design</b> and <b>implementation</b> of a text ...<b>command</b> processing, context searching, executive program, garbage collection, interpreter, list processing, macro language, paging, parameter substitution, recursion, state table, storage allocation, string manipulation, text editing, virtual 
+
+QUERY : interested in articles on robotics motion planning particularly the geometric and combinatorial aspects we are not interested in the dynamics of arm motion
+
+DCOCUMENT: CACM-2826
+...compatibility with the basic key frame animation technique permits skeleton control to be applied selectively to only those components of a composite image sequence that require ...significant increase in the capability for controlling <b>motion</b> <b>dynamics</b> in key frame animation is achieved through skeleton 
+
+DCOCUMENT: CACM-0438
+...1978 ...
+
+DCOCUMENT: CACM-1543
+...means is described for extending the area of application of digital computers beyond the numerical data processing stage and reducing the need for human participation in the formulation of certain types of computer ...operation involves a formulation in terms of first- and second-order differential coefficients, it provides a good demonstration of a computer's capability to do non-numeric work and to assist in the formulation process which normally precedes the numerical data processing 
+
+DCOCUMENT: CACM-0435
+...method employing a decision matrix is presented for the handling of a standard systems programming problem,that of providing a data input ...great deal of time and effort is being spent on the development of bigger and better compiler languages, multiprogram 
+
+DCOCUMENT: CACM-2828
+...<b>geometric</b> structure inherent in the definition of the shapes of three-dimensional objects and environments is used not just to define their relative <b>motion</b> and placement, but also to assist in solving many other problems of systems for producing pictures by ...frame to frame coherence and clipping define a graphical "working set," or fraction of the total structure that should be present in primary store for immediate access by the visible surface 
+
+DCOCUMENT: CACM-1014
+...experimenter may not be <b>interested</b> in these interactions it is impossible to ignore them in most experimental designs because of the problem of getting error ...natural therefore to look to the computer to handle the bulk of work involved in computing the 
+
+DCOCUMENT: CACM-0492
+...probability distribution of the displacement of records from their calculated address, which is one less than the number of probes required to address a record, is computed on the basis of a Markov chain ...paper presents a new file addressing method based on the calculation of an address from the identification of a 
+
+DCOCUMENT: CACM-0605
+...vehicle is assigned a digital identification giving points of entry and exit, type of vehicle, desired speed, and actual speed, in proportions simulating field ...simulating traffic flow on city streets, the National Bureau of Standards has used data processing techniques to tabulate and make <b>motion</b> pictures of vehicle movements in the 
+
+DCOCUMENT: CACM-1867
+...technique of sorting, one is <b>interested</b> in the ratio L(j) of the expected length of the j-th sequence generated by the technique to the number of memory ...replacement selecting, sorting, sequence lengths, asymptotic expected length, recursion relation, generating function, meromorphic 
+
+DCOCUMENT: CACM-0695
+...programming techniques are discussed for transmitting words between disk and core storage with minimum delaying and interruption of the arithmetic ...usage are discussed separately for problem programs and for systems programs such as compilers and the supervisory 
+
+QUERY : i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault tolerance and techniques for understanding the correctness of these algorithms
+
+DCOCUMENT: CACM-3043
+...concept is proposed for real-time applications controlled by microcomputer networks with <b>distributed</b> ...<b>communicate</b> and <b>synchronize</b> by means of procedure calls and guarded 
+
+DCOCUMENT: CACM-2912
+...<b>include</b> a solution to the general problem in which a read is repeated if it might have obtained an incorrect result, and two <b>techniques</b> for transmitting messages between ...solutions do not assume any synchronizing mechanism other than data which can be written by one <b>process</b> and read by other 
+
+DCOCUMENT: CACM-2903
+...<b>algorithms</b> are then subjected to a second transformation, a method of recursion elimination called "tabulation," to produce <b>programs</b> with a very efficient running ...recursion in troduction, <b>algorithms</b> which manipulate a stack are first translated into recursive <b>algorithms</b> in which no stack operations 
+
+DCOCUMENT: CACM-3006
+...type of anomaly, for example, concerns the fact that, with certain reference strings and paging algorithms, an increase in mean memory allocation may result in an increase in <b>fault</b> ...types of anomalous behavior which may occur in paged virtual memory operating systems a 
+
+DCOCUMENT: CACM-3141
+...decentralized <b>algorithm</b> uses a <b>technique</b> of selective <b>message</b> extinction in order to achieve an average number of <b>message</b> passes of order (n ...note presents an improvement to LeLann's <b>algorithm</b> for finding the largest (or smallest) of a set of uniquely numbered <b>processes</b> arranged in a circle, in which no central controller exists and the number of <b>processes</b> is not known a 
+
+DCOCUMENT: CACM-2902
+...paper investigates the performance of 35 dynamic memory allocation <b>algorithms</b> when used to service simulation <b>programs</b> as represented by 18 test ...main taining separate free space lists for each size of memory block used tended to perform quite well 
+
+DCOCUMENT: CACM-2111
+...specialized <b>techniques</b> are shown for efficiently incorporating spelling correction <b>algorithms</b> in to compilers and operating ...systems which perform spelling correction, the number of debugging runs per <b>program</b> has been decreased, saving both programmer and machine 
+
+DCOCUMENT: CACM-0270
+...1978 ...
+
+DCOCUMENT: CACM-0371
+...2 and 3, Algorithm 15 and Algorithms 25 and ...1978 
+
+DCOCUMENT: CACM-2890
+...models show that adaptive routing does not satisfy the necessary conditions for an optimal routing, Adaptive routing tends to overuse the direct path and underuse alternate routes because it does not consider the impact of its current routing decision on the future ...modification requires the substitution of a quadratic bias term instead of a linear one in the routing table maintained at each network 
+
+QUERY : addressing schemes for resources in networks resource addressing in network operating systems
+
+DCOCUMENT: CACM-2625
+...<b>scheme</b> uses a main memory hash table for obtaining a segment's location in main memory given its unique ...hash table is avoided for recently accessed segments by means of a set of associative 
+
+DCOCUMENT: CACM-1869
+...modifications to SNOBOL are described, resulting in two desirable consequences: (1) naming constraints disappear even when there is indirect <b>addressing</b> within function definitions; and (2) there is a significant saving in the number of calls to the garbage collector, because some garbage is collected, at little expense, each time a function returns to its calling ...languages have included explicit or implicit block structures to provide a naming convenience for the 
+
+DCOCUMENT: CACM-2541
+...0 4.13 4.22 4.30 4.32 4.41 4.42 ...freedom simplified both incremental compilation and the system's <b>addressing</b> structure, and centralized the communication mechanisms enabling the construction of hierarchical 
+
+DCOCUMENT: CACM-0912
+...1978 ...
+
+DCOCUMENT: CACM-2858
+...algorithm is presented for the assignment of instruction addresses and formats under the following conditions: (1) the length of the instruction varies as a function of the distance of the instruction from its target; (2) there exists an optimality criterion which implies some preferential choices subject to the <b>addressing</b> ...achieving the smallest number of long instructions, in which case the total code length is minimized, or minimizing the assigned <b>address</b> of a specified point in the 
+
+DCOCUMENT: CACM-1785
+...storage techniques as a method for implementing the symbol tables of assemblers and compilers are reviewed and a number of ways of using them more effectively are ...scatter storage, hash addressing, searching, file searching, file addressing, storage 
+
+DCOCUMENT: CACM-2830
+...1978 ...
+
+DCOCUMENT: CACM-2194
+...paper demonstrates that a wide class of problems of this type can be formulated as covering problems solvable by means of elementary arithmetic operations on the column vectors of a ternary ...algorithm is presented for minimizing the sum of the lengths of the blocks of coding produced by an assembler or compiler when (1) the length of each computer instruction is assumed to be either "long" or "short" ("long," if the memory location addressed is more than a predetermined distance from the current location; "short," otherwise), and (2) there are blocks of instructions whose beginnings (origins) are separated by prespecified 
+
+DCOCUMENT: CACM-3083
+...owes its name to the fact that link fields are present in each cell of the hash ...7 3.73 3.74 
+
+DCOCUMENT: CACM-2991
+...buckets in the key search sequence reduce the effect of nonuniformity in file loading, and decrease the number of maximum probes needed to locate a ...combined effects of these techniques lead to improved file performance for secondary storage devices, as shown by empirical 
+
+QUERY : security considerations in local networks network operating systems and distributed systems
+
+DCOCUMENT: CACM-3068
+...verification applied to kernel architectures forms a promising method for providing uncircumventably secure, shared computer ...precise definition of data <b>security</b> is developed here in terms of a general model for <b>operating</b> 
+
+DCOCUMENT: CACM-2849
+...branching broadcast communication <b>system</b> for carrying digital data packets among locally <b>distributed</b> computing ...model for estimating performance under heavy loads and a packet protocol for error controlled communication are included for 
+
+DCOCUMENT: CACM-2372
+...<b>security</b> of an information <b>system</b> may be represented by a model matrix whose elements are decision rules and whose row and column indices are users and data ...model is used to explain <b>security</b> features of several existing systems, and serves as a framework for a proposal for general <b>security</b> <b>system</b> implementation within today's languages and <b>operating</b> 
+
+DCOCUMENT: CACM-2578
+...mutual exclusion, robustness, sharing, error recovery, <b>distributed</b> control, ...16,1978 
+
+DCOCUMENT: CACM-2621
+...discuss the selection of a suitable one-way cipher and suggest that for this purpose polynomials over a prime modulus are superior to one-way ciphers derived from Sannon ...protection of time sharing <b>systems</b> from unauthorized users is often achieved by the use of 
+
+DCOCUMENT: CACM-3082
+...concept of one event happening before another in a <b>distributed</b> <b>system</b> is examined, and is shown to define a partial ordering of the ...total ordering is illustrated with a method for solving synchronization 
+
+DCOCUMENT: CACM-2949
+...<b>distributed</b> computer network, correctness proofs, computer networks, <b>distributed</b> control, <b>network</b> topology, routing problem in networks, <b>distributed</b> <b>operating</b> system, store and forward packet switching, store and forward message switching, traffic ...major constrain ts on such a topology information scheme is that it may not involve a central 
+
+DCOCUMENT: CACM-2951
+...statistical performance evaluation tools are employed to investigate the feasibility of a dynamic response time monitor that is capable of providing comparative response time information for users wishing to process various computing applications at some <b>network</b> computing ...research clearly reveals that sufficient <b>system</b> data are currently obtainable, at least for the five diverse ARPA <b>network</b> <b>systems</b> studied in detail, to describe and predict the response time for <b>network</b> time-sharing <b>systems</b> as it depends on some measure of <b>system</b> activity or load 
+
+DCOCUMENT: CACM-3174
+...paper describes the history of the design of the password <b>security</b> scheme on a remotely accessed time-sharing ...present design was the result of countering observed attempts to penetrate the 
+
+DCOCUMENT: CACM-1928
+...main results obtained are a clear and useful separation of structural and behavioral model description, a reduction of manual tasks in converting Boolean logic into a structural model, the elimination of manual processes in achieving exclusive simulation of activity, an event-scheduling technique which does not deteriorate in economy as the event queue grows in length, and a simulation procedure which deals effectively with any mixture of serial and simultaneous ...objectives sought are improved ease and economy in model generation, economy in execution time and space, and a facility for handling simultaneous 
+
+QUERY : parallel languages languages for parallel computation
+
+DCOCUMENT: CACM-2785
+...syntax of the <b>language</b> is based on ALGOL 60, but has been extended to allow the programmer explicitly to specify the parallelism of his algorithm in terms of 64-word vectors. This paper describes the characteristics, goals and philosophy of the language, and discusses some of the problems associated with <b>parallel</b> computer ...earliest existing <b>languages</b> designed for programming the Illiac IV 
+
+DCOCUMENT: CACM-3073
+...paper suggests that input and output are basic primitives of programming and that <b>parallel</b> composition of communicating sequential processes is a fundamental program structuring ...program structures, <b>parallel</b> programming, concurrency, input, output, guarded commands, nondeterminacy, coroutines, procedures, multiple entries, multiple exits, classes, data representations, recursion, conditional critical regions, monitors, iterative 
+
+DCOCUMENT: CACM-2700
+...sufficient conditions are obtained to show that the assumption that a statement is indivisible can be relaxed and still preserve properties such as ...correctness proofs of a <b>parallel</b> system can often be greatly 
+
+DCOCUMENT: CACM-2266
+...<b>parallel</b> numerical algorithms, real polynomials, real zeros, Newton's method, starting values, guaranteed ...conceptually suitable for <b>parallel</b> computation, determines its own starting values so that convergence to the zeros is 
+
+DCOCUMENT: CACM-2714
+...performances compare very favorably with the previous best <b>parallel</b> merging algorithm, Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m steps in the general ...linearly ordered sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, <b>parallel</b> processors working 
+
+DCOCUMENT: CACM-2685
+...<b>parallel</b> computing, multiprocessor computers, array computers, vector computers, ...developed for the <b>parallel</b> execution of different iterations of a DO 
+
+DCOCUMENT: CACM-1795
+...code optimization, sequencing of operations, detection of common ...1978 
+
+DCOCUMENT: CACM-1262
+...statements are suggested which allow a programmer writing in a procedure-oriented <b>language</b> to indicate sections of program which are to be executed in ...statements should be particularly effective for use with computing devices capable of attaining some degree of compute-compute 
+
+DCOCUMENT: CACM-2973
+...algorithms are presented for sorting n^2 elements on an n X n mesh-connected processor array that require O(n) routing and comparison ...algorithms of this paper are shown to be optimal in time within small constant 
+
+DCOCUMENT: CACM-2514
+...user can control the rule selection procedure in a derivation or parse, using weighted programming matrices; he also has a choice of instance selection ...package of Fortran programs has been developed that permits a user to interactively design and test array 
+
+QUERY : setl very high level languages
+
+DCOCUMENT: CACM-2699
+...oriented <b>language</b> of very <b>high</b> <b>level</b> whose repertoire of semantic objects includes finite sets, ordered n-tuples, and sets of ordered n-tuples usable as ...methods employed are based upon, and extend, known techniques of data flow 
+
+DCOCUMENT: CACM-2906
+...<b>high</b> <b>level</b> language, nonprocedural language, data flow language, business application, business data processing, structured programming, modular programming, format specification, and design ...aimed at business data processing 
+
+DCOCUMENT: CACM-2717
+...paper describes a <b>high</b> <b>level</b> and nonprocedural translation definition language, CONVERT, which provides very powerful and highly flexible data restructuring ...design is based on the simple underlying concept of a form which enables the users to visualize the translation processes, and thus makes data translation a much simpler 
+
+DCOCUMENT: CACM-1923
+...shown that this technique can provide potentially inexpensive methods for programs to communicate with deeply embedded facilities such as command <b>language</b> ...approach to system interfaces for <b>high</b> <b>level</b> <b>languages</b> using basic input/output support 
+
+DCOCUMENT: CACM-2782
+...philosophy of <b>language</b> ...22 
+
+DCOCUMENT: CACM-2647
+...philosophy of <b>language</b> ...9 
+
+DCOCUMENT: CACM-3148
+...paper describes an approach to distributed computing at the <b>level</b> of general purpose programming ...part of an ambitious program of development in advanced programming languages, and relations with other aspects of the project are also 
+
+DCOCUMENT: CACM-2923
+...paper proposes a simple general method of high-level data flow analysis that allows free use of escape and jump statements, avoids large graphs when compiling large programs, facilitates updating of data flow information to reflect program changes, and derives new global information helpful in solving many familiar global flow analysis ...contrast to the predominant use of low-level in termediate text, high-level data flow analysis deals with programs essentially at source <b>level</b> and exploits the control flow information implicit in the parse 
+
+DCOCUMENT: CACM-3171
+...technique is described for run-time line number administration to be used for implementations of <b>high</b> <b>level</b> ...number administration, diagnostic messages, abstract machine 
+
+DCOCUMENT: CACM-1835
+...<b>languages</b> programming languages, student programming systems, <b>language</b> design, <b>high</b> school programs, college ...51 1.52 4.12 
+
+QUERY : portable operating systems
+
+DCOCUMENT: CACM-3127
+...encourages structuring programs as networks of communicating processes by providing efficient interprocess communication ...isa real-time <b>operating</b> <b>system</b> which is designed to be <b>portable</b> over a large set of 
+
+DCOCUMENT: CACM-2246
+...paper discusses the relative merits of pitching this language at a high level or a low level, and presents some comparative ...popular way of accomplishing this is to encode the software in a specially designed machine-independent language and then to map this language, often using a macro processor, into the assembly language of each desired object 
+
+DCOCUMENT: CACM-3068
+...verification applied to kernel architectures forms a promising method for providing uncircumventably secure, shared computer ...precise definition of data security is developed here in terms of a general model for <b>operating</b> 
+
+DCOCUMENT: CACM-1930
+...<b>portable</b> subroutines are sometimes needed for which moderate quality and efficiency ...extremely <b>portable</b> 8-line FORTRAN program is provided which based on an important 
+
+DCOCUMENT: CACM-1461
+...1978 ...
+
+DCOCUMENT: CACM-1462
+...division of responsibility between levels leads to greater efficiency and less logical complexity, while actually enhancing ...applications require supervisory monitors which handle problems similar to those of the <b>operating</b> systems, but at a different 
+
+DCOCUMENT: CACM-2111
+...specialized techniques are shown for efficiently incorporating spelling correction algorithms in to compilers and <b>operating</b> ...<b>systems</b> which perform spelling correction, the number of debugging runs per program has been decreased, saving both programmer and machine 
+
+DCOCUMENT: CACM-1728
+...summarized from an empirical study directed at the measurement of program <b>operating</b> behavior in those multiprogramming <b>systems</b> in which programs are organized into fixed length ...paging systems, paging, dynamic program behavior, program behavior, virtual memory systems, single-level storage, one-level storage, <b>operating</b> <b>system</b> simulation, <b>operating</b> systems, supervisor simulation, machine language program 
+
+DCOCUMENT: CACM-2867
+...members can share much software as a result of the implementation of run-time modules at the lowest <b>system</b> ...paper describes the design philosophy used in the construction of a family of <b>operating</b> 
+
+DCOCUMENT: CACM-1247
+...services include dynamic allocation of storage for contiguous blocks of arbitrary size, input and output for a hierarchy of data types, a public pushdown list for automatic recursive programming, a rudimentary compiler for subroutine communication and bookkeeping, and debugging ...paper is a brief nontechnical introduction to OEDIPUS, a computer programming <b>system</b> which can serve as an <b>operating</b> environment for dynamic and/or recursive programs and programming 
+
+QUERY : code optimization for space efficiency
+
+DCOCUMENT: CACM-1947
+...analyzing the control flow and data flow of programs during compilation are applied to transforming the program to improve object time ...indicating which statements are necessarily executed before others, are used to do global common expression elimination and loop 
+
+DCOCUMENT: CACM-1795
+...<b>code</b> optimization, sequencing of operations, detection of common ...1978 
+
+DCOCUMENT: CACM-2495
+...12 5.24 ...arithmetic expressions, <b>code</b> generation, compilers, object-code optimization, register assignment, 
+
+DCOCUMENT: CACM-2897
+...step expands higher level statements into blocks of lower level <b>code</b> and then performs optimizations on the ...set of fairly simple optimizations was identified which allow the compiler to produce 
+
+DCOCUMENT: CACM-2748
+...related to Bell's notion of threaded <b>code</b> but requires less <b>space</b> and is more amenable to machine independent ...efficient arrangement for interpretive 
+
+DCOCUMENT: CACM-2491
+...machine code, time tradeoff, <b>space</b> tradeoff, compiled code, subroutine calls, ...software it is realized as interpretive <b>code</b> not needing an 
+
+DCOCUMENT: CACM-2559
+...technique is independent of both the length of the table and the hashing function used, and can be utilized in conjunction with a linear reallocation of the table being ...eliminate previously flagged deletions from any hash-coded table, or to change from one hashing 
+
+DCOCUMENT: CACM-3080
+...examples demonstrate that <b>optimization</b> of the genre of this paper can result in substantially faster operation and the saving of memory in terms of program and stack ...low level language programs need not be generated by a compiler and in fact could be hand 
+
+DCOCUMENT: CACM-2680
+...bottleneck in a computing facility, and reducing the number of mounts thus decreases turnaround ...amount of <b>space</b> required for file storage exceeds the amount which can be kept on-line, decisions must be made as to which files are to be permanently resident and which 
+
+DCOCUMENT: CACM-2537
+...dynamic programming algorithm is presented which solves the problem in time which grows linearly with the number of characters in the ...storage technique gives rise to a mathematical <b>optimization</b> problem: determine how each message should use the available phrases to minimize its storage 
+
+QUERY : find all discussions of optimal implementations of sort algorithms for database management applications
+
+DCOCUMENT: CACM-2679
+...quickersort requires the fewest comparisons to <b>sort</b> random ...sorting efficiency, sorting performance tests, quicksort, quickersort, qsort, Shellsort, stringsort, TREESORT3,utility <b>sort</b> algorithm, general-purpose <b>sort</b> algorithm, sorting <b>algorithm</b> 
+
+DCOCUMENT: CACM-3132
+...pattern recognition, it is a standard technique to have an <b>algorithm</b> finding hyperplanes which separates the two classes in a linearly separable training ...traditional methods <b>find</b> a hyperplane which separates all points in the other, but such a hyperplane is not necessarily centered in the empty space between the two 
+
+DCOCUMENT: CACM-2674
+...interactive <b>algorithm</b> can improve response time and reduce storage ...scan computer graphics with "real time" character generators have previously been limited to alphanumeric 
+
+DCOCUMENT: CACM-2976
+...inverted file organization, <b>database</b> performance and measurement, information retrieval, query ...70 3.72 
+
+DCOCUMENT: CACM-3131
+...computations are typically five times faster than single precision fixed-point or integer arithmetic for a mixture of operations, comparable in speed with hardware arithmetic for many ...number system and supporting computational <b>algorithms</b> especially useful for microcomputer control and other signal processing 
+
+DCOCUMENT: CACM-2348
+...1978 ...
+
+DCOCUMENT: CACM-3164
+...progressive acyclic digraph (PAD) <b>algorithm</b> accepts are requests and maintains a graph in an acyclic ...request creates a cycle, nodes are, "detached" until the new are can be entered acyclically This process is important in certain areas of <b>database</b> <b>implementation</b> in which there are constraints on the permissible sequences of 
+
+DCOCUMENT: CACM-2964
+...73 ...1977 
+
+DCOCUMENT: CACM-3112
+...processing system is presented which continuously reclaims garbage, including directed cycles, while linearizing and compacting the accessible cells into contiguous locations to avoid fragmenting the free storage ...50 3.60 3.73 3.80 4.13 4.22 4.32 4.33 4.35 
+
+DCOCUMENT: CACM-3017
+...variants have, with increasing frequency, been proposed as a basic storage structure for multiuser <b>database</b> ...70 3.73 3.74 4.33 
+
+QUERY : find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
+
+DCOCUMENT: CACM-2464
+...1978 ...constrained optimization, Box's 
+
+DCOCUMENT: CACM-1231
+...instructions may be discarded during the final stage of compilation by using a simple optimizing technique called peephole ...1978 
+
+DCOCUMENT: CACM-2835
+...simple method for the detection of recursive use of procedures is presented for use in compiler ...common are parameters of variables assuming values of label, procedure, or Pascal's enumerated 
+
+DCOCUMENT: CACM-2611
+...1978 ...
+
+DCOCUMENT: CACM-2616
+...19 4.42 4.43 5.21 ...problems of converting programs to decision tables are 
+
+DCOCUMENT: CACM-2929
+...general problem of using inline substitution to minimize execution time subject to size constrain ts is formulated, and an approximate algorithmic solution is ...results for the CLU structured programming language indicate that, in programs with a low degree of recursion, over 90 percent of all procedure calls can be eliminated, with little increase in the size of compiled <b>code</b> and a small savings in execution 
+
+DCOCUMENT: CACM-2133
+...operations research, <b>optimization</b> theory, assignment problem, rectangular ...39 
+
+DCOCUMENT: CACM-1947
+...analyzing the control flow and data flow of programs during compilation are applied to transforming the program to improve object time ...indicating which statements are necessarily executed before others, are used to do <b>global</b> common expression elimination and <b>loop</b> 
+
+DCOCUMENT: CACM-2495
+...12 5.24 ...arithmetic expressions, <b>code</b> generation, compilers, object-code optimization, register assignment, 
+
+DCOCUMENT: CACM-2344
+...simulation model of a time-sharing system with a finite noncontiguous store and an infinite auxiliary store is used to study the variation of system parameters such as store size, number of jobs allowed to ...shown that significant improvements in the measure of system performance can be obtained by using variable time-slice techniques and by selecting the optimum round-robin cycle 
+
+QUERY : find all descriptions of file handling in operating systems based on multiple processes and message passing
+
+DCOCUMENT: CACM-3141
+...decentralized algorithm uses a technique of selective <b>message</b> extinction in order to achieve an average number of <b>message</b> passes of order (n ...note presents an improvement to LeLann's algorithm for finding the largest (or smallest) of a set of uniquely numbered <b>processes</b> arranged in a circle, in which no central controller exists and the number of <b>processes</b> is not known a 
+
+DCOCUMENT: CACM-2378
+...supervisor handles I/O with external devices-the file and directory system-schedules active <b>processes</b> and manages memory, handle errors, and provides a small set of primitive functions which it will execute for a ...<b>process</b> is able to specify a request for a complicated action on the part of the supervisor (usually a wait on the occurrence of a compound event in the system) by combining these primitives into a "supervisory computer 
+
+DCOCUMENT: CACM-2080
+...paper describes the philosophy and structure of a multiprogramming <b>system</b> that can be extended with a hierarchy of <b>operating</b> <b>systems</b> to suit diverse requirements of program scheduling and resource ...<b>system</b> nucleus simulates an environment in which program execution and input/output are handled uniformly as parallel, cooperating <b>process</b> 
+
+DCOCUMENT: CACM-2629
+...offers a number of features seldom found even in larger <b>operating</b> systems, including: (1) a hierarchical file <b>system</b> incorporating demountable volumes; (2) compatible file, device, and inter-process I/O; (3) the ability to initiate asynchronous processes; (4) <b>system</b> command language selectable on a per-user basis; and (5) over 100 subsystems including a dozen languageshis paper discusses the nature and implementation of the file <b>system</b> and of the user command ...30 
+
+DCOCUMENT: CACM-0243
+...<b>processes</b> of encoding and error detection are <b>based</b> upon parity evaluations along prescribed dimensions of the ...paper introduces a new family of codes for detecting and correcting <b>multiple</b> errors in a binary-coded 
+
+DCOCUMENT: CACM-1135
+...<b>based</b> on identifying and incorporating into a compiler the aspects common to all <b>processes</b> of such class, permits writing extremely compact programs, even for comparatively complex applications, in terms of tables of control expressions which express only information characteristic of the particular ...structure of a digital compute programming language which covers a wide class of business and file processing applications is 
+
+DCOCUMENT: CACM-2740
+...cooperating processes, <b>operating</b> system, semaphores, semaphore applications, queue semaphores, deadlock, deadly embrace, hierarchical structuring, multiprogramming, <b>operating</b> <b>system</b> structure, asynchronous structuring, buffering, parallel processes, synchronizing primitives, reentrant code, RC 4000, project management, time schedule, debugging, project planning, project scheduling, reliability, program proving, coroutines, correctness, program maintenance, software ...30 4.31 4.32 4.42 4.43 
+
+DCOCUMENT: CACM-1750
+...general design of the hardware arrangement and the software components and functions of such a <b>system</b> are <b>based</b> on a planned configuration of dual CDC 6600's that share one million words of extended core ...<b>multiple</b> computer systems, extended core storage, multiprogrammed <b>operating</b> systems, multiprocessor <b>operating</b> systems, control data corporation 6600, <b>operating</b> 
+
+DCOCUMENT: CACM-0409
+...programming <b>system</b> to facilitate the solution of information processing problems and to provide intercommunication between programs and/or programmers has been developed and realized on the IBM 709/7090 ...<b>system</b> is <b>based</b> on a master file concept and has provisions for accepting, storing, and retrieving both <b>descriptions</b> and instances of large and complex data sets, as well as algorithms defined on these data 
+
+DCOCUMENT: CACM-1846
+...cases it is shown to be possible to <b>find</b> a solution by extending the information available to the solution technique, but in many cases the technique becomes computationally unfeasible when the additional information is ...problems of simulating discrete event systems, particularly computer systems, on a conventional digital computer are 
+
+QUERY : optimization of intermediate and machine code
+
+DCOCUMENT: CACM-1223
+...double scan, one in either direction, performed by the first two passes, allows the compiler to remove locally constant expressions and recursively calculable expressions from loops and to do the important part of common subexpression ...compiler with the following properties is briefly described: The last two passes scan an <b>intermediate</b> language produced by the preceding pass in essentially the reverse of the order in which it was generated, so that the first pass is the only one which hasto read the bulky problem-oriented 
+
+DCOCUMENT: CACM-1947
+...analyzing the control flow and data flow of programs during compilation are applied to transforming the program to improve object time ...indicating which statements are necessarily executed before others, are used to do global common expression elimination and loop 
+
+DCOCUMENT: CACM-2495
+...12 5.24 ...arithmetic expressions, <b>code</b> generation, compilers, object-code optimization, register assignment, 
+
+DCOCUMENT: CACM-1658
+...experiments still provide little hope of solving problems with over 100 variables with a reasonable amount of <b>machine</b> ...<b>machine</b> time and storage requirements of several of the algorithms are compared over several test problems of small and <b>intermediate</b> 
+
+DCOCUMENT: CACM-1757
+...0 2.11 2.19 2.3 2.40 2.43 2.49 3.50 3.52 3.53 3.55 3.56 3.59 3.70 3.71 3.73 3.74, 3.79, 3.81, 4.1, ...data code, calendar date, machine-to-machine data interchange, recording calendar date, data group 
+
+DCOCUMENT: CACM-1795
+...<b>code</b> optimization, sequencing of operations, detection of common ...1978 
+
+DCOCUMENT: CACM-2491
+...<b>machine</b> code, time tradeoff, space tradeoff, compiled code, subroutine calls, ...software it is realized as interpretive <b>code</b> not needing an 
+
+DCOCUMENT: CACM-2897
+...step expands higher level statements into blocks of lower level <b>code</b> and then performs optimizations on the ...set of fairly simple optimizations was identified which allow the compiler to produce 
+
+DCOCUMENT: CACM-2253
+...address calculations, algorithm transformation, compilation, data structures, indexing by name, indexing by position, index domain, index map, index range, matrix expressions, normal form, programming languages, program optimization, range operations, symbolic manipulation, syntactic analysis, well-formed ...goal is to automatically generate <b>code</b> for handling the tedious address calculations necessitated by complicated data 
+
+DCOCUMENT: CACM-2748
+...related to Bell's notion of threaded <b>code</b> but requires less space and is more amenable to <b>machine</b> independent ...efficient arrangement for interpretive 
+
+QUERY : languages and compilers for parallel processors especially highly horizontal microcoded machines code compaction
+
+DCOCUMENT: CACM-2138
+...design goals of the design are the ability to produce <b>highly</b> efficient object code, to allow access to all relevant hardware features of the host machine, and to provide a rational means by which to cope with the evolutionary nature of systems ...major feature which contributes to the realization of these goals is a mechanism permitting the definition of the representation of all data structures in terms of the access algorithm for elements of the 
+
+DCOCUMENT: CACM-1988
+...formalism here might be used to define and answer such a question as "Can one do bootstrapping using a meta-compiler whose metaphase is interpretive?" In addition an algorithm is presented for deciding whether or not a given system can be produced from a given set of component ...formalism is presented for describing the actions of <b>processors</b> for programming languages-compilers, interpreters, assemblers-and their interactions in complex systems such as compiler-compilers or extendible 
+
+DCOCUMENT: CACM-1811
+...shown that, with proper programming, solution time when N <b>processors</b> are applied approaches 1/N times the solution time for a single processor, while improper programming can actually lead to an increase of solution time with the ...data gathered from simulation runs demonstrate the efficient solution of this problem, typical of a large class of important 
+
+DCOCUMENT: CACM-1852
+...algorithm can be easily implemented on contemporary computing ...programming <b>languages</b> whose implementation is based on this algorithm indicates that such a <b>language</b> can be transferred to a new 
+
+DCOCUMENT: CACM-3156
+...present a <b>parallel</b> algorithm which uses n2 <b>processors</b> to find the connected components of an undirected graph with n vertices in ...algorithm can be used to find the transitive closure of a symmetric Boolean 
+
+DCOCUMENT: CACM-3075
+...model of computation for this procedure permits simultaneous fetches from the same memory ...algorithm makes use of a technique that requires more space than the product of <b>processors</b> and 
+
+DCOCUMENT: CACM-2714
+...performances compare very favorably with the previous best <b>parallel</b> merging algorithm, Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m steps in the general ...linearly ordered sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, <b>parallel</b> <b>processors</b> working 
+
+DCOCUMENT: CACM-3110
+...efficient solution is presented for the case in which the operand of every such "span-dependent" instruction is either a label or an assembly-time expression of a certain restricted formf this restriction is relaxed by allowing these operands to be more general assembly-time expressions, then the problem is ...paper considers the problem of minimizing the lengths of programs for such 
+
+DCOCUMENT: CACM-2112
+...framework described string recognition and parsing may be treated as <b>special</b> cases of the translation ...formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+
+DCOCUMENT: CACM-0249
+...1978 ...
+
+QUERY : parallel algorithms
+
+DCOCUMENT: CACM-2973
+...<b>algorithms</b> are presented for sorting n^2 elements on an n X n mesh-connected processor array that require O(n) routing and comparison ...<b>algorithms</b> of this paper are shown to be optimal in time within small constant 
+
+DCOCUMENT: CACM-3075
+...model of computation for this procedure permits simultaneous fetches from the same memory ...<b>algorithm</b> makes use of a technique that requires more space than the product of processors and 
+
+DCOCUMENT: CACM-2266
+...<b>parallel</b> numerical algorithms, real polynomials, real zeros, Newton's method, starting values, guaranteed ...conceptually suitable for <b>parallel</b> computation, determines its own starting values so that convergence to the zeros is 
+
+DCOCUMENT: CACM-3156
+...present a <b>parallel</b> <b>algorithm</b> which uses n2 processors to find the connected components of an undirected graph with n vertices in ...<b>algorithm</b> can be used to find the transitive closure of a symmetric Boolean 
+
+DCOCUMENT: CACM-1601
+...s8everal approximations obtained in any iteration are computationally independent, making the methods of interest in a <b>parallel</b> processing ...families of numerical procedures which use the technique of the procedures in a <b>parallel</b> processing environment are developed and measurements of these statistics are 
+
+DCOCUMENT: CACM-2557
+...minimum time required to evaluate such products on ordinary serial computers as well as <b>parallel</b> computers is ...paper discusses the multiplication of conformable sequences of row vectors, column vectors, and square 
+
+DCOCUMENT: CACM-0950
+...paper is dedicated to the proposition that, in order to take full advantage for real-time computations of highly <b>parallel</b> computers as can be expected to be available in the near future, much of numerical analysis will have to be recast in a more "parallel" ...method is proposed for "parallelizing" the numerical integration of an ordinary differential equation, which process, by all standard methods, is entirely 
+
+DCOCUMENT: CACM-1468
+...descriptive scheme for classes of pictures based on labeling techniques using <b>parallel</b> processing <b>algorithms</b> was proposed by the author some years ...paper descriptive models by considering their specific application to bubble chamber 
+
+DCOCUMENT: CACM-2838
+...recovering discarded list structures in this manner are presented and analyzed to determine sufficient conditions under which the list processor never needs to wait on the ...69 3.89 4.19 4.29 4.32 4.34 4.9 
+
+DCOCUMENT: CACM-2570
+...3 4.32 4.34 4.35 5.3 5.32 5.4 5.42 ...problem of scheduling two or more processors to minimize the execution time of a program which consists of a set of partially ordered tasks is 
+
+QUERY : graph theoretic algorithms applicable to sparse matrices
+
+DCOCUMENT: CACM-2695
+...matrix by similarity transformations is an important computational tool in numerical linear ...advantages of using such a transformation include the absence of round-off errors and improved computation time when compared with standard 
+
+DCOCUMENT: CACM-2986
+...heart of the <b>algorithms</b> is a general theorem giving sufficient conditions under which an expression whose operands are <b>sparse</b> relations and whose operators are composition, transitive closure, union, and inverse, can be computed ...compute operator precedence or Wirth-Weber precedence relations in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n) steps, where n is the size of a 
+
+DCOCUMENT: CACM-2769
+...<b>algorithm</b> is given for computing the transitive closure of a binary relation that is represented by a Boolean ...<b>algorithm</b> is similar to Warshall's although it executes faster for <b>sparse</b> <b>matrices</b> on most computers, particularly in a paging 
+
+DCOCUMENT: CACM-1563
+...rule for finding a knight's tour is generalized and applied to the problem of finding a Hamilton path in a ...1978 
+
+DCOCUMENT: CACM-2780
+...formulas for the <b>algorithm</b> are given; the dependency relationships are derived; the computational costs are developed; and some general comments on application and stability are ...recursive <b>algorithm</b> for computing the inverse of a matrix from the LU factors based on relationships in Takahashi, et 
+
+DCOCUMENT: CACM-2630
+...<b>algorithms</b> generalize the Floyd <b>algorithm</b> and the Dantzig <b>algorithm</b> for finding the shortest path between every pair of vertices in a directed ...<b>algorithms</b> are presented that construct the k shortest paths between every pair of vertices in a directed 
+
+DCOCUMENT: CACM-2490
+...number of vertices and E is the number of edges, each <b>algorithm</b> requires time and space proportional to max (V,E) when executed on a random access ...<b>algorithms</b> are presented for partitioning a <b>graph</b> into connected components, biconnected components and simple 
+
+DCOCUMENT: CACM-2524
+...terms of a metric on the the key space, is suitably defined, three file structures are presented together with their corresponding search algorithms, which are intended to reduce the number of comparisons required to achieve the desired ...problem of searching the set of keys in a file to find a key which is closest to a given query key is 
+
+DCOCUMENT: CACM-2368
+...<b>graph</b> algorithms, <b>graph</b> processing, Shannon Switching Games, game playing, <b>graph</b> theory, positional games, demonstration programs, game theory, spinning ...tutorial paper a computer program which 
+
+DCOCUMENT: CACM-2199
+...<b>sparse</b> matrix, matrix ...1978 
+
+QUERY : computational complexity intractability class complete reductions algorithms and efficiency
+
+DCOCUMENT: CACM-2337
+...<b>algorithm</b> for finding the minimum and maximum elements of a set with fewest comparisons is proved optimal with this ...technique for proving min-max norms of sorting 
+
+DCOCUMENT: CACM-3018
+...keyword conflicts, intersection graphs, node clique cover, edge clique cover, <b>computational</b> complexity, NP-complete problems, polynomial-time ...consequences of this relationship, the keyword conflict problem and the edge-clique-cover problem are shown to be NP-complete, and if P=/NP then they do not admit polynomial-time approximation <b>algorithms</b> which always produce solutions within a factor less than 2 from the 
+
+DCOCUMENT: CACM-3086
+...decision tree <b>complexity</b> of computing the measure of the union of n (possibly overlapping) intervals is shown to be (n log n), even if comparisons between linear functions of the interval endpoints are ...problems provide an excellent opportunity for discussing the effects of the <b>computational</b> model on the ease of analysis and on the results 
+
+DCOCUMENT: CACM-2325
+...foundations (finite precision number systems, <b>computational</b> complexity), synthesis and analysis of algorithms, analysis of error, programs and program ...3 5.0 5.1 
+
+DCOCUMENT: CACM-2702
+...problem of determining whether an arbitrary context-free grammar is a member of some easily parsed subclass of grammars such as the LR(k) grammars is ...subject grammar are problem parameters, then the <b>complexity</b> of the problem depends very strongly on the representation 
+
+DCOCUMENT: CACM-2997
+...convex hull <b>algorithm</b> requires at least O(n log n) operations, the time <b>complexity</b> of the proposed <b>algorithms</b> is optimal within a multiplicative ...<b>computational</b> complexity, convex hull, optimal algorithms, planar set of poin ts, spatial set of poin 
+
+DCOCUMENT: CACM-2837
+...upper bound for Vi(n) improves the bound given by the standard Hadian-Sobel <b>algorithm</b> by a generalization of the Kirkpatrick-Hadian-Sobel algorithm, and extends Kirkpatrick's method to a much wider range of ...minimum number of comparisons <b>complexity</b> Vi(n) of the i-th selection problem is 
+
+DCOCUMENT: CACM-2110
+...time bound proportional to n^3 (where n is the length of the string being parsed) in general; it has a n^2 bound for unambiguous grammars; and it runs in linear time on a large <b>class</b> of grammars, which seems to include most practical context-free programming language ...parsing <b>algorithm</b> which seems to be the most efficient general context-free <b>algorithm</b> 
+
+DCOCUMENT: CACM-3110
+...efficient solution is presented for the case in which the operand of every such "span-dependent" instruction is either a label or an assembly-time expression of a certain restricted formf this restriction is relaxed by allowing these operands to be more general assembly-time expressions, then the problem is ...paper considers the problem of minimizing the lengths of programs for such 
+
+DCOCUMENT: CACM-2927
+...upper bound is shown to be equivalent to the theoretical lower bound for sieve methods without ...preprocessing techniques involving space-time and additive-multiplicative tradeoffs reduces this upper bound to O(N/log logN) and the bit <b>complexity</b> to O(N logN 
+
+QUERY : i am interested in hidden line and hidden surface algorithms for cylinders toroids spheres and cones this is a rather specialized topic in computer graphics
+
+DCOCUMENT: CACM-2473
+...<b>surface</b> ...1978 
+
+DCOCUMENT: CACM-2678
+...<b>hidden</b> <b>line</b> problem, <b>computer</b> graphics, contour ...65 4.41 
+
+DCOCUMENT: CACM-2384
+...<b>surface</b> ...1978 
+
+DCOCUMENT: CACM-2751
+...visual perception and the fundamental laws of optics are considered in the development of a shading rule that provides better quality and increased realism in generated ...quality of <b>computer</b> generated images of three-dimensional scenes depends on the shading technique used to paint the objects on the cathode-ray tube 
+
+DCOCUMENT: CACM-2913
+...paper explains the observed defects in terms of the aliasing phenomenon inherent in sampled signals and discusses prefiltering as a recognized ...method for evaluating filters is presented, the application of prefiltering to hidden-surface <b>algorithms</b> is discussed, and an implementation of a filtering tiler is shown accompanied by examples of its 
+
+DCOCUMENT: CACM-2369
+...rotation table is defined for each pair of polygons, which remains fixed as long as rotation is about one axis and provides a means of rapidly determining the visible and <b>hidden</b> <b>line</b> relationship between two ...paper describes a polygon comparison scheme in which the relationships of two polygons can be classified into tree types, and also discusses how the relationship is changed for each pair of polygons under rotation about some 
+
+DCOCUMENT: CACM-1915
+...<b>algorithm</b> presented causes the elimination of <b>hidden</b> lines in the representation of a perspective view of concave and convex plane-faced objects on the picture ...<b>algorithm</b> takes advantage of a reduced number of concave points and automatically recognizes if only one object with no concave points is 
+
+DCOCUMENT: CACM-2441
+...1978 ...
+
+DCOCUMENT: CACM-2638
+...1978 ...
+
+DCOCUMENT: CACM-2564
+...1978 ...
+
+QUERY : distributed computing structures and algorithms
+
+DCOCUMENT: CACM-3148
+...paper describes an approach to <b>distributed</b> <b>computing</b> at the level of general purpose programming ...part of an ambitious program of development in advanced programming languages, and relations with other aspects of the project are also 
+
+DCOCUMENT: CACM-2849
+...branching broadcast communication system for carrying digital data packets among locally <b>distributed</b> <b>computing</b> ...model for estimating performance under heavy loads and a packet protocol for error controlled communication are included for 
+
+DCOCUMENT: CACM-3137
+...technique is illustrated by application to the design of an interactive transaction processing ...making evident the effect of various design and operating parameters on overall cost per 
+
+DCOCUMENT: CACM-2276
+...exponential distribution a definite recommendation can be made, whereas in the case of the normal distribution there remains a choice between slower and shorter <b>algorithms</b> and faster but space consuming ...methods are known for transforming uniformly <b>distributed</b> random numbers into exponentially and normally <b>distributed</b> 
+
+DCOCUMENT: CACM-1745
+...effective operation of free enterprise in creating the envisioned information service industry is dependent upon three accomplishments: (1) the restructuring of our information processing industry so that a clear division of costs is made among computing, communications, and the development of information services; (2) the wide use of multiaccess system concepts so that information services may share in the use of computer installations and so that the cost of their construction is reasonable; and (3) the development of public, message-switched communications services so that adequate provisions are made for information ...<b>computing</b> and free enterprise, <b>computing</b> economics, computer installation management, government regulation, communications services, <b>distributed</b> data base, program 
+
+DCOCUMENT: CACM-1873
+...shown how a novel method for <b>computing</b> (related) inner products can accelerate the pricing phase of LP ...linear programming, revised simplex method, multiple pricing, inner 
+
+DCOCUMENT: CACM-2578
+...mutual exclusion, robustness, sharing, error recovery, <b>distributed</b> control, ...16,1978 
+
+DCOCUMENT: CACM-2406
+...languages concentrate on the declaration of logical data <b>structures</b> with little concern for how these <b>structures</b> are physically realized on a computer ...paper reviews past work in the data definition language for describing both logical and physical 
+
+DCOCUMENT: CACM-3043
+...concept is proposed for real-time applications controlled by microcomputer networks with <b>distributed</b> ...communicate and synchronize by means of procedure calls and guarded 
+
+DCOCUMENT: CACM-3082
+...concept of one event happening before another in a <b>distributed</b> system is examined, and is shown to define a partial ordering of the ...total ordering is illustrated with a method for solving synchronization 
+
+QUERY : applied stochastic processes
+
+DCOCUMENT: CACM-1696
+...renewal programming and in the construction of variable length codes are reviewed, and an updating procedure for dealing with certain sequences of <b>stochastic</b> matrices is ...algorithm for identifying the ergodic subchains and transient states of a <b>stochastic</b> matrix is 
+
+DCOCUMENT: CACM-0268
+...1978 ...
+
+DCOCUMENT: CACM-0020
+...technique is discussed which, when <b>applied</b> to an iterative procedure for the solution of an equation, accelerates the rate of convergence if the iteration converges and induces convergence if the iteration ...1978 
+
+DCOCUMENT: CACM-1410
+...optimization of time-shared system performance requires the description of the <b>stochastic</b> <b>processes</b> governing the user inputs and the program ...data obtained appear to justify satisfactorily the common assumption that the interarrival times are serially 
+
+DCOCUMENT: CACM-3043
+...concept is proposed for real-time applications controlled by microcomputer networks with distributed ...communicate and synchronize by means of procedure calls and guarded 
+
+DCOCUMENT: CACM-2342
+...0 4.10 4.30 4.32 4.42 5.24 ...formation of partial rules and the calculation of transition rules are both applicable to hardware <b>processes</b> as well as to software processes, and symmetry between <b>processes</b> is not 
+
+DCOCUMENT: CACM-0942
+...authors have recently been concerned in a time-series study that constituted a fairly typical piece of <b>applied</b> statistical research, involving extensive computations on a moderately large quantity of ...main purpose of this note is to describe these subroutines, but since the question of general statistical programs is topical [1], we include some general 
+
+DCOCUMENT: CACM-2882
+...paper discusses a simulation model of a data retrieval system which has the effect of significantly reducing the cost of experimentation and enabling research never ...70 3.71 3.72 3.73 3.74 
+
+DCOCUMENT: CACM-2376
+...formal description of the synchronization mechanism makes it very easy to prove that the buffer will neither overflow nor underflow, that senders and receivers will never operate on the same message frame in the buffer nor will they run into a ...synchronization mechanism can be used to prove that concurrently running <b>processes</b> of a system communicate 
+
+DCOCUMENT: CACM-2740
+...cooperating processes, operating system, semaphores, semaphore applications, queue semaphores, deadlock, deadly embrace, hierarchical structuring, multiprogramming, operating system structure, asynchronous structuring, buffering, parallel processes, synchronizing primitives, reentrant code, RC 4000, project management, time schedule, debugging, project planning, project scheduling, reliability, program proving, coroutines, correctness, program maintenance, software ...30 4.31 4.32 4.42 4.43 
+
+QUERY : performance evaluation and modelling of computer systems
+
+DCOCUMENT: CACM-2318
+...paper examines the interrelationships between models and other methods for evaluating the <b>performance</b> of <b>computer</b> <b>systems</b> and establishes circumstances under which the use of a ...constitute a useful means of investigating <b>computer</b> <b>system</b> 
+
+DCOCUMENT: CACM-1938
+...terminal user's ability to utilize the full resources of the <b>system</b> that makes quantitative <b>evaluation</b> of time-sharing <b>systems</b> particularly ...defined in this article, are those multiaccess <b>systems</b> which permit a terminal user to utilize essentially the full resources of the <b>system</b> while sharing its time with other terminal 
+
+DCOCUMENT: CACM-3119
+...queueing models are used to study the <b>performance</b> tradeoffs of multiple processor ...considered include the impact of CPU service disciplines and distributions, level of multiprogramming, multitasking, and job 
+
+DCOCUMENT: CACM-1653
+...synthesis are presented as three levels of approach to evaluation, requiring successively greater amounts of ...state of the art of <b>system</b> <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals and problems are 
+
+DCOCUMENT: CACM-3089
+...72 3.73 4.33 4.35 4.6 5.5 ...<b>system</b> is assumed to operate with a checkpointing and rollback/recovery method to ensure reliable information 
+
+DCOCUMENT: CACM-2984
+...method is presented for evaluating <b>computer</b> <b>system</b> <b>performance</b> in terms of a cost/utilization factor and a measure of ...method includes a technique for the visual representation of <b>system</b> 
+
+DCOCUMENT: CACM-2542
+...<b>performance</b> information obtained from these routines as feedback, the problems which adversely affect <b>performance</b> are detected early enough so that they can be corrected without costly major reimplementation of the ...0 4.12 4.22 4.30 4.42 4.43 
+
+DCOCUMENT: CACM-2812
+...analysis consists of a set of procedures and <b>computer</b> programs specifically designed to aid in the process of applications software design, <b>computer</b> selection and <b>performance</b> ...information systems, logical <b>system</b> design, problem statement language, problem statement analyzer, physical <b>system</b> design, accurately defined systems, <b>systems</b> optimization and design 
+
+DCOCUMENT: CACM-2319
+...severe interactions between the various subsystems of an operating system, an overall <b>model</b> of the total <b>system</b> must be developed to be able to analyze and design the <b>performance</b> aspects of an operating <b>system</b> although such total <b>system</b> designs are exceptional today, it is projected that they will become increasingly more common and necessary in the near ...great deal of information and a large number of models for subsystems have been developed, gaps still exist in out 
+
+DCOCUMENT: CACM-3136
+...models predicting <b>system</b> cost as a function of several hardware characteristics do, however, reveal a market ...hand there exists a stable, price predictable market for larger, general purpose <b>computer</b> 
+
+QUERY : concurrency control mechanisms in operating systems
+
+DCOCUMENT: CACM-2626
+...key <b>mechanisms</b> described include access <b>control</b> lists, hierarchical <b>control</b> of access specifications, identification and authentication of users, and primary memory ...paper ends with a discussion of several known weaknesses in the current protection <b>mechanism</b> 
+
+DCOCUMENT: CACM-2632
+...<b>mechanisms</b> provide a coherent basis for extension of the <b>system</b> in two directions: the introduction of new facilities, and the creation of highly secure ...paper describes the design philosophy of HYDRA-the kernel of an <b>operating</b> 
+
+DCOCUMENT: CACM-3105
+...sharing of information is needed and desirable for many applications and is supported in <b>operating</b> <b>systems</b> by access <b>control</b> ...paper shows how to extend programming languages to provide controlled 
+
+DCOCUMENT: CACM-2840
+...model of protection <b>mechanisms</b> in computing <b>systems</b> is presented and its appropriateness is ...problem for protection <b>systems</b> under this model is to determine in a given situation whether a subject can acquire a particular right to an 
+
+DCOCUMENT: CACM-2377
+...<b>system</b> which uses segmentation as a memory addressing scheme, protection can be achieved in part by associating concentric rings of decreasing access privilege with a ...paper describes hardware processor <b>mechanisms</b> for implementing these 
+
+DCOCUMENT: CACM-2939
+...permits incremental program development with complete type checking performed at compile time, is also ...programming languages, data types, data abstractions, <b>control</b> abstractions, programming methodology, separate 
+
+DCOCUMENT: CACM-3128
+...relationship of the <b>mechanism</b> to protection <b>mechanisms</b> in the <b>system</b> is explained; in particular, eventcounts are shown to be applicable to situations where confinement of information ...<b>control</b> of ordering seems to simplify correctness arguments and also simplifies implementation in distributed 
+
+DCOCUMENT: CACM-2870
+...lattice properties permit concise formulations of the security requirements of different existing <b>systems</b> and facilitate the construction of <b>mechanisms</b> that ...<b>mechanisms</b> are examined within a mathematical framework suitable for formulating the requirements of secure information flow among security 
+
+DCOCUMENT: CACM-2080
+...paper describes the philosophy and structure of a multiprogramming <b>system</b> that can be extended with a hierarchy of <b>operating</b> <b>systems</b> to suit diverse requirements of program scheduling and resource ...<b>system</b> nucleus simulates an environment in which program execution and input/output are handled uniformly as parallel, cooperating process 
+
+DCOCUMENT: CACM-1750
+...general design of the hardware arrangement and the software components and functions of such a <b>system</b> are based on a planned configuration of dual CDC 6600's that share one million words of extended core ...multiple computer systems, extended core storage, multiprogrammed <b>operating</b> systems, multiprocessor <b>operating</b> systems, <b>control</b> data corporation 6600, <b>operating</b> 
+
+QUERY : memory management aspects of operating systems
+
+DCOCUMENT: CACM-2069
+...44 4.32 4.39 6.20 ...demand paging, time-sharing multiprogramming, Markovian computer models, scheduling strategies, <b>operating</b> systems, <b>memory</b> 
+
+DCOCUMENT: CACM-2297
+...pointed out heuristically and demonstrated numerically that an increase is obtain able in the average execution interval of the multiprogrammed load over that resulting from equal fixed partitioning of ...distribution of the number of page-frames allocated to an executing program, the long run expected fraction of a program's execution time in a given number of page-frames, and the average execution interval of the multiprogrammed load are 
+
+DCOCUMENT: CACM-1752
+...scheduling and resource balancing for a medium size virtual <b>memory</b> paging machine are discussed in relation to a combined batch processing and time-sharing ...results relative to alternate hardware characteristics and the effects of program mix and loading variations are also 
+
+DCOCUMENT: CACM-2902
+...paper investigates the performance of 35 dynamic <b>memory</b> allocation algorithms when used to service simulation programs as represented by 18 test ...main taining separate free space lists for each size of <b>memory</b> block used tended to perform quite well 
+
+DCOCUMENT: CACM-2988
+...paper presents a computationally tractable methodology for including accurately the effects of finite <b>memory</b> size and workload <b>memory</b> requirements in queueing network models of computer ...workload variables such as <b>memory</b> requirement distribution and job swap time, and performance measures such as response time and <b>memory</b> utilization are graphically 
+
+DCOCUMENT: CACM-2358
+...sharing is accomplished by allowing several users to share data via input and output of information stored in files kept in secondary ...size of main <b>memory</b> on contemporary <b>systems</b> is rather limited, it is then shown how the Multics software achieves the effect of a large segmented main <b>memory</b> through the use of the Honeywell 645 segmentation and paging 
+
+DCOCUMENT: CACM-2319
+...severe interactions between the various subsystems of an <b>operating</b> system, an overall model of the total <b>system</b> must be developed to be able to analyze and design the performance <b>aspects</b> of an <b>operating</b> <b>system</b> although such total <b>system</b> designs are exceptional today, it is projected that they will become increasingly more common and necessary in the near ...great deal of information and a large number of models for subsystems have been developed, gaps still exist in out 
+
+DCOCUMENT: CACM-3006
+...type of anomaly, for example, concerns the fact that, with certain reference strings and paging algorithms, an increase in mean <b>memory</b> allocation may result in an increase in fault ...types of anomalous behavior which may occur in paged virtual <b>memory</b> <b>operating</b> <b>systems</b> a 
+
+DCOCUMENT: CACM-2406
+...languages concentrate on the declaration of logical data structures with little concern for how these structures are physically realized on a computer ...paper reviews past work in the data definition language for describing both logical and physical 
+
+DCOCUMENT: CACM-1751
+...basic reason behind the absence of a general treatment of resource allocation in modern computer <b>systems</b> is an adequate model for program ...working set of pages associated with a process, defined to be the collection of its most recently used pages, provides knowledge vital to the dynamic <b>management</b> of paged 
+
+QUERY : any information on packet radio networks of particular interest are algorithms for packet routing and for dealing with changes in network topography i am not interested in the hardware used in the network
+
+DCOCUMENT: CACM-3032
+...list of <b>algorithms</b> we add (6) reverse path forwarding, a broadcast <b>routing</b> method which exploits <b>routing</b> procedures and data structures already available for <b>packet</b> ...accomplishing this delivery through a store-and-forward <b>packet</b> switching computer <b>network</b> include (1) transmission of separately addressed 
+
+DCOCUMENT: CACM-2949
+...distributed computer network, correctness proofs, computer networks, distributed control, <b>network</b> topology, <b>routing</b> problem in networks, distributed operating system, store and forward <b>packet</b> switching, store and forward message switching, traffic ...major constrain ts on such a topology <b>information</b> scheme is that it may not involve a central 
+
+DCOCUMENT: CACM-2849
+...branching broadcast communication system for carrying digital data packets among locally distributed computing ...model for estimating performance under heavy loads and a <b>packet</b> protocol for error controlled communication are included for 
+
+DCOCUMENT: CACM-2892
+...measurements of line efficiency for the ARPANET are presented and by extrapolation these measurements are used to anticipate overhead in a heavily loaded ...computer communication networks, interprocess communication, measurement, <b>packet</b> switching, performance evaluation and efficiency, resource 
+
+DCOCUMENT: CACM-2890
+...models show that adaptive <b>routing</b> does not satisfy the necessary conditions for an optimal routing, Adaptive <b>routing</b> tends to overuse the direct path and underuse alternate routes because it does not consider the impact of its current <b>routing</b> decision on the future ...modification requires the substitution of a quadratic bias term instead of a linear one in the <b>routing</b> table maintained at each <b>network</b> 
+
+DCOCUMENT: CACM-1685
+...defining description of a programming language designed for generating activity <b>network</b> from a set of standard <b>networks</b> is ...50 3.53 4.11 4.12 
+
+DCOCUMENT: CACM-3158
+...user can safely store confidential files in the central facility or transmit confidential data to other users on the ...method for implementing secure personal computing in a <b>network</b> with one or more central facilities is 
+
+DCOCUMENT: CACM-2515
+...procedure for constructing a minimal event-node <b>network</b> to represent a set of precedence relations without parallel activities is ...minimal event-node <b>network</b> is an event-node <b>network</b> in which both the number of nodes and the number of arcs are the minima to preserve the given precedence relations Counterexamples are given to show that the <b>algorithm</b> 
+
+DCOCUMENT: CACM-2776
+...study presents the results of a nationwide survey of computer <b>networks</b> in higher education conducted during 1971-73. Five major and 18 minor <b>networks</b> were ...recommendations are advanced regarding the development of <b>networks</b> in higher education in the 
+
+DCOCUMENT: CACM-2951
+...statistical performance evaluation tools are employed to investigate the feasibility of a dynamic response time monitor that is capable of providing comparative response time <b>information</b> for users wishing to process various computing applications at some <b>network</b> computing ...research clearly reveals that sufficient system data are currently obtainable, at least for the five diverse ARPA <b>network</b> systems studied in detail, to describe and predict the response time for <b>network</b> time-sharing systems as it depends on some measure of system activity or load 
+
+QUERY : number theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
+
+DCOCUMENT: CACM-1840
+...<b>prime</b> numbers, factoring, <b>number</b> ...15 
+
+DCOCUMENT: CACM-1933
+...random number, modular arithmetic, uniform probability density, uniform frequency function, simulation, <b>prime</b> factorization, primitive ...computation method is extendible to limited problems in modular 
+
+DCOCUMENT: CACM-1539
+...1978 ...
+
+DCOCUMENT: CACM-1841
+...15 5.30 ...<b>prime</b> numbers, <b>number</b> theory, 
+
+DCOCUMENT: CACM-2644
+...large <b>number</b> of strategies and inference rules presently under consideration in automated <b>theorem</b> proving, there is a need for developing a language <b>especially</b> oriented toward automated <b>theorem</b> ...language permits easy extension of automated theorem-proving programs to include new strategies and/or new inference 
+
+DCOCUMENT: CACM-2089
+...1978 ...<b>prime</b> numbers, 
+
+DCOCUMENT: CACM-3131
+...computations are typically five times faster than single precision fixed-point or integer arithmetic for a mixture of operations, comparable in speed with hardware arithmetic for many ...<b>number</b> system and supporting computational <b>algorithms</b> <b>especially</b> useful for microcomputer control and other signal processing 
+
+DCOCUMENT: CACM-1537
+...1978 ...1 (Algorithm 
+
+DCOCUMENT: CACM-1538
+...1978 ...2 (Algorithm 
+
+DCOCUMENT: CACM-2462
+...1978 ...
+
+QUERY : articles on text formatting systems including what you see is what you get systems examples t nroff scribe bravo
+
+DCOCUMENT: CACM-3142
+...type of errors occur? How easily are they corrected? What is the reaction of consumers to errors-to a failure to correct them? What can be learned by designers of large management packages from such data? Results show that with the present state of the art, approximately 40 percent of individuals (or households) having average contacts with different types of accounts experience one or more errors per ...0 2.1 2.12 2.2 3.50 3.52 3.55 4.19 
+
+DCOCUMENT: CACM-2876
+...shown that intentional resolution can be achieved, but that it involves a radical change from the traditional approach to the process of user-database ...paper is concerned with another, independent, dimension of privacy protection, the control over what a user is allowed to do with a piece of information 
+
+DCOCUMENT: CACM-0195
+...1978 ...
+
+DCOCUMENT: CACM-0248
+...note consists solely of the impressions garnered by the moderator of the panel and does not necessarily represent the position of any of the panelists or other participants in the ...panel discussion on "What is Proprietary in Mathematical Programming?" was sponsored by the Special Interest Committee on Mathematical Programming of the ACM during a Hall of Discussion/on September 7th at the 16th National ACM 
+
+DCOCUMENT: CACM-3179
+...symposium presents selected papers from a conference that sought to discover what is currently known about EFT impacts in society and what research is needed in the ...increasingly recognized that large-scale technologies such as EFT have the potential for aiding in the solution of current societal 
+
+DCOCUMENT: CACM-2909
+...syntactic description language, ...1977 
+
+DCOCUMENT: CACM-2572
+...accepting the inevitability and desirability of this or any technology, we should: (1) be sure of the feasibility (internally and externally) of what is proposed; (2) project and perhaps wait for changes in complementary techniques; (3) evaluate current and projected supplementary techniques; (4) establish the existence of demand for what is proposed; (5) take steps to involve a representative group of ultimate users in <b>systems</b> design, and (6) carefully think through possible side effects on man and his world ...proposals for community information utilities are examined in this framework, and the conclusion is drawn that society is not yet in a position to justify either the construction of an information utility in a prototype community or the acceptance of a policy in favor of its widespread 
+
+DCOCUMENT: CACM-2312
+...pessimistic forecast is given of what can be expected to happen in the application of computers to the physical ...scientific 
+
+DCOCUMENT: CACM-3011
+...0 2.1 2.11 2.19 2.4 2.45 2.9 3.5 ...prevalent in those governments with professional management practices where top management is supportive of computing and tends to control computing decisions and where department users have less control over design and implementation 
+
+DCOCUMENT: CACM-0718
+...effective is a compiler at replacing explicit verification, and what is the ...1978 
+
+QUERY : i d like to find articles describing the use of singular value decomposition in digital image processing applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical andrews h patterson c
+
+DCOCUMENT: CACM-3047
+...automatic classification of terrain, using satellite imagery, requires such alignment to deal correctly with the effects of varying sun angle and surface ...achieve the required alignment by matching the real <b>image</b> with a synthetic <b>image</b> obtained from a surface model and known positions of the light 
+
+DCOCUMENT: CACM-1686
+...<b>mathematical</b> model and computational techniques of the authors' <b>digital</b> holographic <b>process</b> are discussed, and <b>applications</b> of computer holography are ...approach based on point apertures for the <b>image</b> is 
+
+DCOCUMENT: CACM-2065
+...<b>image</b> processing, biomedical <b>image</b> processing, on-line <b>image</b> processing, semiautomatic <b>image</b> processing, data structure, structure operators, picture processing, biomedical picture processing, on-line picture processing, semiautomatic picture processing, semiautomatic karyotyping, karyotyping, ...12 3.34 3.63 4.39 
+
+DCOCUMENT: CACM-2370
+...system includes two flying-spot scanners and a TV camera specially interfaced to a <b>process</b> control <b>digital</b> computer, dot-mode and vector displays, analog input and output facilities, and a variety of other experimental ...system design and programming support are described and typical <b>applications</b> in scanner control, optical character recognition,and <b>image</b> <b>processing</b> are 
+
+DCOCUMENT: CACM-2142
+...electron microscopy and X-ray photography) in which it is desirable to estimate the gray levels of a <b>digital</b> picture at the individual points from the sums of the gray levels along straight lines (projections) at a few ...12 3.13 3.15 3.17 3.63 5.41 
+
+DCOCUMENT: CACM-1327
+...technique is based on the creation of a binary <b>image</b> of a limited entry decision table in computer ...advantages gained from the programming point view: (1) amount of computer memory used is drastically reduced, (2) programming is simplified, and (3) documentation is brief and 
+
+DCOCUMENT: CACM-2283
+...found that the algorithm operating with the triangular array is the most sensitive to <b>image</b> irregularities and noise, yet it will yield a thinned <b>image</b> with an overall reduced number of ...concluded that the algorithm operating in conjunction with the hexagonal array has features which strike a balance between those of the other two 
+
+DCOCUMENT: CACM-1144
+...technique involves computer manipulation of the <b>digital</b> <b>image</b> of the nuclear ...technique is described for determining the activity and homogeneity of an alpha 
+
+DCOCUMENT: CACM-3013
+...outputs obtained from these operators applied to a set of test pictures are compared with each other and with the standard <b>digital</b> Laplacian and ...distance between the center and centroid of a neighborhood as an edge value, is also briefly considered; it turns out to be equivalent to one of the standard <b>digital</b> <b>approximations</b> to the 
+
+DCOCUMENT: CACM-2528
+...pattern reconstruction, <b>image</b> reconstruction, data compression, picture ...63 
+
+QUERY : i d like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph i m especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
+
+DCOCUMENT: CACM-2177
+...denotes the word length of the machine employed, the storage (in machine words) required for a <b>graph</b> with n nodes and m edges increases essentially as 2(m+n) in ...efficient <b>method</b> is presented for finding blocks and cutnodes of an arbitrary 
+
+DCOCUMENT: CACM-2630
+...<b>algorithms</b> generalize the Floyd <b>algorithm</b> and the Dantzig <b>algorithm</b> for finding the shortest path between every pair of vertices in a directed ...<b>algorithms</b> are presented that construct the k shortest paths between every pair of vertices in a directed 
+
+DCOCUMENT: CACM-3139
+...exact <b>method</b> is given which performs better than the Randall-Brown <b>algorithm</b> and is able to <b>color</b> larger graphs, and the new <b>heuristic</b> methods, the classical methods, and the exact <b>method</b> are ...paper describes efficient new <b>heuristic</b> methods to <b>color</b> the vertices of a 
+
+DCOCUMENT: CACM-2368
+...<b>graph</b> algorithms, <b>graph</b> processing, Shannon Switching Games, game playing, <b>graph</b> theory, positional games, demonstration programs, game theory, spinning ...tutorial paper a computer program which 
+
+DCOCUMENT: CACM-2490
+...number of vertices and E is the number of edges, each <b>algorithm</b> requires time and space proportional to max (V,E) when executed on a random access ...<b>algorithms</b> are presented for partitioning a <b>graph</b> into connected components, biconnected components and simple 
+
+DCOCUMENT: CACM-2290
+...<b>graph</b> theory, directed graph, shortest path, articulation, connectivity, program optimization, optimizing ...12 
+
+DCOCUMENT: CACM-2172
+...line printer ...1978 
+
+DCOCUMENT: CACM-1563
+...rule for finding a knight's tour is generalized and applied to the problem of finding a Hamilton path in a ...1978 
+
+DCOCUMENT: CACM-2934
+...1977 ...shortest path, algorithm, 
+
+DCOCUMENT: CACM-2289
+...adjacency <b>matrix</b> of a <b>graph</b> is easily mapped onto an array; each <b>matrix</b> element is stored in one cell of the array, and typical row and column operations are readily implemented by simple cell ...chief computational advantage offered by cellular arrays is the improvement in speed achieved by virtue of the possibilities for parallel 
+
+QUERY : articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero one matrices i m especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971 davis c kahn w stewart g
+
+DCOCUMENT: CACM-2284
+...<b>linear</b> algebra, matrices, <b>linear</b> ...1978 
+
+DCOCUMENT: CACM-1954
+...<b>real</b> symmetric matrix, eigenvalues, eigenvectors, QR ...1978 
+
+DCOCUMENT: CACM-2043
+...<b>real</b> symmetric matrix, eigenvalues, eigenvectors, QR ...1978 
+
+DCOCUMENT: CACM-2548
+...normal distribution inverse, probit transform, Taylor series ...12 
+
+DCOCUMENT: CACM-1104
+...1978 ...
+
+DCOCUMENT: CACM-2040
+...<b>numerical</b> integration, Romberg quadrature, modified Romberg quadrature, trapezoid values, rectangle ...1978 
+
+DCOCUMENT: CACM-1982
+...<b>numerical</b> integration, Havie integration, Romberg quadrature, modified Romberg-quadrature, trapezoid values, rectangle ...1978 
+
+DCOCUMENT: CACM-1990
+...<b>numerical</b> algorithm, <b>numerical</b> ...1978 
+
+DCOCUMENT: CACM-1298
+...1978 ...
+
+DCOCUMENT: CACM-2133
+...operations research, optimization theory, assignment problem, rectangular ...39 
+
+QUERY : currently interested in isolation of root of polynomial there is an old more recent material heindel l
+
+DCOCUMENT: CACM-2660
+...<b>polynomial</b> <b>root</b> finding, real ...1978 
+
+DCOCUMENT: CACM-1524
+...paper an algorithm is presented which allows one to terminate the iteration process on the basis of calculated bounds for the roundoff error which occurs in evaluating the ...stopping criterion has been tested on numerous examples and has been found to serve as a satisfactory means for accepting a complex number as a zero of a real 
+
+DCOCUMENT: CACM-1615
+...technique for using a digital computer to draw both ordinary and time-lag <b>root</b> locus ...impossible to obtain, are drawn with the same speed and accuracy as ordinary 
+
+DCOCUMENT: CACM-1999
+...problem of optimal initial approximants is considered, and some optimal <b>polynomial</b> initial approximations are ...machine with slow or no division, it is preferable to use an iterative 
+
+DCOCUMENT: CACM-1667
+...<b>root</b> finders, roots of <b>polynomial</b> equations, <b>polynomial</b> zeros, root-squaring operations, Graeffe method, resultant procedure, subresultant procedure, testing of roots, acceptance ...1978 
+
+DCOCUMENT: CACM-1893
+...<b>root</b> finders, roots of <b>polynomial</b> equations, <b>polynomial</b> zeros, root-squaring operations, Graeffe method, resultant procedure, subresultant procedure, testing of roots, acceptance ...1978 
+
+DCOCUMENT: CACM-1763
+...<b>root</b> finders, <b>polynomial</b> equation roots, quadratic equation roots, cubic equation roots, biquadratic equation roots, <b>polynomial</b> ...1978 
+
+DCOCUMENT: CACM-1949
+...finiteness assumptions, intellectual isolation, integer variable range, memory finiteness, finite word ...2 4.22 
+
+DCOCUMENT: CACM-0884
+...1978 ...
+
+DCOCUMENT: CACM-0848
+...functions it seems desirable to transform the argument to a short range symmetric about 10.1 will give examples of this usage for the square <b>root</b> and logarithm function for both binary and decimal ...germ of an idea in two previous papers [1,2] which no one seems to have picked up in almost five 
+
+QUERY : probabilistic algorithms especially those dealing with algebraic and symbolic manipulation some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam rabin m
+
+DCOCUMENT: CACM-2932
+...framework for research in the theory of complexity of computations is described, emphasizing the in terrelation between seemingly diverse problems and ...complexity of computations, <b>algebraic</b> complexity, in tractable problems, <b>probabilistic</b> 
+
+DCOCUMENT: CACM-2836
+...method may be applied to problems involving <b>probabilistic</b> parsing or combinatorial ...<b>algorithm</b> is presented for constructing the optimal derivation 
+
+DCOCUMENT: CACM-1474
+...prolonged computation it is generally assumed that the accumulated effect of roundoff errors is in some sense ...purpose of this paper is to give precise descriptions of certain <b>probabilistic</b> 
+
+DCOCUMENT: CACM-3175
+...updating scheme results in improved estimates that finally lead to breaking the ...code letter is assigned probabilities of representing plain text 
+
+DCOCUMENT: CACM-2681
+...dynamic memory repacking, memory compaction,storage fragmentation, multiprogramming system model, <b>probabilistic</b> model, central processor productivity, resource utilization, system ...<b>probabilistic</b> model of a multiprogramming system is exercised in order to determine the conditions under which the dynamic repacking of main memory is 
+
+DCOCUMENT: CACM-1935
+...mathematical model is developed for the mean and variance of the number of trials to recover a given document in a randomly received ...search method described is binary in nature and offers new potential for information retrieval 
+
+DCOCUMENT: CACM-2560
+...results are presented of an analysis of a <b>probabilistic</b> model of a multiprogrammed computer system with a two-level storage system in which there is sequential dependency of accesses between the ...numerical results are given which quantify the gains in CPU utilization obtainable by multiprogramming in the presence of this type of 
+
+DCOCUMENT: CACM-2516
+...data storage hardware is assumed to consist on n-levels of linearly connected memory hardware with increasing data access times and increasing data storage ...derived to predict the effect of such a system on data access times using sequential files, random access files, and structured files employing multiple-hierarchical linked 
+
+DCOCUMENT: CACM-2580
+...method is a set of productions together with sets of applicability rules and weight rules which operate on the productions deciding when and to what ...appears that full-blown music theory is not needed for rounds--all the hardware required for structural levels is not necessary for these 
+
+DCOCUMENT: CACM-2437
+...7 3.72 3.73 3.74 3.79 4.9 ...hashing techniques, hashing methods, hash coding, key transformation, key-to-address transformation, direct addressing, randomizing, random access, scatter storage, information retrieval, hashing analysis, randomization performance 
+
+QUERY : fast algorithm for context free language recognition or parsing
+
+DCOCUMENT: CACM-1265
+...number of diverse <b>recognition</b> procedures that have been proposed for <b>parsing</b> sentences with respect to a context-free grammar are described in this paper by means of a common ...algorithms for producing grammars equivalent to a given context-free grammar have been considered, and the increase in <b>recognition</b> efficiency they afford has been empirically 
+
+DCOCUMENT: CACM-2112
+...framework described string <b>recognition</b> and <b>parsing</b> may be treated as special cases of the translation ...formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+
+DCOCUMENT: CACM-2110
+...time bound proportional to n^3 (where n is the length of the string being parsed) in general; it has a n^2 bound for unambiguous grammars; and it runs in linear time on a large class of grammars, which seems to include most practical context-free programming <b>language</b> ...<b>parsing</b> <b>algorithm</b> which seems to be the most efficient general context-free <b>algorithm</b> 
+
+DCOCUMENT: CACM-2030
+...modified version of the basic <b>algorithm</b> is presented which blocks infinite analyses for grammars which contain ...compared with several previous parsers for context-sensitive grammars and general rewriting systems, and the difference between the two types of analyses is 
+
+DCOCUMENT: CACM-2476
+...60 3.64 ...artificial intelligence, AND/OR graphs, <b>language</b> theory, context-free 
+
+DCOCUMENT: CACM-2698
+...<b>algorithm</b> design emphasizes practical aspects which help in ...analyzer takes a general class of context-free grammars as drivers, and any finite string as 
+
+DCOCUMENT: CACM-2061
+...syntactic analysis, parser construction, syntactical analyzer construction, generators, compiler compilers, compiler writing systems, translator writing systems metacompilers, context-free grammars, formal languages, pushdown ...<b>algorithm</b> is described; it essentially carries out an exhaustive study of all possible runs of the pushdown automata generating the reduction 
+
+DCOCUMENT: CACM-2084
+...inherent ambiguity, complement, context-free language, Chomsky-language, phrase structure language, production system, type 2 language, bounded ...22 
+
+DCOCUMENT: CACM-1350
+...section 2, the augmented predictive analyzer as a <b>parsing</b> <b>algorithm</b> for arbitrary context-free languages is compared with two other <b>parsing</b> algorithms: a selective top-to-bottom <b>algorithm</b> similar to Irons' "error correcting parse algorithm" and an immediate constituent analyzer which is an extension of Sakai-Cocke's <b>algorithm</b> for normal ...originally due to Abbott is described standard-form grammar each of whose rules is in standard form, supplemented by additional information describing its derivation from the 
+
+DCOCUMENT: CACM-2739
+...paper presents a programming <b>language</b> designed specifically for the compact and perspicuous statement of restrictions of a natural <b>language</b> ...based on ten years' experience <b>parsing</b> <b>text</b> sentences with the comprehensive English 
+
+QUERY : articles describing the relationship between data types and concurrency e g what is the type of a process when is a synchronization attempt between two processes type correct in a message passing system is there any notion of the types of messages i e any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
+
+DCOCUMENT: CACM-2558
+...<b>attempt</b> is made to distinguish between access limitation and ...access keys, access control authentication, 
+
+DCOCUMENT: CACM-2242
+...numerical integration, product <b>type</b> quadrature, Gaussian quadrature, Simpson's ...1978 
+
+DCOCUMENT: CACM-2244
+...numerical integration, product <b>type</b> quadrature, trapezoidal ...1978 
+
+DCOCUMENT: CACM-2243
+...numerical integration, product <b>type</b> quadrature, Simpson's ...1978 
+
+DCOCUMENT: CACM-2241
+...numerical integration, product <b>type</b> quadrature, Gaussian quadrature, Simpson's ...1978 
+
+DCOCUMENT: CACM-2265
+...paper attempts to isolate the <b>notion</b> of <b>type</b> checking and presents a partial solution to the <b>type</b> checking problem based on the notions of abstraction and application of ...<b>correct</b> compilation and execution, the following question then arises: is a program properly constructed so that its operations and operands are compatible? The activity of answering this question is usually 
+
+DCOCUMENT: CACM-2957
+...methodology for database design is described which separates decisions concerning aggregate structure from decisions concerning key ...65 3.69 3.79 4.29 4.33 
+
+DCOCUMENT: CACM-2651
+...constructing a general purpose programming language, a key issue is providing a sufficient set of <b>data</b> <b>types</b> and associated operations in a manner that permits both natural problem-oriented notation and efficient ...resulting treatment of <b>data</b> <b>types</b> includes provision for programmer-defined <b>data</b> <b>types</b> <b>data</b> <b>types</b> and generic routines, programmer control over <b>type</b> conversion, and very flexible <b>data</b> <b>type</b> behavior, in a context that allows efficient compiled code and compact <b>data</b> 
+
+DCOCUMENT: CACM-0457
+...1978 ...
+
+DCOCUMENT: CACM-0618
+...<b>processes</b> are characterized in five main types, and the markets for each <b>type</b> are shown for 1950 and 1960 and ...1978 
+
+QUERY : what is the type of a module i don t want the entire literature on abstract data types here but i m not sure how to phrase this to avoid it i m interested in questions about how one can check that a module matches contexts in which it is used
+
+DCOCUMENT: CACM-1931
+...interval arithmetic, range arithmetic, error bounds, determinant evaluation, Chebyshev system, mathematical proof by ...determinants in a program to test a set of functions to see if they form a Chebyshev system is then 
+
+DCOCUMENT: CACM-0497
+...confined himself primarily to the analytical derivation, suggesting briefly, however, how the solution of the equation derived for each particular point of subdivision u(i) could be reduced to a discrete ...shown how Bellman's method may be applied to the curve-fitting problem when the additional constraints are added that the ends of the line segments must be on the 
+
+DCOCUMENT: CACM-1588
+...languages have suffered from their inability to deal directly with complex <b>data</b> ...write PL/I procedures that operate on simple and complex <b>data</b> list 
+
+DCOCUMENT: CACM-0595
+...teaching problem arises in determining how thoroughly a student must know the hardware and logic for that computer for which he will write COBOL ...generally accepted that some knowledge of the hardware and computer logic must be possessed by the 
+
+DCOCUMENT: CACM-2867
+...members can share much software as a result of the implementation of run-time modules at the lowest system ...paper describes the design philosophy used in the construction of a family of operating 
+
+DCOCUMENT: CACM-3059
+...queueing models for internal parallel processing by individual programs in a multiprogrammed system are developed in this ...percentage performance improvement from CPU:I/O overlap is found to be greatest for systems which are in approximate CPU:I/O utilization balance and for low degrees of 
+
+DCOCUMENT: CACM-1727
+...object program reduction, supervisor calls decreasing, jump frequencies estimation, control transfers estimation, optimal program segmentation, Markov chain program correspondence, program graph, one-entry subgraph, locally estimated jump frequencies, supervisor overhead decreasing, program segmentation algorithm, jump frequencies, program segmentation ...part a variant of this algorithm is derived, avoiding the necessity of computation involving large 
+
+DCOCUMENT: CACM-1323
+...model for computer languages and compute behavior is described, based on the notions of functional application and functional abstraction, but also having analogues for imperative language ...paper describes how some of the semantics of ALGOL 60 can be formalized by establishing a correspondence between expressions of ALGOL 60 and expressions in a modified 
+
+DCOCUMENT: CACM-2845
+...makes it possible to force logical storage blocks to coincide with physical storage blocks, such as tracks and ...set of permitted block sizes {SIZE(i)}, i=0,n, must satisfy the condition SIZE(i)=SIZE(i-1)+SIZE(i-k(i)) where k may be any meaningful integral-valued 
+
+DCOCUMENT: CACM-2905
+...shown to be complete in the sense that for every set I the smallest table in which the elements of I can be stored and from which they can be retrieved by using a perfect hashing function constructed by this method can be ...refinement of hashing which allows retrieval of an item in a static table with a single probe is 
+
+QUERY : what does type compatibility mean in languages that allow programmer defined types you might want to restrict this to extensible languages that allow definition of abstract data types or programmer supplied definitions of operators like
+
+DCOCUMENT: CACM-2651
+...constructing a general purpose programming language, a key issue is providing a sufficient set of <b>data</b> <b>types</b> and associated operations in a manner that permits both natural problem-oriented notation and efficient ...resulting treatment of <b>data</b> <b>types</b> includes provision for programmer-defined <b>data</b> <b>types</b> <b>data</b> <b>types</b> and generic routines, <b>programmer</b> control over <b>type</b> conversion, and very flexible <b>data</b> <b>type</b> behavior, in a context that allows efficient compiled code and compact <b>data</b> 
+
+DCOCUMENT: CACM-2940
+...paper the abstraction techniques are extended from simple <b>data</b> representation and function <b>definition</b> to the iteration statement, the most important poin t of interaction between <b>data</b> and the control structure of the ...means of specializing Alphard's loops to operate on <b>abstract</b> entities without explicit dependence on the representation of those entities is in 
+
+DCOCUMENT: CACM-3105
+...sharing of information is needed and desirable for many applications and is supported in operating systems by access control ...paper shows how to extend programming <b>languages</b> to provide controlled 
+
+DCOCUMENT: CACM-3103
+...programs are designed with <b>abstract</b> <b>data</b> <b>types</b> such as sets and lists, <b>programmer</b> time can be saved by automating the process of filling in low-level implementation ...programming systems have provided only a single general purpose implementation for an <b>abstract</b> 
+
+DCOCUMENT: CACM-1861
+...<b>definition</b> facilities for higher level ...conclusions are drawn about future definitional 
+
+DCOCUMENT: CACM-2956
+...need for a notation for iterating over the elements of any finite set (instead of the more narrow for i:= 1 to n notation), the use of the domain of an array as a <b>data</b> type, the need for a simple notation for allowing <b>types</b> of parameters to be themselves parameters (but in a restrictive fashion), and resulting problems with conversion of values from one ...number of issues are explored concerning the notion that a <b>data</b> <b>type</b> is a set of 
+
+DCOCUMENT: CACM-1902
+...discussion is given of alterations that were made to a typical university operating system to record the results of programming exercises in three different languages, including assembly ...grading scheme provision is made for testing with programmer-supplied 
+
+DCOCUMENT: CACM-2958
+...paper presents and discusses the application of an algebraic technique for the specification of <b>abstract</b> <b>data</b> ...examples presented is a top-down development of a symbol table for a block structured language; a discussion of the proof of its 
+
+DCOCUMENT: CACM-2470
+...appendix is included which presents in detail the formal system governing webs and fen, the abstractions used informally in the body of the ...questions of local and global environments and of various modes of function calling and parameter passing are 
+
+DCOCUMENT: CACM-2082
+...idea is (1) to use the phrase structure of a <b>program</b> to <b>define</b> the structure of a formal documentation for that program; (2) to use the syntactic <b>types</b> and identifiers in the resulting structure to trigger the automatic formation of questions to the programmer, whose answers will become part of that documentation; and (3) to provide automatic storage and retrieval facilities so that other programmers who <b>want</b> to understand or modify the <b>program</b> can access the resulting documentation, which is cross-indexed in various ways by syntactic <b>types</b> and ...syntax analysis, PL 360, enforced documentation, indexed documentation, automatic interrogation, phase structured grammar, syntax-directed documentation, syntax 
+
+QUERY : list all articles dealing with data types in the following languages that are referenced frequently in papers on the above languages e g catch any languages with interesting type structures that i might have missed
+
+DCOCUMENT: CACM-1098
+...differences between the four <b>languages</b> under consideration are detailed: representations of data, both by the programmer and within the machine; methods for storage allocation; programming formalisms and special processes available, including arithmetic facilities; and usability in terms of availability, documentation, learning aids and debugging ...common features of list-processing <b>languages</b> are reviewed: forms of <b>data</b> <b>structures</b> which are manipulated, necessity for dynamic allocation of storage, use of pushdown stores, and use of recursive 
+
+DCOCUMENT: CACM-2705
+...development of natural <b>languages</b> toward flexion less, word-order based <b>language</b> <b>types</b> speaks for programming <b>language</b> design based on general, abstract ...promising avenues for further work of wide influence are seen to be high quality program 
+
+DCOCUMENT: CACM-2956
+...need for a notation for iterating over the elements of any finite set (instead of the more narrow for i:= 1 to n notation), the use of the domain of an array as a <b>data</b> type, the need for a simple notation for allowing <b>types</b> of parameters to be themselves parameters (but in a restrictive fashion), and resulting problems with conversion of values from one ...number of issues are explored concerning the notion that a <b>data</b> <b>type</b> is a set of 
+
+DCOCUMENT: CACM-3105
+...sharing of information is needed and desirable for many applications and is supported in operating systems by access control ...<b>paper</b> shows how to extend programming <b>languages</b> to provide controlled 
+
+DCOCUMENT: CACM-1485
+...disadvantages and factors influencing the choice of a form of component for a <b>language</b> are discussed, and the <b>paper</b> concludes with the suggestion that programming <b>languages</b> evolve toward one which will permit all the most convenient ways of structuring programs, organizing systems and referencing ...<b>paper</b> the major components of every programming <b>language</b> are identified as: (1) the elementary program statement, (2) mechanisms for linking elementary statements together, (3) the means by which a program can obtain <b>data</b> 
+
+DCOCUMENT: CACM-2316
+...section on chronology indicates the happenings of the significant previous time periods and the major topics of 1972. Key concepts other than specific <b>languages</b> are ...key part of the <b>paper</b> is a tree showing the chronological development of <b>languages</b> and their 
+
+DCOCUMENT: CACM-2406
+...<b>languages</b> concentrate on the declaration of logical <b>data</b> <b>structures</b> with little concern for how these <b>structures</b> are physically realized on a computer ...<b>paper</b> reviews past work in the <b>data</b> definition <b>language</b> for describing both logical and physical 
+
+DCOCUMENT: CACM-2941
+...specific topics addressed are: module <b>structure</b> and its use in defining abstractions, data-structuring facilities in Mesa, an equivalence algorithm for <b>types</b> and <b>type</b> coercions, the benefits of the <b>type</b> system and why it is breached occasionally, and the difficulty of making the treatment of variant records ...experiences of Mesa's first users-primarily its implementers-are discussed, and some implications for Mesa and similar programming <b>languages</b> are 
+
+DCOCUMENT: CACM-2603
+...<b>paper</b> this result is extended, showing that, in fact, the first class is equivalent to the class of deterministic context ...reducing transition languages, syntax controlled generators, deterministic context-free 
+
+DCOCUMENT: CACM-1588
+...<b>languages</b> have suffered from their inability to <b>deal</b> directly with complex <b>data</b> ...write PL/I procedures that operate on simple and complex <b>data</b> <b>list</b> 
+
+QUERY : theory of distributed systems and databases subtopics of special interest include reliability and fault tolerance in distributed systems atomicity distributed transactions synchronization algorithms resource allocation lower bounds and models for asynchronous parallel systems also theory of communicating processes and protocols p box 2158 yale station new haven conn 06520
+
+DCOCUMENT: CACM-2578
+...mutual exclusion, robustness, sharing, error recovery, <b>distributed</b> control, ...16,1978 
+
+DCOCUMENT: CACM-3082
+...concept of one event happening before another in a <b>distributed</b> <b>system</b> is examined, and is shown to define a partial ordering of the ...total ordering is illustrated with a method for solving <b>synchronization</b> 
+
+DCOCUMENT: CACM-3148
+...paper describes an approach to <b>distributed</b> computing at the level of general purpose programming ...part of an ambitious program of development in advanced programming languages, and relations with other aspects of the project are also 
+
+DCOCUMENT: CACM-3137
+...technique is illustrated by application to the design of an interactive <b>transaction</b> processing ...making evident the effect of various design and operating parameters on overall cost per 
+
+DCOCUMENT: CACM-3043
+...concept is proposed for real-time applications controlled by microcomputer networks with <b>distributed</b> ...communicate and synchronize by means of procedure calls and guarded 
+
+DCOCUMENT: CACM-3128
+...relationship of the mechanism to protection mechanisms in the <b>system</b> is explained; in particular, eventcounts are shown to be applicable to situations where confinement of information ...control of ordering seems to simplify correctness arguments and also simplifies implementation in <b>distributed</b> 
+
+DCOCUMENT: CACM-2849
+...branching broadcast communication <b>system</b> for carrying digital <b>data</b> packets among locally <b>distributed</b> computing ...<b>model</b> for estimating performance under heavy loads and a packet <b>protocol</b> for error controlled communication are included for 
+
+DCOCUMENT: CACM-2949
+...<b>distributed</b> computer network, correctness proofs, computer networks, <b>distributed</b> control, network topology, routing problem in networks, <b>distributed</b> operating system, store and forward packet switching, store and forward message switching, traffic ...major constrain ts on such a topology information scheme is that it may not involve a central 
+
+DCOCUMENT: CACM-3141
+...decentralized <b>algorithm</b> uses a technique of selective message extinction in order to achieve an average number of message passes of order (n ...note presents an improvement to LeLann's <b>algorithm</b> for finding the largest (or smallest) of a set of uniquely numbered <b>processes</b> arranged in a circle, in which no central controller exists and the number of <b>processes</b> is not known a 
+
+DCOCUMENT: CACM-0052
+...1978 ...
+
+QUERY : computer performance evaluation techniques using pattern recognition and clustering la 70803
+
+DCOCUMENT: CACM-2641
+...<b>pattern</b> recognition, feature selection, minimal spanning ...63 5.39 
+
+DCOCUMENT: CACM-0462
+...programmed digital computers as general <b>pattern</b> classification and <b>recognition</b> devices is one phase of the current lively interest in artificial ...important to choose a class of signals which is, at present, undergoing a good deal of visual inspection by trained people for the purpose of <b>pattern</b> 
+
+DCOCUMENT: CACM-2215
+...powerful <b>techniques</b> developed for searching two-person, strictly competitive game trees can easily be incorporated either directly or by analogy into SPR ...sequential <b>pattern</b> recognition, game tree searching, game against nature, gamma procedure, mini average backing-up procedure, dynamic programming, branch-and-bound approach, optimal 
+
+DCOCUMENT: CACM-2019
+...amount of overlap within each class of characters versus the amount between classes is used to evaluate the degree of normalization achieved with respect to other published methods including size and shear normalization through ...<b>pattern</b> standardization <b>techniques</b> based on geometrical projection is applied to a file of digitized hand printed numerals obtained from sales 
+
+DCOCUMENT: CACM-2402
+...availability of interactive, three-dimensional, <b>computer</b> graphics systems coupled to powerful digital computers encourages the development of algorithms adapted to this ...<b>pattern</b> <b>recognition</b> <b>techniques</b> make possible a number of approaches to X-ray structure determination based on molecular 
+
+DCOCUMENT: CACM-1653
+...synthesis are presented as three levels of approach to evaluation, requiring successively greater amounts of ...state of the art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals and problems are 
+
+DCOCUMENT: CACM-2811
+...general waveform parsing system with application to structural <b>pattern</b> <b>recognition</b> of carotid pulse ...carotid arterial pulse wave is of medical importance because of variation in its structure induced by arterial aging and cardiovascular 
+
+DCOCUMENT: CACM-2318
+...paper examines the interrelationships between models and other methods for evaluating the <b>performance</b> of <b>computer</b> systems and establishes circumstances under which the use of a ...constitute a useful means of investigating <b>computer</b> system 
+
+DCOCUMENT: CACM-2370
+...system includes two flying-spot scanners and a TV camera specially interfaced to a process control digital computer, dot-mode and vector displays, analog input and output facilities, and a variety of other experimental ...system design and programming support are described and typical applications in scanner control, optical character recognition,and image processing are 
+
+DCOCUMENT: CACM-0204
+...1978 ...
+
+QUERY : analysis and perception of shape by humans and computers shape descriptions shape recognition by computer two dimensional shapes measures of circularity shape matching
+
+DCOCUMENT: CACM-2569
+...paper presents a rejection method for exactly generating gamma random variables when a is greater than 1. The ...<b>shape</b> parameter, a, is integral, generating gamma random variables with a digital <b>computer</b> is 
+
+DCOCUMENT: CACM-3107
+...suggested that the method has advantages in both speed and programming simplicity over previous methods, especially for "difficult" combinations of parameter ...method is compared with previously published methods both theoretically and through <b>computer</b> 
+
+DCOCUMENT: CACM-3052
+...ratios cast doubt on the widespread belief that the observed "S-shape" of lifetime (reciprocal of miss ratio) versus capacity curve indicates a property of behavior of programs that maintain a constant number of pages in main ...ratios are measured as a function of capacity and measurement length, then they are useful in studying systems in which operation of a program is periodically interrupted by task 
+
+DCOCUMENT: CACM-2847
+...small (a) the method suggested here also dominates methods recently suggested by Dieter and Ahrens, albeit those methods dominate for ...paper describes a method of generating gamma variates that appears to be less costly than Wallace's recently 
+
+DCOCUMENT: CACM-2771
+...practical designers, the technique has the advantage that operations are concise, readily composed, and are given in terms of easily imagined solidsuite short sequences of operations suffice to build up complex solids bounded by many ...technique is presented which allows a class of solid objects to be synthesized and stored using a 
+
+DCOCUMENT: CACM-2754
+...digitized waveform are detected by an algorithm incorporating piecewise linear approximation and tabular parsing ...12 3.24 3.34 3.63 4.19 5.13 
+
+DCOCUMENT: CACM-3098
+...generating random variables from the gamma distribution with nonintegral <b>shape</b> parameter a is ...core storage requirements and programming effort for this method are 
+
+DCOCUMENT: CACM-3046
+...computational times for the proposed method remain fairly constant for medium and large ...rejection method is proposed for generating gamma variates with nonintegral <b>shape</b> parameter a, a > 1. This method is similar to other 
+
+DCOCUMENT: CACM-2455
+...shown that, by permitting imbalances of up to five units, the retrieval time is increased a small amount while the amount of restructuring required is decreased by a factor of ...experiment is performed to compare these trees with standard AVL trees and with balanced trees on the basis of mean retrieval time, of amount of restructuring expected, and on the worst case of retrieval 
+
+DCOCUMENT: CACM-3125
+...algorithm has shown that its execution cost is nearly linear with the size of the program, and that it leads to a smaller optimizer that requires less execution ...elimination of redundant computations and the moving of invariant computations out of loops are often done separately, with invariants moved outward 
+
+QUERY : texture analysis by computer digitized texture analysis texture synthesis perception of texture
+
+DCOCUMENT: CACM-2829
+...patch rendering algorithm allows accurate computation of the surface normal to the patch at each picture element, permitting the simulation of the mirror ...intensity of the pattern at each picture element is computed as a weighted average of regions of the pattern definition 
+
+DCOCUMENT: CACM-2523
+...resulting map is cleaned by comparing the region colors with the textures of the corresponding regions in the picture, and also by merging some regions with others according to criteria based on topology and ...method has been applied to the construction of cloud cover maps from cloud cover pictures obtained by 
+
+DCOCUMENT: CACM-2325
+...foundations (finite precision number systems, computational complexity), <b>synthesis</b> and <b>analysis</b> of algorithms, <b>analysis</b> of error, programs and program ...3 5.0 5.1 
+
+DCOCUMENT: CACM-2825
+...<b>analysis</b> of variance, cluster analysis, contingency tables, data analysis, discriminant analysis, factor analysis, graphics, outliers, regression, time series, ...3 3.3 4.0 
+
+DCOCUMENT: CACM-1404
+...special operator calculus developed by Hartly for programming <b>analysis</b> of variance for multifactor experiments is extended to cover the <b>analysis</b> of ...computational procedure for the <b>analysis</b> of multiple covariance in statistics is discussed with reference to the <b>analysis</b> of 
+
+DCOCUMENT: CACM-2494
+...graphic principle used is the representation of the elements of a data matrix of similarities or dissimilarities by <b>computer</b> printed symbols (of character overstrikes) of various shades of darkness, where a dark symbol corresponds to a small ...set of data consisting of the correlations of 24 psychological tests is used to illustrate the comparison of groupings by four methods of factor <b>analysis</b> and two methods of 
+
+DCOCUMENT: CACM-1679
+...discussed are hardware and software implementations of the algorithm which perform only (N/4) log2 (N/2) complex multiply and add operations, and which require only N real storage locations in analyzing each N-point ...preserves the order and symmetry of the Cooley-Turkey fast Fourier transform algorithm while effecting the two-to-one reduction in computation and storage which can be achieved when the series is 
+
+DCOCUMENT: CACM-1260
+...cut step procedure for convergence and by imposing physical constraints on the functional form of the calculation it is possible to make the <b>analysis</b> on a small ...problem of analyzing data from a Mossbauer effect experiment is 
+
+DCOCUMENT: CACM-1732
+...factorial variance analysis, variance, statistical ...1978 
+
+DCOCUMENT: CACM-1823
+...factorial variance analysis, variance, statistical ...1978 
+
+QUERY : the use of operations research models to optimize information system performance this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
+
+DCOCUMENT: CACM-2452
+...work first discusses the factors that affect file (data base) <b>organization</b> performance, an elusive subject, and then presents a methodology, a <b>model</b> and a programmed <b>system</b> to estimate primarily total storage costs and average access time of several file organizations, given a specific <b>data</b> base, query characterization and device-related ...70 3.71 3.72 3.74 3.79 
+
+DCOCUMENT: CACM-2765
+...derived to estimate average access time (read only) and storage requirements, formalizing the interaction of <b>data</b> <b>base</b> content characteristics, logical complexity of queries, and machine timing and blocking specifications identified as having a first-order effect on ...formulations presented are necessary to be used in conjunction with any <b>index</b> <b>selection</b> criteria to determine the optimum set of <b>index</b> 
+
+DCOCUMENT: CACM-1976
+...method which, in its degenerate case, becomes the conventional <b>secondary</b> <b>index</b> filing scheme works similarly but has the following advantages: (1) the elimination of multiple accesses in many cases; (2) the elimination of false drops; (3) the elimination of computer time to <b>perform</b> intersection of key sets each qualified for one <b>secondary</b> <b>index</b> field only; and (4) the avoidance of long strings of keys when an <b>index</b> field appearing in a query has very few possible ...redundancy and storing keys (or access numbers of the records) that satisfy different combinations of <b>secondary</b> <b>index</b> values in "buckets," it is possible to retrieve all keys satisfying any input 
+
+DCOCUMENT: CACM-2816
+...cost function describing the excess costs due to physical disorganization is defined, and this function is minimized to obtain the optimum <b>reorganization</b> ...<b>database</b> organizations, the cost of accessing the <b>database</b> will increase due to structural changes caused by updates and 
+
+DCOCUMENT: CACM-2969
+...algorithm takes into account the dependencies between files and programs such as occur in real heterogeneous computer ...optimization procedure for the allocation of program and <b>data</b> files in a computer network is 
+
+DCOCUMENT: CACM-2114
+...record address, K-pointer, K-list, file, directory, generalized file structure, inverted file, index-sequential-file, multilist file, description, file search, directory search, serial processing of lists, prime keyword, parallel processing of ...generalized file structure is provided by which the concepts of keyword, index, record, file, directory, file structure, directory decoding, and record retrieval are defined and from which some of the frequently used file structures such as inverted files, index-sequential files, and multilist files are 
+
+DCOCUMENT: CACM-2318
+...paper examines the interrelationships between <b>models</b> and other methods for evaluating the <b>performance</b> of computer systems and establishes circumstances under which the use of a ...constitute a useful means of investigating computer <b>system</b> 
+
+DCOCUMENT: CACM-2988
+...paper presents a computationally tractable methodology for including accurately the effects of finite memory size and workload memory requirements in queueing network <b>models</b> of computer ...workload variables such as memory requirement distribution and job swap time, and <b>performance</b> measures such as response time and memory utilization are graphically 
+
+DCOCUMENT: CACM-2957
+...methodology for <b>database</b> design is described which separates <b>decisions</b> concerning aggregate structure from <b>decisions</b> concerning key ...65 3.69 3.79 4.29 4.33 
+
+DCOCUMENT: CACM-2926
+...records of each length are uniformly <b>distributed</b> within the file, and if a wide distribution of record lengths exists within the file, then this strategy results in shallow trees with fast access ...73 4.33 
+
+QUERY : the application of fuzzy subset theory to clustering and information retrieval problems this includes performance evaluation and automatic indexing considerations
+
+DCOCUMENT: CACM-2711
+...document retrieval, or other pattern matching environment where stored entities (documents) are compared with each other or with incoming patterns (search requests), it appears that the best <b>indexing</b> (property) space is one where each entity lies as far away from the others as possible; in these circumstances the value of an <b>indexing</b> system may be expressible as a function of the ...approach based on space density computations is used to choose an optimum <b>indexing</b> vocabulary for a collection of 
+
+DCOCUMENT: CACM-2990
+...relating term accuracy to the frequency of occurrence of the term in the documents of a collection it is possible to give formal proofs of the effectiveness with respect to a given user query of a number of <b>automatic</b> <b>indexing</b> systems that have been used successfully in experimental ...published <b>evaluation</b> work is based on measuring the <b>retrieval</b> <b>performance</b> of an average user 
+
+DCOCUMENT: CACM-0329
+...preparation for the widespread use of <b>automatic</b> scanners which will read documents and transmit their contents to other machines for analysis, this report presents a new concept in <b>automatic</b> analysis: the relative-frequency approach to measuring the significance of words, word groups, and ...point toward more sophisticated mathematical and linguistic techniques for the solution of <b>problems</b> of <b>automatic</b> 
+
+DCOCUMENT: CACM-1457
+...<b>information</b> <b>retrieval</b> programs require the manipulation of a variety of different data structures, including linear text, sparse matrices, and tree or list ...variety of data representations which have been used to describe structured <b>information</b> are then examined, and the characteristics of various processing languages are outlined in the light of the procedures requiring 
+
+DCOCUMENT: CACM-1032
+...searching strategy, a linear model for an <b>evaluation</b> function of relevancy is developed which rewards the system for retrieving relevant documents and not retrieving the nonrelevant, and penalizes the system for the escaped relevant documents and false ...storage and <b>retrieval</b> systems are composed of three major components: (a) identification of <b>information</b> and tagging it for effective retrieval, (b) searching strategy, how to enter the file to circumvent the scanning of nonrelevant material, and (c) file organization to make access to <b>information</b> 
+
+DCOCUMENT: CACM-2631
+...rectangular distribution of key frequencies results in a much simplified file organization and promises considerable cost ...method treats text as a string of characters rather than words bounded by spaces, and chooses subsets of strings such that their frequencies of occurrence are more even than those of word 
+
+DCOCUMENT: CACM-1653
+...synthesis are presented as three levels of approach to evaluation, requiring successively greater amounts of ...state of the art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals and <b>problems</b> are 
+
+DCOCUMENT: CACM-2451
+...standard <b>information</b> <b>retrieval</b> operation is to determine which records in a data collection satisfy a given query expressed in terms of data ...potentially useful for the comparison it affords between observed <b>performance</b> and that of an intuitively attractive ideal search 
+
+DCOCUMENT: CACM-2307
+...<b>automatic</b> query modification based on user needs, and for a continuous reorganization of the stored <b>information</b> as a function of earlier file processing and of normal collection ...proposed procedures provide powerful tools for <b>information</b> <b>retrieval</b> and for the control of dynamic library collections in which new items are continually added and old ones are 
+
+DCOCUMENT: CACM-2542
+...<b>performance</b> <b>information</b> obtained from these routines as feedback, the <b>problems</b> which adversely affect <b>performance</b> are detected early enough so that they can be corrected without costly major reimplementation of the ...0 4.12 4.22 4.30 4.42 4.43 
+
+QUERY : the use of bayesian decision models to optimize information retrieval system performance this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
+
+DCOCUMENT: CACM-2278
+...binary trees, <b>search</b> trees, <b>information</b> storage, <b>information</b> ...70 3.73 
+
+DCOCUMENT: CACM-1699
+...<b>system</b> evaluation, experimental document retrieval, document retrieval, document perusal, man-machine communication, remote console communication, teletypewriter communication, remote terminal communication, <b>retrieval</b> command language, symbolic command language, interactive systems, <b>user</b> learning factors, on-line ...basic assumption of the research is that an <b>information</b> <b>retrieval</b> <b>system</b> that provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with many of the tools which would be available to him were he actually performing his <b>search</b> at a library or repository of 
+
+DCOCUMENT: CACM-2288
+...existence enables the design of an <b>information</b> <b>retrieval</b> <b>system</b> with a minimal <b>search</b> time and no redundant ...<b>information</b> retrieval, record organization, query structure, record structure, storage on tapes, storage space, minimum access 
+
+DCOCUMENT: CACM-2976
+...inverted file organization, database <b>performance</b> and measurement, <b>information</b> retrieval, query ...70 3.72 
+
+DCOCUMENT: CACM-0275
+...1978 ...
+
+DCOCUMENT: CACM-2293
+...binary searching, record ...1978 
+
+DCOCUMENT: CACM-3012
+...results show the important role played by frequently chosen laboratory reference leaders in ...monitor built into the computer <b>system</b> provided usage data for the 
+
+DCOCUMENT: CACM-2258
+...hashing techniques, hashing methods, hash coding, keys, key transformation, key-to-address transformation, direct addressing, direct access method, randomizing, random access file organization, file search, scatter storage, <b>information</b> ...7 3.72 3.73 3.74 3.79 
+
+DCOCUMENT: CACM-2157
+...binary searching, record ...1978 
+
+DCOCUMENT: CACM-2552
+...hash code, open hash, chaining, <b>information</b> retrieval, ...7 
+
+QUERY : the use of computer science principles e g data structures numerical methods in generating optimization e g linear programming algorithms this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
+
+DCOCUMENT: CACM-1104
+...1978 ...
+
+DCOCUMENT: CACM-1342
+...1978 ...
+
+DCOCUMENT: CACM-2417
+...1978 ...permutations and 
+
+DCOCUMENT: CACM-0270
+...1978 ...
+
+DCOCUMENT: CACM-2968
+...total restructuring-for building balanced binary search trees are ...criteria for comparison encompass theoretical 
+
+DCOCUMENT: CACM-0129
+...1978 ...
+
+DCOCUMENT: CACM-0409
+...<b>programming</b> system to facilitate the solution of information processing problems and to provide intercommunication between programs and/or programmers has been developed and realized on the IBM 709/7090 ...system is based on a master file concept and has provisions for accepting, storing, and retrieving both descriptions and instances of large and <b>complex</b> <b>data</b> sets, as well as <b>algorithms</b> defined on these <b>data</b> 
+
+DCOCUMENT: CACM-2830
+...1978 ...
+
+DCOCUMENT: CACM-2142
+...electron microscopy and X-ray photography) in which it is desirable to estimate the gray levels of a digital picture at the individual points from the sums of the gray levels along straight lines (projections) at a few ...12 3.13 3.15 3.17 3.63 5.41 
+
+DCOCUMENT: CACM-0140
+...1978 ...
+
+QUERY : the role of information retrieval in knowledge based systems i e expert systems
+
+DCOCUMENT: CACM-3134
+...class of <b>information</b> systems, the normal multiplication table method yields far more rapid <b>retrieval</b> with a more economical space requirement than conventional ...examples are given; the results with respect to the number of disk accesses and disk space are compared to other common 
+
+DCOCUMENT: CACM-1514
+...adjustment procedure <b>based</b> on maximizing the Bayes expected gain proposed for matched term <b>retrieval</b> ...expected gain and its probability distribution are derived as a function of: (1) the prior proportion of omitted terms, and (2) the coefficient of separation between two distributions corresponding to values of an adjustment 
+
+DCOCUMENT: CACM-1699
+...<b>system</b> evaluation, experimental document retrieval, document retrieval, document perusal, man-machine communication, remote console communication, teletypewriter communication, remote terminal communication, <b>retrieval</b> command language, symbolic command language, interactive systems, user learning factors, on-line ...basic assumption of the research is that an <b>information</b> <b>retrieval</b> <b>system</b> that provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with many of the tools which would be available to him were he actually performing his search at a library or repository of 
+
+DCOCUMENT: CACM-2882
+...paper discusses a simulation model of a data <b>retrieval</b> <b>system</b> which has the effect of significantly reducing the cost of experimentation and enabling research never ...70 3.71 3.72 3.73 3.74 
+
+DCOCUMENT: CACM-0651
+...1978 ...
+
+DCOCUMENT: CACM-2345
+...need for education related to <b>information</b> <b>systems</b> in organizations is discussed, and a curriculum is proposed for graduate professional programs in universities, at the Master's ...course descriptions are presented, program organization discussed, and implementation questions 
+
+DCOCUMENT: CACM-0018
+...1978 ...
+
+DCOCUMENT: CACM-2311
+...development is categorized from a generational point of view that parallels the commonly described computing <b>system</b> ...scope of development projects and the technological world view of the <b>system</b> developer are 
+
+DCOCUMENT: CACM-1959
+...bases for this organization are a generalized interrupt structure and the newly introduced concept of "file tagging," which is the process of associating program structures and interrupt generating conditions with items in the data ...programming structure, language constructs, and a supervisory <b>system</b> organization are proposed for the design and coding of large shared data 
+
+DCOCUMENT: CACM-2407
+...need for education related to <b>information</b> <b>systems</b> in organizations is discussed, and a curriculum is proposed for an undergraduate ...undergraduate curricula, management systems, <b>information</b> systems, <b>information</b> analysis, <b>system</b> design, <b>systems</b> 
+
+QUERY : parallel processors in information retrieval
+
+DCOCUMENT: CACM-1811
+...shown that, with proper programming, solution time when N <b>processors</b> are applied approaches 1/N times the solution time for a single processor, while improper programming can actually lead to an increase of solution time with the ...data gathered from simulation runs demonstrate the efficient solution of this problem, typical of a large class of important 
+
+DCOCUMENT: CACM-2714
+...performances compare very favorably with the previous best <b>parallel</b> merging algorithm, Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m steps in the general ...linearly ordered sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, <b>parallel</b> <b>processors</b> working 
+
+DCOCUMENT: CACM-3156
+...present a <b>parallel</b> algorithm which uses n2 <b>processors</b> to find the connected components of an undirected graph with n vertices in ...algorithm can be used to find the transitive closure of a symmetric Boolean 
+
+DCOCUMENT: CACM-3075
+...model of computation for this procedure permits simultaneous fetches from the same memory ...algorithm makes use of a technique that requires more space than the product of <b>processors</b> and 
+
+DCOCUMENT: CACM-2278
+...binary trees, search trees, <b>information</b> storage, <b>information</b> ...70 3.73 
+
+DCOCUMENT: CACM-2288
+...existence enables the design of an <b>information</b> <b>retrieval</b> system with a minimal search time and no redundant ...<b>information</b> retrieval, record organization, query structure, record structure, storage on tapes, storage space, minimum access 
+
+DCOCUMENT: CACM-0891
+...method of solution makes it possible for many groups who have previously dismissed an <b>information</b> <b>retrieval</b> program as expensive and difficult (from a programming stand-point) to reconsider their position, for the present solution makes it possible to install an <b>information</b> <b>retrieval</b> program in less than three months, and with relatively little ...<b>information</b> <b>retrieval</b> problem whose solution is presented here was posed by a technical library with limited bubget and 
+
+DCOCUMENT: CACM-1699
+...system evaluation, experimental document retrieval, document retrieval, document perusal, man-machine communication, remote console communication, teletypewriter communication, remote terminal communication, <b>retrieval</b> command language, symbolic command language, interactive systems, user learning factors, on-line ...basic assumption of the research is that an <b>information</b> <b>retrieval</b> system that provides for man-machine dialogue at a remote inquiry terminal should provide a searcher with many of the tools which would be available to him were he actually performing his search at a library or repository of 
+
+DCOCUMENT: CACM-3134
+...class of <b>information</b> systems, the normal multiplication table method yields far more rapid <b>retrieval</b> with a more economical space requirement than conventional ...examples are given; the results with respect to the number of disk accesses and disk space are compared to other common 
+
+DCOCUMENT: CACM-1457
+...<b>information</b> <b>retrieval</b> programs require the manipulation of a variety of different data structures, including linear text, sparse matrices, and tree or list ...variety of data representations which have been used to describe structured <b>information</b> are then examined, and the characteristics of various processing languages are outlined in the light of the procedures requiring 
+
+QUERY : parallel processors and paging algorithms
+
+DCOCUMENT: CACM-3075
+...model of computation for this procedure permits simultaneous fetches from the same memory ...<b>algorithm</b> makes use of a technique that requires more space than the product of <b>processors</b> and 
+
+DCOCUMENT: CACM-3156
+...present a <b>parallel</b> <b>algorithm</b> which uses n2 <b>processors</b> to find the connected components of an undirected graph with n vertices in ...<b>algorithm</b> can be used to find the transitive closure of a symmetric Boolean 
+
+DCOCUMENT: CACM-1811
+...shown that, with proper programming, solution time when N <b>processors</b> are applied approaches 1/N times the solution time for a single processor, while improper programming can actually lead to an increase of solution time with the ...data gathered from simulation runs demonstrate the efficient solution of this problem, typical of a large class of important 
+
+DCOCUMENT: CACM-2714
+...performances compare very favorably with the previous best <b>parallel</b> merging algorithm, Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m steps in the general ...linearly ordered sets A, B, |A|=m, |B|=n, m<=n, and p, p<=m, <b>parallel</b> <b>processors</b> working 
+
+DCOCUMENT: CACM-3006
+...type of anomaly, for example, concerns the fact that, with certain reference strings and <b>paging</b> algorithms, an increase in mean memory allocation may result in an increase in fault ...types of anomalous behavior which may occur in paged virtual memory operating systems a 
+
+DCOCUMENT: CACM-2723
+...complex cases involving several list <b>processors</b> and one or more garbage collection <b>processors</b> are also briefly ...primary aim throughout is to allow the list <b>processor</b> to run unimpeded while the other <b>processor</b> reclaims list 
+
+DCOCUMENT: CACM-2570
+...3 4.32 4.34 4.35 5.3 5.32 5.4 5.42 ...problem of scheduling two or more <b>processors</b> to minimize the execution time of a program which consists of a set of partially ordered tasks is 
+
+DCOCUMENT: CACM-2973
+...<b>algorithms</b> are presented for sorting n^2 elements on an n X n mesh-connected <b>processor</b> array that require O(n) routing and comparison ...<b>algorithms</b> of this paper are shown to be optimal in time within small constant 
+
+DCOCUMENT: CACM-1752
+...scheduling and resource balancing for a medium size virtual memory <b>paging</b> machine are discussed in relation to a combined batch processing and time-sharing ...results relative to alternate hardware characteristics and the effects of program mix and loading variations are also 
+
+DCOCUMENT: CACM-2365
+...modifications produce modest savings in many common situations and very significant savings for large problems run under an operating system which uses ...efficiency of conventional Fortran programs for matrix computations can often be improved by reversing the order of nested 
+
+QUERY : modelling and simulation in agricultural ecosystems
+
+DCOCUMENT: CACM-2721
+...totally accurate, the <b>simulation</b> was found to predict the general annual pattern of plankton growth fairly well and, specifically, revealed the importance of the annual velocity cycle in determining such ...paper deals with the development of a mathematical <b>model</b> for and the digital <b>simulation</b> in Fortran IV of phytoplankton and zooplankton population densities in a river using previously developed rate 
+
+DCOCUMENT: CACM-2749
+...paper compares a new method of <b>simulation</b> organization, called the significant event method, with an old one, called the clock pulse method, using as examples two automobile traffic ...significant event method is found to be more efficient than the clock pulse method at low 
+
+DCOCUMENT: CACM-1928
+...main results obtained are a clear and useful separation of structural and behavioral <b>model</b> description, a reduction of manual tasks in converting Boolean logic into a structural model, the elimination of manual processes in achieving exclusive <b>simulation</b> of activity, an event-scheduling technique which does not deteriorate in economy as the event queue grows in length, and a <b>simulation</b> procedure which deals effectively with any mixture of serial and simultaneous ...objectives sought are improved ease and economy in <b>model</b> generation, economy in execution time and space, and a facility for handling simultaneous 
+
+DCOCUMENT: CACM-3070
+...paper describes the structure and operation of a hybrid <b>simulation</b> <b>model</b> in which both discrete-event <b>simulation</b> and analytic techniques are combined to produce efficient yet accurate <b>system</b> ...accuracy and efficiency of the hybrid technique are demonstrated by comparing the result and computational costs of the hybrid 
+
+DCOCUMENT: CACM-2767
+...time flow mechanisms, event list algorithm, simulation, time flow mechanisms, event list algorithm, <b>simulation</b> executive, event scheduling routine, discrete <b>system</b> simulation, ...algorithms are considered which can be used to schedule events in a general purpose discrete <b>simulation</b> 
+
+DCOCUMENT: CACM-1366
+...computational characteristics of <b>simulation</b> are discussed with special attention being paid to a distinction between continuous and discrete change ...conclusion of the paper is that the packages now available for computer <b>simulation</b> offer features which none of the more general-purpose packages do and that analysis of strengths and weaknesses of each suggests ways in which both current and future <b>simulation</b> languages and packages can be 
+
+DCOCUMENT: CACM-1870
+...algorithm is described by which uniform pseudorandom integers may be used to construct binary "numbers" in which the probability that each bit in the word is a 1-bit and can assume any desired ...random numbers, simulation, Boolean algebra, bit 
+
+DCOCUMENT: CACM-2742
+...paper presents a method for significantly reducing the time spent scanning future event lists in discrete event ...additional problem lies in the fact that a significant amount of bookkeeping time is required to keep future events in their proper 
+
+DCOCUMENT: CACM-3051
+...34 4.22 5.5 ...1979 
+
+DCOCUMENT: CACM-2902
+...paper investigates the performance of 35 dynamic memory allocation algorithms when used to service <b>simulation</b> programs as represented by 18 test ...main taining separate free space lists for each size of memory block used tended to perform quite well 
+
+QUERY : mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix syracuse university 313 link hall syracuse n 13210
+
+DCOCUMENT: CACM-0514
+...1978 ...
+
+DCOCUMENT: CACM-0569
+...1978 ...
+
+DCOCUMENT: CACM-0139
+...1978 ...
+
+DCOCUMENT: CACM-2391
+...symmetric polynomials, elementary symmetric polynomials, unitary symmetric polynomials, polynomial synthesis, reverse Horner scheme, reverse synthetic division, <b>binomial</b> ...11 5.30 
+
+DCOCUMENT: CACM-1186
+...problems requiring the selection of n elements from a set of m elements may be solved by a recursion process analogous to that for computing <b>binomial</b> ...specific 
+
+DCOCUMENT: CACM-2229
+...classical formulas are obtained as particular cases, and it is shown how the convergence properties of these formulas can be improved with very little additional ...11 3.15 3.21 
+
+DCOCUMENT: CACM-0679
+...area of logical control the chief new feature is a notation for variably nested ...basic implementation of this language was described in a previous paper [MADCAP: A scientific compiler for a displayed formula 
+
+DCOCUMENT: CACM-2986
+...heart of the algorithms is a general <b>theorem</b> giving sufficient conditions under which an expression whose operands are sparse <b>relations</b> and whose operators are composition, transitive closure, union, and inverse, can be computed ...compute operator precedence or Wirth-Weber precedence <b>relations</b> in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n^2) steps is shown, as well as how to compute linear precedence functions in O(n) steps, where n is the size of a 
+
+DCOCUMENT: CACM-2210
+...method is illustrated by the automatic construction of both recursive and iterative programs operating on natural numbers,lists, and trees, In order to construct a program satisfying certain specifications a <b>theorem</b> induced by those specifications is proved, and the desired program is extracted from the ...technique is applied to transform recursively defined functions into iterative programs, frequently with a major gain 
+
+DCOCUMENT: CACM-2031
+...number of arithmetic operations and the number of storage locations are ...version of the Euclidean algorithm for finding the greatest common divisor of n <b>integers</b> a(i) and multipliers x(i) such that 
+
+QUERY : semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness hoare a dijkstra e university of massachusetts amherst ma 01003
+
+DCOCUMENT: CACM-2295
+...<b>3</b> 4.2 4.22 5.23 ...<b>programming</b> primitives, <b>programming</b> languages, Algol, semantics, recursive composition, design of <b>programming</b> languages, <b>data</b> 
+
+DCOCUMENT: CACM-2732
+...introduced as a building block for alternative and repetitive constructs that allow nondeterministic <b>program</b> components for which at least the activity evoked, but possible even the final state, is not necessarily uniquely determined by the initial ...<b>programming</b> languages, sequencing primitives, <b>program</b> semantics, <b>programming</b> <b>language</b> semantics, nondeterminacy, case-construction, repetition, termination, <b>correctness</b> proof, derivation of programs, <b>programming</b> 
+
+DCOCUMENT: CACM-2192
+...shown to be useful for proving partial functions equivalent and thus applicable in <b>proofs</b> about interpreters for <b>programming</b> ...inductive method for proving things about recursively defined 
+
+DCOCUMENT: CACM-2842
+...<b>semantic</b> concepts of environments, stores, and continuations are introduced to model classes of <b>programming</b> <b>language</b> features and the underlying mathematical theory of computation due to Scott is motivated and ...paper is a tutorial introduction to the theory of <b>programming</b> <b>language</b> <b>semantics</b> 
+
+DCOCUMENT: CACM-2326
+...justification of all existing verification techniques, but also their extension to the handling, in a uniform manner of various properties of computer programs, <b>including</b> correctness, termination, and ...verification techniques, <b>semantics</b> of <b>programming</b> languages, least fix points, recursive programs, computational 
+
+DCOCUMENT: CACM-2470
+...appendix is included which presents in detail the formal system governing webs and fen, the abstractions used informally in the body of the ...questions of local and global environments and of various modes of function calling and parameter passing are 
+
+DCOCUMENT: CACM-2411
+...control structures, flowcharts, goto statements, inductive assertion, least fix points, optimization in compilers, <b>program</b> documentation, <b>program</b> flow graphs, ...12 4.22 
+
+DCOCUMENT: CACM-2148
+...attempt has been made to obtain a structured and simple introduction to both Algol 68 and its orthogonal ...<b>3</b> 4.2 4.22 5.23 
+
+DCOCUMENT: CACM-3188
+...insert at this point that <b>language</b> has many aspects and that pragmatics, <b>semantics</b> and syntactics do not necessary ...project most aspects into the three semiotic dimension and there seems to be a strong tendency to do so 
+
+DCOCUMENT: CACM-2178
+...consists of a <b>type</b> of directed graph <b>data</b> structure and a <b>set</b> of primitive operations for manipulating these ...definition of Graspe here is solely in terms of its semantics; that is, the <b>data</b> structures and operations are defined precisely but without assignment of a particular syntactic 
+
+QUERY : anything dealing with star height of regular languages or regular expressions or regular events
+
+DCOCUMENT: CACM-1896
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-1898
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-1993
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-2650
+...error correction, <b>regular</b> languages, <b>regular</b> events, finite state automata, compiler error recovery, spelling correction, string best match problem, correction, corrector, errors, nondeterministic finite-state ...12 4.20 5.22 5.23 
+
+DCOCUMENT: CACM-1739
+...object program then accepts the text to be searched as input and produces a signal every time an embedded string in the text matches the given <b>regular</b> ...method for locating specific character strings embedded in character text is described and an implementation of this method in the form of a compiler is 
+
+DCOCUMENT: CACM-1355
+...1978 ...
+
+DCOCUMENT: CACM-2921
+...finite state machines (automata), <b>regular</b> expressions, syntax diagrams,LR(k) grammars, parser construction, parsing, programming languages, <b>language</b> generation, formal definition, compilers, translators, ...paper in troduces an alternative to context-free grammars called <b>regular</b> right part (RRP) grammars, which resemble PASCAL syntax 
+
+DCOCUMENT: CACM-2112
+...framework described string recognition and parsing may be treated as special cases of the translation ...formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+
+DCOCUMENT: CACM-1665
+...accepts as input description of the multicharacter items or of words allowable in a <b>language</b> given in terms of a subset of <b>regular</b> ...designing a system for automatic generation of a lexical processor, the goal was a processor which completely eliminated backup or rereading, which was nearly as fast as hand-coded processors, which would analyze the <b>language</b> and detect errors, and which would be convenient and 
+
+DCOCUMENT: CACM-2051
+...practical PL/I program is described which can assist comparative linguists to determine the <b>regular</b> sound correspondences between genetically related ...comparative linguistics, natural <b>language</b> processing, comparative method, historical linguistics, diachronic linguistics, genetic relationship, sound change, sound correspondence, <b>regular</b> correspondence, list 
+
+QUERY : articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
+
+DCOCUMENT: CACM-2650
+...error correction, <b>regular</b> languages, <b>regular</b> events, finite state automata, compiler error recovery, spelling correction, string best match problem, correction, corrector, errors, nondeterministic finite-state ...12 4.20 5.22 5.23 
+
+DCOCUMENT: CACM-2327
+...<b>automata</b> theory, brain theory, network complexity, resolution of redundancy of potential command, frog visual system, reticular formation mode ...paper suggests the ways in which <b>automata</b> <b>theory</b> might evolve over the next 25 years if it is to contribute to an understanding of how the brain processes 
+
+DCOCUMENT: CACM-1678
+...catalog description of each course is applied and the role of each of the courses in the graduate program is ...number of courses are listed in the area describe as automata, formal languages, 
+
+DCOCUMENT: CACM-2112
+...framework described string recognition and parsing may be treated as special cases of the translation ...formal procedure is given for deriving from a set of translation equations the specifications for a pushdown 
+
+DCOCUMENT: CACM-1896
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-1898
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-1993
+...wave functions, wave functions, <b>regular</b> Coulomb wave ...1978 
+
+DCOCUMENT: CACM-1355
+...1978 ...
+
+DCOCUMENT: CACM-2921
+...finite state machines (automata), <b>regular</b> expressions, syntax diagrams,LR(k) grammars, parser construction, parsing, programming languages, <b>language</b> generation, formal definition, compilers, translators, ...paper in troduces an alternative to context-free grammars called <b>regular</b> right part (RRP) grammars, which resemble PASCAL syntax 
+
+DCOCUMENT: CACM-2323
+...<b>theory</b> is preferable to a less general effort to make <b>algebraic</b> manipulation systems knowledgeable about the usual special ...prospects for a general <b>theory</b> of functions defined by ordinary differential equations are 
+
+QUERY : abstracts of articles j backus can programming be liberated from the von neumann style a functional style and its algebra of programs cacm 21 re millo r lipton a perlis letter to acm forum cacm 22 1979 629-630 backus j de millo r lipton r perlis a
+
+DCOCUMENT: CACM-3077
+...defects at the most basic level cause them to be both fat and weak: their primitive word-at-a-time <b>style</b> of <b>programming</b> inherited from their common ancestor-the <b>von</b> Neumann computer, their close coupling off semantics to state transitions, their division of <b>programming</b> into a world of expressions and a world of statements, their inability to effectively use powerful combining forms for building new <b>programs</b> from existing ones, and their lack of useful mathematical properties for ...<b>algebra</b> of programs, combining forms, <b>functional</b> forms, <b>programming</b> languages, <b>von</b> Neumann computers, <b>von</b> Neumann languages, models of computing systems, applicative computing systems, applicative state transition systems, <b>program</b> transformation, <b>program</b> correctness, <b>program</b> termination, 
+
+DCOCUMENT: CACM-3140
+...absence of continuity, the inevitability of change, and the complexity of specification of significantly many real <b>programs</b> make the form <b>al</b> verification process difficult to justify and ...argued that formal verifications of programs, no matter how obtained, will not play the same key role in the development of computer science and software engineering as proofs do in 
+
+DCOCUMENT: CACM-1705
+...quality output, decompose integer, decompose real, style, Berkeley style, procedures relationship, output documentation, equivalent ALGOL statements, ALGOL, ALGOL 60, integer format, real format,out integer, read real, input output Boolean, input output array, fixed point representation, floating point representation, output channel ...highly recommended practice of echoing input is made easy with one subset of 
+
+DCOCUMENT: CACM-3008
+...graphs are used to model the loss of proximity involved in such storage schemes, and an elementary proof that arrays cannot be stored as linear lists with bounded loss of proximity is ...result implies, for instance, that row major order is an asymptotically optimal storage 
+
+DCOCUMENT: CACM-0196
+...1978 ...
+
+DCOCUMENT: CACM-2700
+...sufficient conditions are obtained to show that the assumption that a statement is indivisible can be relaxed and still preserve properties such as ...correctness proofs of a parallel system can often be greatly 
+
+DCOCUMENT: CACM-1132
+...1978 ...
+
+DCOCUMENT: CACM-2705
+...development of natural languages toward flexion less, word-order based language types speaks for <b>programming</b> language design based on general, <b>abstract</b> ...promising avenues for further work of wide influence are seen to be high quality <b>program</b> 
+
+DCOCUMENT: CACM-2922
+...basic ideas of nondeterministic <b>programming</b> are critically reconsidered to single out a proper attitude and <b>programming</b> <b>style</b> for language allowing direct control of nondeterministic ...proposed attitude aims at retaining the purity of the nondeterministic formulation of search processes on one level (the attempt level), deferring the coordination of problem solving efforts to another (the 
+
+DCOCUMENT: CACM-1946
+...computer implementation depends upon the extent to which extraneous factors are introduced, the extent of propagation of errors caused by truncation of real coefficients, memory requirements, and computing ...tests performed on sample problems conclusively show that Bezout's determinant is superior in all respects except for univariate polynomials, in which case Collins' 
+
+QUERY : algorithms or statistical packages for anova regression using least squares or generalized linear models system design capabilities statistical formula are of interest student s t test wilcoxon and sign tests multivariate and univariate components can be included
+
+DCOCUMENT: CACM-1344
+...<b>statistical</b> <b>model</b> and related symbolic specifications, an efficient method of performing calculations for <b>statistical</b> <b>models</b> of a balanced complete nature is ...procedure for obtaining variance <b>components</b> and calculated F statistics for the <b>model</b> terms is 
+
+DCOCUMENT: CACM-2634
+...hundred college and university computer installations now offer various types of <b>statistical</b> <b>packages</b> for ...3 3.30 4.19 4.22 4.49 
+
+DCOCUMENT: CACM-1709
+...symmetry of the matrices involved permits a modification requiring only half the storage and computations of the conventional <b>algorithm</b> and this additional storage allows the analysis of problems containing more ...multiple <b>linear</b> regression, <b>statistical</b> recurrence formulas, correlation, <b>linear</b> <b>statistical</b> models, <b>statistical</b> computer programs, curve 
+
+DCOCUMENT: CACM-1691
+...random numbers, pseudorandom number generators, autocorrelation function, serial correlation, digital shift-register generators, <b>linear</b> recurrence modulo two, irreducible polynomials, primitive trinomials modulo two, congruential generators, prime numbers, <b>statistical</b> <b>tests</b> for randomness, IBM 360, 32-bit versus 36-bit word ...computer word size can affect a generator's <b>statistical</b> behavior the older mixed and simple congruential generators, although extensively tested on computers having 36 or more bits per word, may not be 
+
+DCOCUMENT: CACM-2849
+...branching broadcast communication <b>system</b> for carrying digital data packets among locally distributed computing ...<b>model</b> for estimating performance under heavy loads and a packet protocol for error controlled communication are <b>included</b> for 
+
+DCOCUMENT: CACM-1474
+...prolonged computation it is generally assumed that the accumulated effect of roundoff errors is in some sense ...purpose of this paper is to give precise descriptions of certain probabilistic 
+
+DCOCUMENT: CACM-3138
+...suggested computational <b>tests</b> for determining signs of various controlling parameters in the revised simplex <b>algorithm</b> are ...efficient and numerically stable method is presented for the problem of updating an orthogonal decomposition of a matrix of column (or row) 
+
+DCOCUMENT: CACM-1698
+...<b>model</b> we answer questions like: How many processes are suspended waiting for console input? What is the maximum rate at which a process can execute? What bounds can be set on overall buffer requirements? Answers to these and similar questions are needed in certain aspects of operating <b>system</b> ...claim is made that a virtual console behaves like any actual console, but the entire collection of virtual 
+
+DCOCUMENT: CACM-1816
+...curve fitting, orthogonal polynomials, three-term recurrence, polynomial regression, approximation, Forsythe's ...13 
+
+DCOCUMENT: CACM-1637
+...shown how to estimate the lengths of sample records needed to use certain large sample results in measuring ...results expand the possibilities of <b>statistical</b> spectral analysis as applied to simulation 
+
+QUERY : dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
+
+DCOCUMENT: CACM-0144
+...communications systems transmit single characters in groups of coded pulses between simple terminal ...numeric representations of entire <b>words</b> or common phrases (rather than character-by-character representations) requires approximately one-third of present transmission 
+
+DCOCUMENT: CACM-0028
+...1978 ...
+
+DCOCUMENT: CACM-0944
+...trees have <b>information</b> storage and <b>retrieval</b> properties applicable to <b>problems</b> involving large quantities of data or to <b>problems</b> where the quantity, <b>word</b> length and distribution of stored <b>information</b> is not known a priori, or changes rapidly during the ...prime interest is the application where a symbol table, <b>dictionary</b> or similar file is to be stored and 
+
+DCOCUMENT: CACM-1112
+...test run on garbled text, correct identifications were made for over 95 percent of these error ...unidentified input <b>word</b> is compared to the <b>dictionary</b> again, testing each time to see if the <b>words</b> match-assuming one of these errors 
+
+DCOCUMENT: CACM-2476
+...60 3.64 ...artificial intelligence, AND/OR graphs, <b>language</b> theory, context-free 
+
+DCOCUMENT: CACM-1888
+...differential equation to be satisfied at the mesh points results in a set of difference equations, which are block tridiagonal and so are easily solved by relaxation or other standard ...solution of the nonlinear differential equation Y"=F(x,Y,Y') with two-point boundary conditions is approximated by a quintic or cubic spline 
+
+DCOCUMENT: CACM-1700
+...idea from punched card <b>information</b> <b>retrieval</b> <b>methods</b> has been mated with the idea of superimposed punching to produce a programming technique which cuts computer run time in half on a test search of 33,000 subject <b>index</b> ...present store is made up of over 600,000 subject <b>index</b> entries estimated to average 60 
+
+DCOCUMENT: CACM-1818
+...real or imaginary ...1978 
+
+DCOCUMENT: CACM-1235
+...conditional probabilities used as a basis for this coding were empirically derived from a separate hand-coded corpusn preliminary trials, the accuracy of the coder was 91% to 93%, with obvious ways of improving the algorithm being suggested by an analysis of the ...remaining <b>words</b> are assigned to one class or another on the basis of the most probable <b>form</b> classes to occur within the already identified 
+
+DCOCUMENT: CACM-1264
+...perform any or all of the following users specified functions: assemble SPS source decks, post list, produce condensed or uncondensed object decks, execute user's program, list card input to a program, list punched output, provide a storage dump, execute a program submitted for execution as an uncondensed object deck under debugging trace control, card-to-braille conversion, brailled listings of 7040 IBSYS batch output, and update or duplicate the system ...written for a small machine with minimal peripheral equipment, jobs may be batched, so that card handling and lost processing time is at a 
+
+QUERY : hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap relational or network codasyl or hierarchical models systems like system r ims adabas total etc
+
+DCOCUMENT: CACM-3087
+...language processing portion of the <b>system</b> uses a number of augmented transition networks, each of which matches phrases with a specific meaning, along with context registers (his tory keepers) and concept case frames; these are used for judging meaningfulness of questions, generating dialogue for clarifying partially understood questions, and resolving ellipsis and pronoun reference ...typing requests in English, casual users will be able to obtain explicit answers from a large <b>relational</b> <b>database</b> of aircraft flight and maintenance <b>data</b> using a <b>system</b> 
+
+DCOCUMENT: CACM-2967
+...71 3.72 3.73 3.74 4.34 4.6 6.22 ...comparison of the <b>hardware</b> approach with the <b>software</b> simulation illustrates the advantages of the <b>hardware</b> <b>associative</b> memory in three areas: (1) processing speed, (2) storage requirements, and (3) 
+
+DCOCUMENT: CACM-2424
+...decision implies that every time the decision is made there is a consistency check performed on the decision using independent <b>hardware</b> and ...operating systems, <b>data</b> security, fault tolerance, <b>software</b> reliability, <b>data</b> privacy, program verification, modular <b>computer</b> 
+
+DCOCUMENT: CACM-3026
+...3 4.0 4.20 4.30 4.32 4.33 4.35 6.0 6.21 ...1107 in 1962, the 1100 series has progressed through a succession of eight compatible <b>computer</b> <b>models</b> to the latest system, the 1100/80, introduced in 1977. The 1100 series <b>hardware</b> architecture is based on a 36-bit word, ones complement structure which obtains one operand from storage and one from a high-speed register, or two operands from high-speed 
+
+DCOCUMENT: CACM-1462
+...division of responsibility between levels leads to greater efficiency and less logical complexity, while actually enhancing ...applications require supervisory monitors which handle problems similar to those of the operating systems, but at a different 
+
+DCOCUMENT: CACM-3158
+...user can safely store confidential files in the central facility or transmit confidential <b>data</b> to other users on the ...method for implementing secure personal computing in a <b>network</b> with one or more central facilities is 
+
+DCOCUMENT: CACM-3142
+...type of errors occur? How easily are they corrected? What is the reaction of consumers to errors-to a failure to correct them? What can be learned by designers of large <b>management</b> <b>packages</b> from such data? Results show that with the present state of the art, approximately 40 percent of individuals (or households) having average contacts with different types of accounts experience one or more errors per ...0 2.1 2.12 2.2 3.50 3.52 3.55 4.19 
+
+DCOCUMENT: CACM-2002
+...<b>computer</b> graphics, <b>data</b> potting, <b>data</b> display syntax, <b>hardware</b> independent software, display device independent software, plot elements, self-scaled plots, user interaction, tablet organization, map display, ...elements common to all types of <b>data</b> plots are outlined and the way in which these elements may be combined into a <b>system</b> based on simple modules is 
+
+DCOCUMENT: CACM-2882
+...paper discusses a simulation <b>model</b> of a <b>data</b> retrieval <b>system</b> which has the effect of significantly reducing the cost of experimentation and enabling research never ...70 3.71 3.72 3.73 3.74 
+
+DCOCUMENT: CACM-3056
+...techniques could be used to advantage in multichannel counting <b>hardware</b> or <b>software</b> used for the monitoring of experiments or ...relative error can be expected to be 24 percent or less 95 percent of the 
+
+QUERY : information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co citations the vector space model boolean search methods using inverted files feedback etc salton g
+
+DCOCUMENT: CACM-2711
+...document retrieval, or other pattern matching environment where stored entities (documents) are compared with each other or with incoming patterns (search requests), it appears that the best indexing (property) <b>space</b> is one where each entity lies as far away from the others as possible; in these circumstances the value of an indexing system may be expressible as a function of the ...approach based on <b>space</b> density computations is used to choose an optimum indexing vocabulary for a collection of 
+
+DCOCUMENT: CACM-0634
+...1978 ...
+
+DCOCUMENT: CACM-2307
+...automatic query modification based on user needs, and for a continuous reorganization of the stored <b>information</b> as a function of earlier file processing and of normal collection ...proposed procedures provide powerful tools for <b>information</b> <b>retrieval</b> and for the control of dynamic library collections in which new items are continually added and old ones are 
+
+DCOCUMENT: CACM-1457
+...<b>information</b> <b>retrieval</b> programs require the manipulation of a variety of different data structures, including linear text, sparse matrices, and tree or list ...variety of data representations which have been used to describe structured <b>information</b> are then examined, and the characteristics of various processing languages are outlined in the light of the procedures requiring 
+
+DCOCUMENT: CACM-1927
+...report contains recommendations on a sample course curriculum in the general area of <b>information</b> organization and <b>information</b> system ...course curriculum, graduate courses, university courses,computer science curriculum, <b>information</b> science, <b>information</b> organization, <b>information</b> retrieval, data retrieval, language analysis, <b>information</b> 
+
+DCOCUMENT: CACM-1236
+...feature is used in the <b>retrieval</b> process by leaving the exact sequence of operations initially unspecified, and adapting the <b>search</b> strategy to the needs of individual ...typical <b>search</b> request is used as an example in the present report to illustrate systems operations and evaluation 
+
+DCOCUMENT: CACM-1287
+...1978 ...
+
+DCOCUMENT: CACM-2451
+...standard <b>information</b> <b>retrieval</b> operation is to determine which records in a data collection satisfy a given query expressed in terms of data ...potentially useful for the comparison it affords between observed performance and that of an intuitively attractive ideal <b>search</b> 
+
+DCOCUMENT: CACM-3129
+...transaction (or job) generates a demand <b>vector</b> which designates the <b>space</b> required in each file for record ...paper considers several criteria for best allocating storage 
+
+DCOCUMENT: CACM-2990
+...relating term accuracy to the frequency of occurrence of the term in the documents of a collection it is possible to give formal proofs of the effectiveness with respect to a given user query of a number of automatic indexing systems that have been used successfully in experimental ...published evaluation work is based on measuring the <b>retrieval</b> performance of an average user 
+
+QUERY : results relating parallel complexity theory both for pram s and uniform circuits
+
+DCOCUMENT: CACM-1961
+...theoretically most efficient search algorithm is presented which uses an exhaustive search to find all of the elementary <b>circuits</b> of a ...speed is also related to the number of <b>circuits</b> in the graph to give a relation between speed and 
+
+DCOCUMENT: CACM-1368
+...combinatorial matrix which may specify both directed and nondirected arcs, the paper describes a computer program which generates systematically and exhaustively all the Hamiltonian ...application is made to the "traveling salesman" 
+
+DCOCUMENT: CACM-2430
+...graph theory, <b>circuit</b> search algorithm, path search algorithm, ...74 4.22 
+
+DCOCUMENT: CACM-2932
+...framework for research in the <b>theory</b> of <b>complexity</b> of computations is described, emphasizing the in terrelation between seemingly diverse problems and ...<b>complexity</b> of computations, algebraic complexity, in tractable problems, probabilistic 
+
+DCOCUMENT: CACM-0320
+...compiled directly into a computer program and so eliminate the need for flow charting and hand ...set of rules for writing and using logic tables is explained by means of some simple 
+
+DCOCUMENT: CACM-2327
+...automata theory, brain theory, network complexity, resolution of redundancy of potential command, frog visual system, reticular formation mode ...paper suggests the ways in which automata <b>theory</b> might evolve over the next 25 years if it is to contribute to an understanding of how the brain processes 
+
+DCOCUMENT: CACM-1856
+...addition of a single factual assertion or linguistic capability will often provide a large increment in TLC's effective knowledge of the world and in its overall ability to ...corresponds to a general process for comprehending language, and it provides a methodology for adding the additional information this process requires to actually comprehend text of any particular 
+
+DCOCUMENT: CACM-2685
+...<b>parallel</b> computing, multiprocessor computers, array computers, vector computers, ...developed for the <b>parallel</b> execution of different iterations of a DO 
+
+DCOCUMENT: CACM-2200
+...15 4.0 4.9 5.11 ...yielding complement <b>results</b> are derived for numbers represented in any base 
+
+DCOCUMENT: CACM-2220
+...proposed an algorithm for converting decision tables into flowcharts which minimize subsequent execution time when compiled into a computer ...modifications <b>result</b> in modification guarantees a globally optimal 
+
+QUERY : algorithms for parallel computation and especially comparisons between parallel and sequential algorithms
+
+DCOCUMENT: CACM-2973
+...<b>algorithms</b> are presented for sorting n^2 elements on an n X n mesh-connected processor array that require O(n) routing and <b>comparison</b> ...<b>algorithms</b> of this paper are shown to be optimal in time within small constant 
+
+DCOCUMENT: CACM-3075
+...model of <b>computation</b> for this procedure permits simultaneous fetches from the same memory ...<b>algorithm</b> makes use of a technique that requires more space than the product of processors and 
+
+DCOCUMENT: CACM-2266
+...<b>parallel</b> numerical algorithms, real polynomials, real zeros, Newton's method, starting values, guaranteed ...conceptually suitable for <b>parallel</b> computation, determines its own starting values so that convergence to the zeros is 
+
+DCOCUMENT: CACM-3156
+...present a <b>parallel</b> <b>algorithm</b> which uses n2 processors to find the connected components of an undirected graph with n vertices in ...<b>algorithm</b> can be used to find the transitive closure of a symmetric Boolean 
+
+DCOCUMENT: CACM-1601
+...s8everal approximations obtained in any iteration are computationally independent, making the methods of interest in a <b>parallel</b> processing ...families of numerical procedures which use the technique of the procedures in a <b>parallel</b> processing environment are developed and measurements of these statistics are 
+
+DCOCUMENT: CACM-2557
+...minimum time required to evaluate such products on ordinary serial computers as well as <b>parallel</b> computers is ...paper discusses the multiplication of conformable sequences of row vectors, column vectors, and square 
+
+DCOCUMENT: CACM-0950
+...paper is dedicated to the proposition that, in order to take full advantage for real-time computations of highly <b>parallel</b> computers as can be expected to be available in the near future, much of numerical analysis will have to be recast in a more "parallel" ...method is proposed for "parallelizing" the numerical integration of an ordinary differential equation, which process, by all standard methods, is entirely 
+
+DCOCUMENT: CACM-2289
+...adjacency matrix of a graph is easily mapped onto an array; each matrix element is stored in one cell of the array, and typical row and column operations are readily implemented by simple cell ...chief computational advantage offered by cellular arrays is the improvement in speed achieved by virtue of the possibilities for <b>parallel</b> 
+
+DCOCUMENT: CACM-2896
+...fine degree of in terleaving in this program makes it <b>especially</b> difficult to understand, and complicates the proof ...32 4.34 4.35 4.39 
+
+DCOCUMENT: CACM-1468
+...descriptive scheme for classes of pictures based on labeling techniques using <b>parallel</b> processing <b>algorithms</b> was proposed by the author some years ...paper descriptive models by considering their specific application to bubble chamber 
+
+QUERY : list all articles on el1 and ecl el1 may be given as el 1 i don t remember how they did it
+
+DCOCUMENT: CACM-2651
+...constructing a general purpose programming language, a key issue is providing a sufficient set of data types and associated operations in a manner that permits both natural problem-oriented notation and efficient ...resulting treatment of data types includes provision for programmer-defined data types data types and generic routines, programmer control over type conversion, and very flexible data type behavior, in a context that allows efficient compiled code and compact data 
+
+DCOCUMENT: CACM-1051
+...results in a considerable saving in both the space required to hold a given amount of data, and in the execution time required to perform a given process on the ...paper attempts to draw together various recent papers which have applied some of these concepts in different ways, and indicate how they relate to the more general 
+
+DCOCUMENT: CACM-1878
+...depend on being able to find and mark nodes that are reachable from program ...garbage collector that recovers abandoned reentrant <b>list</b> structures may then be appended to the SLIP 
+
+DCOCUMENT: CACM-0595
+...teaching problem arises in determining how thoroughly a student must know the hardware and logic for that computer for which he will write COBOL ...generally accepted that some knowledge of the hardware and computer logic must be possessed by the 
+
+DCOCUMENT: CACM-0497
+...confined himself primarily to the analytical derivation, suggesting briefly, however, how the solution of the equation derived for each particular point of subdivision u(i) could be reduced to a discrete ...shown how Bellman's method may be applied to the curve-fitting problem when the additional constraints are added that the ends of the line segments must be on the 
+
+DCOCUMENT: CACM-2513
+...algorithm requires no storage other than the new ...original <b>list</b> structure is destroyed as it is 
+
+DCOCUMENT: CACM-2177
+...denotes the word length of the machine employed, the storage (in machine words) required for a graph with n nodes and m edges increases essentially as 2(m+n) in ...efficient method is presented for finding blocks and cutnodes of an arbitrary 
+
+DCOCUMENT: CACM-2144
+...accumulation of floating-point sums is considered on a computer which performs t-digit base B floating-point addition with exponents in the ...additional q+n-1 t-digit additions, the computed sum can be corrected to full t-digit 
+
+DCOCUMENT: CACM-1853
+...description is given of that <b>list</b> representation and the operators implemented (most are similar to those of LISP 1.5). The system garbage collector attempts to make all lists compact; it relocates and rearranges all of <b>list</b> ...49 4.20 4.22 4.49 
+
+DCOCUMENT: CACM-2390
+...0 1.1 1.59 2.10 3.15 3.32 3.50 3.51 3.70 3.71 3.74 ...problems created by the explosion of papers in the mathematical sciences and the drawbacks that this places on research, it is suggested that a tree of all mathematical results and terminology be maintained in a multiterminal computer 
