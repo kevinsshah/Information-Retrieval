@@ -63,7 +63,7 @@ def calculate_TFIDF_Score():
         tf_idf[word] = {}
         for docID in index[word]:
             tf = index[word][docID] / doc_length[docID]
-            idf = 1.0 + (math.log(N / (index[word][docID] + 1.0)))
+            idf = 1.0 + (math.log(N / (len(index[word].keys()) + 1.0)))
             tf_idf[word][docID] = tf*idf
 
 def generate_query_list():

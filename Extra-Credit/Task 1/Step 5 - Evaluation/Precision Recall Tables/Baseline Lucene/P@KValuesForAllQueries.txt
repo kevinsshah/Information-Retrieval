@@ -1,0 +1,364 @@
+For query 1: what ateirlcs exist which deal with tss time siahrng seystm an oeatirpng sseytm for ibm cproemuts
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 2: i am ieeesnrttd in acrleits wittren eeithr by prviee or udo pooch preive b pooch u
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 3: imitdetrneae lanegugas used in ctsnoioucrtn of multi targeted crlpmoies tcoll
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 4: i m itenseretd in msniecmhas for cnimatuocnimg btweeen dsnjiiot pesroescs psilbosy but not eexscuvilly in a drusbtieitd evnoimnnert i would rather see dinorseictps of cotmpele mnesmchias with or wthiout imiennelaotmtps as opposed to tchoaeiertl work on the aacrtbst problem remote pdruocree calls and message passing are eaxplems of my istneters
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 5: i d like ppraes on design and ietmlmepaitnon of etiidng ineefratcs window mgneaars cmanomd irpetneretrs etc the eaeistsnl issues are human iftnrceae design with views on imvteeonpmrs to user eiccnieffy eetvfcnefises and soctitaiafsn
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 6: iteresnted in arlectis on riobtocs motion plnnniag parcrltuialy the grtioeemc and caitnbiaoomrl aspects we are not isnettered in the dmaicyns of arm motion
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 7: i am isteenterd in dibstiteurd aihrltgmos ceurnncort programs in which perseoscs cnmaucimtoe and syirhnoczne by using message passing areas of plutiacarr interest include fault tecolnrae and tehncueqis for udrdisnnnaetg the cnetrecrsos of these amrhltoigs
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.400000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 8: aisedndsrg schemes for rseuorces in networks resource asndrisedg in network oiprateng systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 9: sciteruy crisodnenoitas in local networks network orpineatg systems and dirtbutseid systems
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 10: parallel lngaueags languages for parallel coimuatotpn
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.500000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 11: setl very high leevl lgaeguans
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 12: portable ornptaieg systems
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 13: code otiztopiaimn for space eefficciny
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 14: find all dsicussions of optimal innelitotamepms of sort altmhrigos for database magmnneeat aoaclntppiis
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 15: find all dsucsoisins of hoairotznl mioocdrce oitpoazmtiin with special emphasis on omizittiaopn of loops and global oitpzamitoin
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 16: find all dtnopreiscis of file hanlindg in oiepnratg seytmss based on mlutilpe peoscsres and message passing
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 17: oitaiitzpomn of irmeidtnteae and machine code
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 18: languages and compilers for parallel prsocsoers esllpiceay highly htaioorznl modeiccrod machines code copmcaiotn
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 19: parallel algorithms
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 20: graph theoretic amlriohgts aippllcabe to sparse matrices
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 21: cmapotuitnaol ctxemlopiy iitntblaitarcy class complete reductions algorithms and efficiency
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 22: i am ieeresnttd in hddien line and hidden scfurae airhmglots for crieydnls tioords sreephs and cones this is a rather sipeliaeczd topic in cpometur gprhacis
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.650000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 23: dtstbureiid computing streuuctrs and algorithms
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 24: applied stioashtcc processes
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 25: penrfmcaroe etuvaliaon and modelling of computer systems
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 26: cecnucrnroy control mimshnecas in operating systems
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 27: memory meaeganmnt aspects of oeptraing systems
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.400000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 28: any ifnroioamtn on packet radio ntkorwes of pruciaaltr iesntert are algirhomts for packet rtuonig and for daileng with caehngs in nrtowek trpopgaohy i am not instreeted in the hdawarre used in the nrwteok
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 29: number thtoeeirc aiorglhtms eeicsalply ivlinnvog prime number series sieves and chinese rmeedniar theorem
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.500000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 30: alcirets on text ftiranmotg smystes inlndiucg what you see is what you get stmyess eealmpxs t nroff sbrice bravo
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 31: i d like to find ailtrecs drbiscieng the use of sianlugr value doistomoipcen in diagtil image pircsnesog aipialpontcs iucdnle fniidng aixnopmoptiras to the oniagirl image and rrosinteg images that are scebujt to noise an aticlre on the sebcjut is h aderwns and c postteran outer procudt enixpsnoas and their uses in dtiagil image poissecrng aiecmran matiaehcamtl andrews h ptaterosn c
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 32: i d like to find atelrics dbisceinrg grpah agihrmotls that are based on the eagnviluee doietpcsoiomn or sgnluiar value diocmetosoipn of the acacenjy matrix for the graph i m eaillcpsey ineerttesd in any hsiireutc atlrhgioms for graph cnooilrg and graph ihiospmsrom using this mhetod
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 33: aceitrls about the stesiiivnty of the eanguveile dpmoeooitcisn of real mrticeas in piacrtalur zero one mtarices i m eilecalpsy inersetetd in the siaapoetrn of ecesapenigs ceporonnsrdig to dncisitt evealenguis aliectrs on the sujcbet c davis and w kahn the rotiotan of egcoeinvtres by a prtoiuatemn siam j ncaemuirl alnysias vol 7 no 1 1970 g srawtet error bdouns for aptxramiope ivrnaanit sescpbaus of cloesd liaenr oerarpots siam j nericumal asyinlas vol 8 no 4 1971 davis c kahn w srtweat g
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 36: fast aoirhtlgm for context free lgaguane rgontceioin or parsing
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.550000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 37: aicelrts debrnisicg the rohtaesilnip btweeen data teyps and cnrucrnecoy e g what is the type of a prcseos when is a scaoortihyninzn aettmpt beweten two psesecors type ccorret in a mssgeae pasinsg ssteym is three any nootin of the tpyes of msgsaees i e any way to check that the sedenr of the msaegse and the rveiecer are both ttrinaeg the bit srteam as some pruatlciar type
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 38: waht is the tpye of a mlduoe i don t wnat the eirtne lrruatitee on asctbart dtaa teyps hree but i m not sure how to parshe this to avoid it i m ierntetsed in qtsienuos aubot how one can cechk that a mludoe matechs cenxotts in wcihh it is used
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 39: what does type cbilotaptiimy mean in lugegaans that alolw pmmgroerar deeifnd types you might want to rtceisrt this to esbltinxee leaagnugs that allow doitnfiein of abtrcsat data types or pomagmrrer speilupd dnitinoiefs of oreaptors like
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 40: list all alcirets dnlieag with data types in the fiwnloolg lanueggas that are recrfneeed flueqtreny in prpeas on the aobve lggaaneus e g catch any lnggeaaus with itnteisenrg type sceururtts that i might have mssied
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 42: computer pnmorcrfaee eliuaaotvn tecqnhueis using pattern rceioontgin and clustering la 70803
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.150000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 43: anislyas and pctreepion of shape by humans and croetumps shape ditonspiecrs shape rgooicinten by ctepoumr two dosanienmil shapes mesaerus of cuilcrratiy shape matching
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.300000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 44: texture ainlsays by computer dtizigeid texture analysis texture synhtseis prcepteion of texture
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 45: the use of opietrnoas rreacseh models to optimize imoftnaorin system pnecoarfmre this includes fine tuning dseiocnis such as sdceranoy index sitcoleen file rarieizoogtnan and diiesubttrd daaabests
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.250000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 48: the use of cuetmopr science preciipnls e g data suurttecrs naicmerul methods in graiteenng ozptiatmiion e g linear pnimamrogrg altmoihgrs this iedcluns issues of the khachian russian elisapildol ahltoirgm and cmltpioxey of such agthlmrois
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 49: the role of itfnoarmoin reievtarl in kgenlowde based ssemtys i e expert stemyss
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.100000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 57: aastrcbts of aectlirs j bcukas can piarmomnrgg be leearitbd from the von nnumean stlye a fuacotnnil slyte and its abgrlea of pormagrs cacm 21 re millo r loitpn a plries lteter to acm forum cacm 22 1979 6-32960 baukcs j de millo r ltpoin r peirls a
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 58: ahigmlrtos or ssataicttil pcaakges for anova rosregeisn using least serqaus or gleirzeenad linear models system design cabepliitias saitttaicsl formula are of iestnret student s t test wicolxon and sign tests maaiutilvtre and untivairae cmnpneoots can be ielcundd
+
+Precision at rank 5: 0.600000
+Precision at rank 20: 0.350000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 59: dntoaiciry cocorunstitn and accesnisg mothdes for fast riatvreel of words or lxiceal items or miapllghcoroloy related iifmrnatoon hashing or innixdeg methods are usually applied to english spnilelg or natural lagganue probemls
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.350000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 60: hdarrwae and stfoarwe retnilag to dtasaabe mneneaamgt seytmss dsaatabe pgceakas back end cptroumes sicapel aavcsioitse harradwe with mrroctemcoipus ahaettcd to disk heads or things like rap rliaetaonl or network codasyl or hecrrcaaiihl models systems like system r ims adabas total etc
+
+Precision at rank 5: 0.400000
+Precision at rank 20: 0.200000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 61: irmoniafton rteverial atlrecis by gerard salton or others about csiuletrng brilihaigobpc conlpuig use of ctaotiins or co cnttaoiis the vector space model beooaln search mtodehs using itvnered files fbedaeck etc salton g
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.450000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 62: results rntelaig parllael cxpeiotlmy theory both for pram s and uniform ctcuriis
+
+Precision at rank 5: 0.000000
+Precision at rank 20: 0.000000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 63: ahlotimrgs for parallel cptmuoitaon and ealilsecpy crosapimnos between parallel and sequential algorithms
+
+Precision at rank 5: 0.800000
+Precision at rank 20: 0.400000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+For query 64: lsit all atceirls on el1 and ecl el1 may be gvein as el 1 i don t rmeember how tehy did it
+
+Precision at rank 5: 0.200000
+Precision at rank 20: 0.050000
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
