@@ -18,7 +18,7 @@ def corpus_generator():
 
     # Write the contents into separate files
     for ID,file_content in enumerate(files,1):
-        print("Creating Stemmed Corpus file for CACM-" + str(ID))
+        #print("Creating Stemmed Corpus file for CACM-" + str(ID))
         id = str(ID)
         f = open(OUTPUT_FOLDER + "/" + 'CACM-' + id.rjust(4, '0') + '.txt', 'w', encoding='utf-8')
         result_text = file_content.strip()

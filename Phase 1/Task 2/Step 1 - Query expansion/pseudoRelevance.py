@@ -37,7 +37,7 @@ def create_query_expansion_map():
 # build the query_id_map which contains key as query id and value as the actual query
 def create_query_id_map():
     # get all queries from file
-    paths = os.path.abspath(os.path.join(os.getcwd(), "../Task 1/Step 3- Query Cleaning"))
+    paths = os.path.abspath(os.path.join(os.getcwd(), "../../Task 1/Step 3- Query Cleaning"))
     path = open(os.path.join(paths, "cleanQueries.txt"), 'r', encoding='utf-8')
     content = path.read()
     path.close()
@@ -52,7 +52,7 @@ def create_query_id_map():
 #   from BM25 model for that query
 def create_query_top5_doc_map():
     # read the file containing top BM25 scores
-    paths = os.path.abspath(os.path.join(os.getcwd(), "../Task 1/Step 4 - Retrieval Models/BM25"))
+    paths = os.path.abspath(os.path.join(os.getcwd(), "../../Task 1/Step 4 - Retrieval Models/BM25"))
     search_res = open(os.path.join(paths, "BM25Scores_NoRelevance.txt"), 'r', encoding='utf-8')
     data = search_res.read()
     search_res.close()
@@ -83,7 +83,7 @@ def create_query_top5_doc_map():
 def create_doc_top_freq_words_map():
     for key,value in query_top5_doc_map.items():
         for item in value:
-            f = open("../Task 1/Step 1-Corpus Generation/Corpus/"+item+".txt",'r',encoding='utf-8')
+            f = open("../../Task 1/Step 1-Corpus Generation/Corpus/"+item+".txt",'r',encoding='utf-8')
             content =f.read()
             content=content.split(" ")
             content=[w for w in content if w!=""]

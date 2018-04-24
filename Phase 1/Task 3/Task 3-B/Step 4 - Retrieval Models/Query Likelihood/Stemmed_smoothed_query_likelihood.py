@@ -63,7 +63,6 @@ def calculate_collection_data(allterms):
 def calculate_intermediate_score(f, d, cq):
     a = float(1 - lambda_value) * (f / d)
     b = float(lambda_value) * (cq / C)
-    print(a,b)
     return math.log(a + b)
 
 
@@ -110,7 +109,7 @@ def create_index_dict():
     paths = path.abspath(path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 2-Index Generation")
 
-    index_file = open(os.path.join(paths, "Unigram_index.txt"),'r',encoding='utf-8')
+    index_file = open(os.path.join(paths, "Unigram_stemmed_index.txt"),'r',encoding='utf-8')
     content = index_file.read()
     entries = content.split("\n")
     entries = [e for e in entries if e != ""] # remove the last line

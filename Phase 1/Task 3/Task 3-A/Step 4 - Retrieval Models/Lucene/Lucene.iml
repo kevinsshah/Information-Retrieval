@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/analysis/common/lucene-analyzers-common-4.7.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/analysis/common/lucene-analyzers-common-4.7.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/queryparser/lucene-queryparser-4.7.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/core/lucene-core-4.7.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/core/lucene-core-4.7.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../../../../Assignments/Assignment 4/HW4/lucene-4.7.2/queryparser/lucene-queryparser-4.7.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

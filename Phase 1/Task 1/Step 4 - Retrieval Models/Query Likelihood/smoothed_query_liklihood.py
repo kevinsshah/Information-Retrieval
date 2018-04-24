@@ -63,7 +63,6 @@ def calculate_collection_data(allterms):
 def calculate_intermediate_score(f, d, cq):
     a = float(1 - lambda_value) * (f / d)
     b = float(lambda_value) * (cq / C)
-    print(a,b)
     return math.log(a + b)
 
 
@@ -100,7 +99,7 @@ def calculate_score(output,query):
     i = 1
     output.write("\n\n" + q + "\n")
     for key, value in document_score[:100]:
-        output.write("\n" + qid + " Q0 " + key + " " + str(i) + " " + str(value) + " smoothedQueryLiklihood")
+        output.write("\n" + qid + " Q0 " + key + " " + str(i) + " " + str(value) + " smoothedQueryLikelihood")
         i += 1
 
 
@@ -140,7 +139,7 @@ def calculate_scores():
     path.close()
     queries = content.split("\n")
     queries = [q for q in queries if q!=""]
-    output = open("QueryLiklihoodScores.txt",'w',encoding='utf=8')
+    output = open("QueryLikelihoodScores.txt",'w',encoding='utf=8')
 
     allterms = ""
     for query in queries:

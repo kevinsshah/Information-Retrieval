@@ -30,7 +30,7 @@ def generateDocLenCount():
 def create_index_dict():
     paths = os.path.abspath(os.path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 2-Index Generation")
-    index_file = open(os.path.join(paths,"Unigram_index.txt"),'r',encoding='utf-8')
+    index_file = open(os.path.join(paths,"Unigram_stemmed_index.txt"),'r',encoding='utf-8')
     content = index_file.read()
     entries = content.split("\n")
 

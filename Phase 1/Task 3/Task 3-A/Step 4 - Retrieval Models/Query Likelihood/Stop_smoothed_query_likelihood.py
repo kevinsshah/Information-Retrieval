@@ -63,7 +63,6 @@ def calculate_collection_data(allterms):
 def calculate_intermediate_score(f, d, cq):
     a = float(1 - lambda_value) * (f / d)
     b = float(lambda_value) * (cq / C)
-    print(a,b)
     return math.log(a + b)
 
 

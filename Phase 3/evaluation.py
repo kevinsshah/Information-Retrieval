@@ -10,10 +10,6 @@ queryId_averagePrecision = dict() # dict containing query id as the key and valu
 precision_at_5 = dict() # dict for query id as the key and value as the precision value at rank 5 for this query
 precision_at_20 = dict() #dict for query id as the key and value as the precision value at rank 20 for this query
 
-newpath = r'Precision Recall Tables/BM25 (Relevance)/'
-
-inputpath = r"BM25/BM25Scores_Relevance.txt"
-
 
 # building the mapping queryId -> List of top 100 docs
 def build_queryId_top100Docs():
@@ -201,7 +197,7 @@ def set_paths():
         newpath = newpath + '/Baseline Smoothed Query Likelihood/'
         if not os.path.exists(newpath):
             os.makedirs(newpath)
-        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/QueryLiklihoodScores.txt"
+        inputpath = r"Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/QueryLikelihoodScores.txt"
     elif int(inp) == 4:
         newpath = newpath + '/Baseline TF-IDF/'
         if not os.path.exists(newpath):
@@ -227,6 +223,9 @@ def set_paths():
         if not os.path.exists(newpath):
             os.makedirs(newpath)
         inputpath = r"Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/TF_IDF/Stop_TF_IDF_SCORE.txt"
+    else:
+        print("Incorrect Choice. Try again!")
+        exit()
 
 
 if __name__ == "__main__":

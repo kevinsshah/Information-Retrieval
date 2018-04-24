@@ -38,7 +38,7 @@ def cleanup(content, case_folding, punc_handling):
 
 def generate_corpus(case_folding,punc_handling):
     # loop for every file in the folder
-    paths = path.abspath(path.join(os.getcwd(), "../../"))
+    paths = path.abspath(path.join(os.getcwd(), "../../../"))
     paths = os.path.join(paths, "htmldocs")
     for file in os.listdir(paths):
         filename = os.path.join(paths,file)

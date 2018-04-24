@@ -54,7 +54,7 @@ def indexer(inp):
         #print (file)
 
     # filename based on value of n in n-gram
-    filename = "Unigram_index.txt"
+    filename = "Unigram_stemmed_index.txt"
 
     index_file = open(filename, "w",encoding='utf-8')
 
