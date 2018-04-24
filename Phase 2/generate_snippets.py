@@ -103,11 +103,11 @@ def generate_snippets():
         for doc in query_doc_map[key]:
 
             # get significant words for every document
-            sig_words = find_significant_words(doc)
+            sig_words = find_significant_words(doc, value)
 
             # get all sentences in a document
             sentences = DOCUMENT_SENTENCE_MAP[doc]
-            print(DOCUMENT_SENTENCE_MAP)
+            # print(DOCUMENT_SENTENCE_MAP)
             score = dict() # stores the score of the sentence
             starts = dict() # stores the start index of the snippet
             ends = dict() # stores the end index of the snippet
@@ -127,10 +127,12 @@ def generate_snippets():
                 if i < SNIPPETS:
                     line = "..."
                     sentence = items[0]
-                    sentence = sentence.split()
-
+                    start = starts[sentence]
+                    end = ends[sentence]
+                    # sentence = sentence.split()
+                    sentence = clean_sentence(sentence)
                     for word in sentence:
-                        if word in value and word not in STOP_WORDS:
+                        if word in clean_sentence(value) and word not in STOP_WORDS:
 
                             # bolding the query terms
                             line = line + "<b>" + word + "</b> "
@@ -148,8 +150,8 @@ def get_top_document_ids():
     paths = os.path.join(paths, "Phase 1")
     paths = os.path.join(paths, "Task 1")
     search_res_path = os.path.join(paths, "Step 4 - Retrieval Models")
-    search_res_path = os.path.join(search_res_path, "BM25")
-    search_res = open(os.path.join(search_res_path, "BM25Scores_NoRelevance.txt"), 'r', encoding='utf-8')
+    search_res_path = os.path.join(search_res_path, "Lucene")
+    search_res = open(os.path.join(search_res_path, "Lucene_Scores.txt"), 'r', encoding='utf-8')
     data = search_res.read()
     lines = data.split("\n")
     lines = lines[1:]
@@ -225,6 +227,8 @@ def create_sentence_dict(html, name):
     for sentence in sentences:
         sentence = sentence.replace('\n', ' ')
         if sentence !=  '':
+            sentence = clean_sentence(sentence)
+            sentence = ' '.join(sentence)
             final_sentences.append(sentence)
     DOCUMENT_SENTENCE_MAP[name] = final_sentences
 
@@ -238,13 +242,27 @@ def calculate_sentence_significance(sentence, sig_words):
     flag = True
 
     # getting the start and end indices
-    for word in words:
-        if flag and word in sig_words:
-            start_index = words.index(word)
-            flag = False
+    # for word in words:
+    #     if flag and word in sig_words:
+    #         start_index = words.index(word)
+    #         flag = False
+    #
+    #     if word in sig_words:
+    #         end_index = words.index(word)
 
-        if word in sig_words:
-            end_index = words.index(word)
+    start_index = 0
+    for word in words:
+
+        if word in sig_words:  # word_in_query(word,query_terms):
+            start_index = words.index(word)
+            break
+
+    # find the end of span
+        end_index = 0
+    for i in range(len(words) - 1, 0, -1):
+        if words[i] in sig_words:  # word_in_query(words[i],query_terms):
+            end_index = i
+            break
 
     count = 0
     for word in words[start_index:end_index]:
@@ -254,11 +272,23 @@ def calculate_sentence_significance(sentence, sig_words):
     # calculating the significance factor
     number = (end_index - start_index + 1)
     factor = (count * count) / number
+
+    if start_index == 0 and end_index == 0:
+        start_index = 0
+        end_index = len(sentence) - 1
+    elif start_index == end_index:
+         start_index = 0
+
     return [start_index, end_index, factor]
 
 
+def find_significant_words(doc, query):
+    c = clean_sentence(query)
+    print(doc, c)
+    return c
+
 # finding the significant words in the document
-def find_significant_words(doc):
+def find_significant_words_invalid(doc):
     global STOP_WORDS
     sig_words = []
 
