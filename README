@@ -1,0 +1,169 @@
+Inorder to run this project, you will need:
+1) Python (version >3.5)
+2) Java
+3) BeautifulSoup pip install --upgrade --force-reinstall beautifulsoup4 
+(there are other ways to install beautiful soup - can be found here: https://pypi.python.org/pypi/beautifulsoup4)
+4) Lucene
+5) Python Environment 
+6) Java IDE like Eclipse to import entire Lucene Folders as Java Projects
+
+
+Steps for project execution:
+Execute python file by:
+> python file_name.py
+
+
+The folders in the repository are in the order in which you need to execute the files.
+
+Phase 1 contains 3 tasks.
+
+Each task has folders describing the tasks performed by the files present in it.
+
+Execute Phase 1, followed by Phase 2, followed by Phase 3.
+
+The repository also contains the extra credit folder which needs to be executed at the end.
+
+NOTE:
+Execute files in the order mentioned in the file structure.
+
+Information about executable files:
+
+TASK 1:
+
+In Task 1, we have the following steps:
+
+Step 1: Corpus Generation
+File: Phase 1/Task 1/Step 1-Corpus Generation/corpus_generation.py
+- Generates the clean corpus generated from the raw html files given in htmldocs.
+
+
+Step 2: Index Generation
+File: Phase 1/Task 1/Step 2-Index Generation/indexer.py 
+- Generated the inverted index for the clean corpus.
+
+
+Step 3: Query Cleaning
+File: Phase 1/Task 1/Step 3- Query Cleaning/clean_query.py
+- Generates a file containing clean queries.
+
+Step 4: Retrieval Models
+There4 retrieval models as shown below:
+
+•	BM25:
+File: Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using BM25 without taking relevance into account.
+
+File: Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_Relevance.py
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using BM25 taking relevance into account.
+	
+
+•	Lucene:
+File: Phase 1/Task 1/Step 4 - Retrieval Models/Lucene/src/Lucene.java
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using Lucene.
+
+•	Smoothed Query Likelihood
+File: Phase 1/Task 1/Step 4 - Retrieval Models/Lucene/src/Lucene.java
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using Smoothed Query Likelihood model.
+
+•	TF-IDF
+File: Phase 1/Task 1/Step 4 - Retrieval Models/TF_IDF/tf-idf.py
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using TF-IDF.
+
+Task 2:
+
+Task two has two steps:
+
+Step 1 - Query expansion
+File: Phase 1/Task 2/Step 1 - Query expansion/pseudoRelevance.py
+- Generates expanded queries using PseudoRelevance Feedback
+
+Step 2 - Retrieval PRF
+File: Phase 1/Task 2/Step 2 - Retrieval PRF/bm25_NoRelevance_PRF.py
+- Generates a file containing a list of top 100 document IDs for the given 64 queries using BM25 No relevance but with queries generated in Step 1.
+
+Task 3:
+
+This task has two parts:
+
+Task 3-A:
+Step 1: Corpus Generation
+File: PPhase 1/Task 3/Task 3-A/Step 1-Corpus Generation/stopped_corpus_generator.py
+- Generates the clean corpus generated from the raw html files given in htmldocs after removing stopwords
+
+
+Step 2: Index Generation
+- Generates index using the corpus generated after removing stop words.
+
+
+Step 3: Query Cleaning
+- Generates a file containing clean queries and removing stop words.
+
+Step 4: Retrieval Models
+There4 retrieval models as shown below:
+
+•	BM25:
+Files: Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py
+- Uses BM25 model without relevance same as Task 1 but using the corpus and queries generated after removing stop words.
+
+•	Lucene:
+Files: Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/Lucene/src/Lucene.java
+- Uses Lucene same as Task 1 but using queries generated after removing stop words.
+
+•	Smoothed Query Likelihood
+Files: Phase 1/Task 3/Task 3-A/Step 4 - Retrieval Models/Query Likelihood/Stop_smoothed_query_likelihood.py
+- Uses Smoothed Query Likelihood model same as Task 1 but using the corpus and queries generated after removing stop words.
+
+Task 3-B:
+Step 1: Corpus Generation
+File: Phase 1/Task 3/Task 3-B/Step 1-Corpus Generation/stemmed_corpus_generator.py
+- Generates the clean corpus generated from the raw html files given in htmldocs using stemming
+
+Step 2: Index Generation
+- Generates index using the corpus generated using stemming.
+
+
+Step 3: Query Cleaning
+- Generates a file containing clean queries and using stemming.
+
+Step 4: Retrieval Models
+There4 retrieval models as shown below:
+
+•	BM25:
+Files: Phase 1/Task 3/Task 3-B/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py
+- Uses BM25 model without relevance same as Task 1 but using the corpus and queries generated using stemming.
+
+•	Lucene:
+Files: Phase 1/Task 3/Task 3-B/Step 4 - Retrieval Models/Lucene/src/Lucene.java
+- Uses Lucene same as Task 1 but using queries generated using stemming.
+
+•	Smoothed Query Likelihood
+Files: Phase 1/Task 3/Task 3-B/Step 4 - Retrieval Models/Query Likelihood/Stop_smoothed_query_likelihood.py
+- Uses Smoothed Query Likelihood model same as Task 1 but using the corpus and queries generated using stemming.
+
+
+PHASE 2: Snippet Generation:
+File: Phase 2/generate_snippets.py
+Generates snippets of top 5 documents for all the queries.
+
+PHASE 3: Evaluation:
+File: Phase 3/evaluation.py
+- Performs the following operations:
+1-­‐ MAP 
+2-­‐ MRR 
+3-­‐ P@K, K = 5 and 20 
+4-­‐ Precision & Recall
+
+For the following models:
+Decide the model on which you want to perform evaluation:
+1. Baseline BM25
+2. Baseline Lucene
+3. Baseline Smoothed Query Likelihood
+4. Baseline TF-IDF
+5. BM25 Pseudo-relevance Feedback 
+6. Stopped BM25
+7. Stopped Smoothed Query Likelihood
+8. Stopped Lucene
+
+
+
+
