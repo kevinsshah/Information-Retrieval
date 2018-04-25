@@ -66,18 +66,6 @@ if __name__ == "__main__":
     if not os.path.exists(newpath):
         os.makedirs(newpath)
 
-    # take input for case folding and punctuation handling
-    inp = input("Decide if you want to perform case-folding and/or punctuation handling or none:\n"
-                    + "Enter 1 if you want to perform both case-folding and punctuation handling\n" +
-                    "Enter 2 if you want to perform just case-folding\n" +
-                    "Enter 3 if you want to perform just punctuation handling\n" +
-                    "Enter 4 if you dont want to perform case-folding or punctuation handling\n")
-    if int(inp) == 1:
-        generate_corpus(True,True)
-    elif int(inp) == 2:
-        generate_corpus(True,False)
-    elif int(inp) == 3:
-        generate_corpus(False,True)
-    elif int(inp) == 4:
-        generate_corpus(False,False)
+    # by default perform case folding and removing punctuations
+    generate_corpus(True,True)
 

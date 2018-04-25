@@ -287,6 +287,7 @@ def find_significant_words(doc, query):
     c = clean_sentence(query)
     return c
 
+"""
 # finding the significant words in the document
 def find_significant_words_invalid(doc):
     global STOP_WORDS
@@ -326,7 +327,7 @@ def calc_threshold(sd):
     else:
         threshold = 7 + float(0.1) * float(sd - 40)
     return threshold
-
+"""
 
 # main function to start execution
 def main():

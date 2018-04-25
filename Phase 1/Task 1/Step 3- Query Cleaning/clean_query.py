@@ -7,6 +7,7 @@ def read_file_initialize_queries():
     final_query = dict()
     file = open("cacm.query.txt", "r")
     queries = file.read()
+    # cleaning the query
     queries = queries.replace('<DOC>', '').replace('\n', ' ').replace('\t', ' ').replace('<DOCNO>', '')
     query_array = queries.split("</DOC>")
     del query_array[-1]
@@ -14,7 +15,7 @@ def read_file_initialize_queries():
         temp = query.split('</DOCNO>')
         key = temp[0].replace(' ', '')
         value = temp[1].strip()
-        value = cleanup(value, True, True)
+        value = cleanup(value, True, True) #
         final_query[key] = value
     write_queries_to_file(final_query)
 
@@ -28,6 +29,7 @@ def write_queries_to_file(final_query):
        ofile.write(line)
 
 
+# same processing on query as done while processing the documents
 def handle_punctuations(content):
     result = re.sub(r"[^0-9A-Za-z,-\.:\\$]"," ",str(content))  # retain alpha-numeric text along with ',',':' and '.'
     result = re.sub(r"(?!\d)[$,%,:.,-](?!\d)", " ", str(result), 0)  # retain '.', '-' or ',' between digits

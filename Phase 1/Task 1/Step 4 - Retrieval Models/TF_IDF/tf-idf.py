@@ -136,6 +136,7 @@ def calculate_query_score():
 
     fd.close()
 
+
 def main():
     # Generate the inverted index from index file
     create_index_dict()

@@ -8,7 +8,6 @@ C = 0
 lambda_value = 0.35
 
 index = {} # dict for storing the index
-K = {} # dict for storing K value for each document
 doc_length = {} # dict for storing number of terms in a document
 term_collection = {} # dict for storing the count of query terms in the collection
 final_scores = {} # dict for storing the mapping query -> (document -> score)
@@ -22,7 +21,7 @@ def search(key,value,lst):
     return -1
 
 
-# Use file generated from HW3 to build  K and doc_length dicts
+# Use file generated from HW3 to build doc_length dict
 def populate_dicts():
     paths = path.abspath(path.join(os.getcwd(), "../../"))
     paths = os.path.join(paths, "Step 2-Index Generation")
@@ -66,6 +65,7 @@ def calculate_intermediate_score(f, d, cq):
     return math.log(a + b)
 
 
+# calculate score for one query
 def calculate_score(output,query):
     query = query.split("||") # separate query id and query
     qid = query[0]
@@ -92,7 +92,7 @@ def calculate_score(output,query):
                 score = score + intermediate
         document_score[key] = score
 
-        # sort the documents by scores
+    # sort the documents by scores
     document_score = sorted(document_score.items(), key=operator.itemgetter(1), reverse=True)
 
     # write results to query
@@ -150,7 +150,7 @@ def calculate_scores():
     # calculating cq and |C|
     calculate_collection_data(allterms)
 
-    # loop over all the queries
+    # calculate scores for all the queries
     for query in queries:
         calculate_score(output,query)
     output.close()

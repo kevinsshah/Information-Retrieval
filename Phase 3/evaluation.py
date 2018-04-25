@@ -102,28 +102,29 @@ def calc_R_N_list(q):
 # building precision and recall tables for each query and writing to output
 def calculate_precision_and_recall():
     for qid in queryId_relevantDocs.keys():
-        if qid in queryId_relevantDocs.keys():
+        if qid in queryId_relevantDocs.keys(): # exclude queries with no relevance information
             rank = 1
             relevance_count = 0
             Relevant_precisions = []  # stores the precision value of the relevant documents
             no_of_rel_docs = len(queryId_relevantDocs[qid])
             docName_R_N = calc_R_N_list(qid)
-            RR = calculate_reciprocal_rank(docName_R_N)
+            RR = calculate_reciprocal_rank(docName_R_N) # compute reciprocal rank
             f = open(newpath + "Precision_Recall_Table_for_" + qid + '.txt', 'w')
             f.write("Query "+qid +": %s\n\n" % queryId_query[qid])
             f.write("RANK \t R/N \tPrecision \t  Recall\n\n")
             for rel in docName_R_N:
                 if docName_R_N[rel] == "R":
                     relevance_count += 1
-                curr_precision = relevance_count/rank
+                curr_precision = relevance_count/rank # formula for precision
                 if docName_R_N[rel] == "R":
                     Relevant_precisions.append(curr_precision)
-                if rank == 5:
+
+                if rank == 5: # store precision at rank 5
                     precision_at_5[qid] = curr_precision
-                if rank == 20:
+                if rank == 20:# store precision at rank 20
                     precision_at_20[qid] = curr_precision
 
-                recall = relevance_count / no_of_rel_docs
+                recall = relevance_count / no_of_rel_docs # formula for recall
                 # append a 0 to the single-digit numbers, example: make "1" as "01"
                 if rank <= 9:
                     rank_str = "0" + str(rank)
@@ -141,7 +142,6 @@ def calculate_precision_and_recall():
 
             queryId_RR[qid] = RR
             f.close()
-
 
 
 def calculate_MAP_MRR_PatK():
@@ -168,7 +168,6 @@ def calculate_MAP_MRR_PatK():
 
 # set paths based on user input
 def set_paths():
-
     global newpath
     global inputpath
 
