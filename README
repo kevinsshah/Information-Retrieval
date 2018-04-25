@@ -296,13 +296,5 @@ TASK 1 (Spelling error generator):
 		Files: Extra-Credit/Task 1/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py
 		- Uses BM25 model without relevance same as Task 1 but using the corpus and queries generated in step 1 and step 2 above.
 
-		•	Lucene:
-		Files: Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/src/Lucene.java
-		- Uses Lucene same as Task 1 but using corpus and queries generated in step 1 and step 2 above.
-
-		•	Smoothed Query Likelihood
-		Files: Extra-Credit/Task 1/Step 4 - Retrieval Models/Query Likelihood/smoothed_query_liklihood.py
-		- Uses Smoothed Query Likelihood model same as Task 1 but using corpus and queries generated in step 1 and step 2 above.
-
 
 
