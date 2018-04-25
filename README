@@ -39,6 +39,20 @@ PHASE 1 (Indexing and retrieval):
 
 	TASK 1:
 
+	Folder structure:
+
+	+---Task 1
+|   |   +---Step 1-Corpus Generation
+|   |   |   \---Corpus
+|   |   +---Step 2-Index Generation
+|   |   +---Step 3- Query Cleaning
+|   |   \---Step 4 - Retrieval Models
+|   |       +---BM25
+|   |       +---Lucene
+|   |       +---Query Likelihood
+|   |       \---TF_IDF
+
+
 	In Task 1, we have the following steps:
 
 		Step 1: Corpus Generation
@@ -84,6 +98,12 @@ PHASE 1 (Indexing and retrieval):
 
 	TASK 2(Query enrichment):
 
+	Folder structure:
+
+	+---Task 2
+|   |   +---Step 1 - Query expansion
+|   |   \---Step 2 - Retrieval PRF
+
 	This task two has two steps:
 
 		Step 1 - Query expansion
@@ -103,6 +123,20 @@ PHASE 1 (Indexing and retrieval):
 	This task has two parts:
 
 		TASK 3-A:
+
+		Folder structure:
+
+			\---Task 3
+|       +---Task 3-A
+|       |   +---Step 1-Corpus Generation
+|       |   |   \---Stop_Corpus
+|       |   +---Step 2-Index Generation
+|       |   +---Step 3- Query Cleaning
+|       |   \---Step 4 - Retrieval Models
+|       |       +---BM25
+|       |       +---Lucene
+|       |       \---Query Likelihood
+
 			Step 1: Corpus Generation
 			File: Phase 1/Task 3/Task 3-A/Step 1-Corpus Generation/stopped_corpus_generator.py
 			- Generates the clean corpus generated from the raw html files given in htmldocs after removing stopwords
@@ -134,9 +168,21 @@ PHASE 1 (Indexing and retrieval):
 				- Uses Smoothed Query Likelihood model same as Task 1 but using the corpus and queries generated after removing stop words.
 
 
-
-
 		TASK 3-B:
+
+		Folder structure:
+
+			|       \---Task 3-B
+|           +---Step 1-Corpus Generation
+|           |   \---Stemmed_Corpus
+|           +---Step 2-Index Generation
+|           +---Step 3- Query Cleaning
+|           \---Step 4 - Retrieval Models
+|               +---BM25
+|               +---Lucene
+|               \---Query Likelihood
+
+
 			Step 1: Corpus Generation
 			File: Phase 1/Task 3/Task 3-B/Step 1-Corpus Generation/stemmed_corpus_generator.py
 			- Generates the clean corpus generated from the raw html files given in htmldocs using stemming
@@ -172,6 +218,11 @@ PHASE 1 (Indexing and retrieval):
 
 
 PHASE 2 (Displaying results):
+
+	Folder structure:
+
+	+---Phase 2
+
 	File: Phase 2/generate_snippets.py
 	Generates snippets and highlights query terms in the snippets of top 5 documents for all the queries. 
 
@@ -181,6 +232,20 @@ PHASE 2 (Displaying results):
 
 
 PHASE 3 (Evaluation):
+
+	Folder structure:
+
+	\---Phase 3
+    \---Precision Recall Tables
+        +---Baseline Lucene
+        +---Baseline Smoothed Query Likelihood
+        +---Baseline TF-IDF
+        +---BM25 (No-Relevance)
+        +---BM25 Pseudo-relevance Feedback
+        +---Stopped BM25
+        +---Stopped Lucene
+        \---Stopped Smoothed Query Likelihood
+
 	File: Phase 3/evaluation.py
 	- Performs the following operations:
 		1-­‐ MAP 
