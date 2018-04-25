@@ -49,14 +49,17 @@ def shuffle_query_terms():
                 index[pos] = new_term
             elif len(term) > 4:
                 # Taking care of non-boundary characters
-                start = term[0]
-                end = term[-1]
-                mid = list(term[1:-1])
+                start_index = 1
+                end_index = len(term) - 1
+                swap_pos_1 = random.randrange(start_index, end_index)
+                swap_pos_2 = random.randrange(start_index, end_index)
+                word = list(term)
+
                 # Shuffle the non-boundary characters
-                random.shuffle(mid)
-                new_mid = "".join(mid)
-                # Append the boundary characters
-                new_term = start + new_mid + end
+                word[swap_pos_1], word[swap_pos_2] = word[swap_pos_2], word[swap_pos_1]
+
+                # Construct the word back
+                new_term = "".join(word)
 
                 index[pos] = new_term
 
