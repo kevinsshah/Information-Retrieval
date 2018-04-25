@@ -1,0 +1,64 @@
+1||what aeticlrs exist which deal with tss time sharnig system an operating syetsm for ibm coupmters
+2||i am inseretted in articles wriettn eiehtr by pviere or udo pooch pireve b pooch u
+3||inttrmediaee langeagus used in corstnuction of multi targeted coipmlers tcoll
+4||i m inttreseed in meahcnisms for coimunicatmng between djsioint prosecses pbssioly but not evclusixely in a distributed enrivonment i would rather see desctiprions of cotpleme mnchaeisms with or wihtout implementatnois as opposed to theoretical work on the acstrabt problem remote prodecure calls and message passing are expmales of my interests
+5||i d like ppaers on design and implementitaon of editnig interfecas window manaregs coammnd ieterpretnrs etc the easentisl issues are human ifternace design with views on immrovepents to user efficiecny efceftiveness and satifsaction
+6||interesetd in artlcies on robocits motion plinnang partciularly the geotemric and cotbinamorial aspects we are not isterented in the dynmaics of arm motion
+7||i am inseretted in dibtrisuted aglorithms concrruent programs in which procesess commanicute and synchronize by using message passing areas of plrticuaar interest include fault tolerance and techqinues for undnrstandieg the correntcess of these algorhtims
+8||adderssing schemes for recourses in networks resource addreissng in network operntiag systems
+9||security coisideratnons in local networks network optraeing systems and dietributsd systems
+10||parallel langauges languages for parallel compatution
+11||setl very high lveel lgnauages
+12||portable operating systems
+13||code optimiiatzon for space effccieniy
+14||find all discussions of optimal impleaentmtions of sort ahgoritlms for database mananemegt alppications
+15||find all discnssious of horizontal mircocode optizimation with special emphasis on optimizaoitn of loops and global optmiization
+16||find all descrtpiions of file handlnig in orepating systmes based on multiple processes and message passing
+17||optimization of interdemiate and machine code
+18||languages and compilers for parallel porcessors especially highly horinoztal micrcooded machines code compoctian
+19||parallel algorithms
+20||graph theoretic algomithrs apblicaple to sparse matrices
+21||ctmputaoional compleixty intractability class complete reductions algorithms and efficiency
+22||i am interetsed in heddin line and hidden scrfaue algorhtims for cylinreds toroids sprehes and cones this is a rather specialized topic in cpmouter graphics
+23||distributed computing stuuctrres and algorithms
+24||applied stocsahtic processes
+25||penformarce evaluaiton and modelling of computer systems
+26||conucrrency control menhacisms in operating systems
+27||memory management aspects of oeprating systems
+28||any information on packet radio nekworts of partucilar interest are algirothms for packet rotuing and for dialeng with chaegns in netrowk topography i am not inteeestrd in the hardware used in the nwteork
+29||number theroetic algmrithos esplciaely invloving prime number series sieves and chinese remadnier theorem
+30||aeticlrs on text formaittng sytsems inclunidg what you see is what you get syetsms examelps t nroff scrbie bravo
+31||i d like to find aritcles debcrising the use of sinaulgr value decompoiitson in digital image proecssing aaplicptions icnlude fniding aparoximptions to the oirginal image and rtseoring images that are suejbct to noise an article on the sbuject is h ardnews and c patretson outer prudoct eapxnsions and their uses in digital image porcessing amercian mhtaematical andrews h paoterstn c
+32||i d like to find aeticlrs discribeng graph algohitrms that are based on the eigenvulae decompostiion or siagulnr value decomptsioion of the ajnceacy mrtaix for the graph i m elpecialsy ietnrested in any heuritsic algortihms for graph coloring and graph ioomsrphism using this method
+33||artlcies about the sensivitity of the eiaenvglue decomiositpon of real martices in paraicultr zero one mairtces i m especillay interested in the sepatarion of eigenspaces copresronding to dintisct eigevnalues atricles on the subejct c davis and w kahn the rtoation of eigenvectors by a permuiatton siam j nimerucal anylasis vol 7 no 1 1970 g setwart error bounds for appaoximrte invarnait scbspaues of clsoed lienar operators siam j nemurical anylasis vol 8 no 4 1971 davis c kahn w swetart g
+34||curretnly interetsed in isolotian of root of polynoaiml there is an old more recent matreial hdineel l
+35||prabobilistic algmrithos escepially those dealing with aigebralc and symoblic maniputalion some examples rabiin pbobarilistic alghritom on finite field siam waztch pribabilostic testing of polynomial identiites siam rabin m
+36||fast algtriohm for context free lgnguaae recogiitnon or parsing
+37||atricles desnribicg the rolatienship bwteeen data tepys and concrurency e g what is the type of a process when is a syncnrohization attempt beteewn two procesess type cocrert in a message pssaing system is tehre any notion of the tpyes of msesages i e any way to check that the sdneer of the massege and the reciever are both treanitg the bit straem as some particular type
+38||waht is the tpye of a module i don t wnat the entire litetarure on abstract dtaa types hree but i m not sure how to phrase this to avoid it i m ieternsted in quentioss abuot how one can cehck that a moudle mathces cnotexts in wihch it is used
+39||what does type compatibility mean in langauges that aollw progrmmaer dnfieed types you might want to restcirt this to exnetsible lanaugges that allow definition of abatrsct data types or progarmmer suiplped definioitns of operotars like
+40||list all articles deanilg with data tepys in the fwllooing laagunges that are referenced flequentry in papers on the aobve languages e g catch any lenguagas with ineertsting type struutcres that i might have missed
+41||theory of distribuetd systems and dbtaaases subtopics of special interest include rileability and fault tloerance in dbstriiuted systems atomicity distributed transactions synchnorization aoglrithms rusoerce alcolation lower bounds and models for anynchrosous paarllel systems also theory of commcniuating prosecses and pootrcols p box 2158 yale station new haven conn 06520
+42||computer perfnrmaoce evaloatiun techniques using pattern recogoitinn and clustering la 70803
+43||asalynis and percipteon of shape by humans and compuetrs shape descriptions shape recgonition by coupmter two damensionil shapes msaeures of circuliraty shape matching
+44||texture aanlysis by computer digitized texture analysis texture syntehsis petceprion of texture
+45||the use of operations reaesrch models to optimize ifnormation system parformence this includes fine tuning decnsiois such as secodnary index seiectlon file reorgazination and dtsiributed databases
+46||the acplipation of fuzzy subset theory to clusreting and inforamtion retriavel problems this includes pernormafce evalaution and autmoatic indexing coneidsrations
+47||the use of bsyeaian dicesion moedls to optmiize informitaon reeritval system peaformrnce this incdules sotpping rules to deterimne when a user should cease scannnig the output of a retrieval search
+48||the use of cemputor science principles e g data struceurts numerical methods in gnneratieg opitmization e g linear programmnig aoglrithms this inceudls issues of the khachian russian ellapsoidil ahgoritlm and complexity of such aliorgthms
+49||the role of inforamtion retreival in knowgedle based systems i e expert sestyms
+50||parallel prooesscrs in iiformatnon retrieval
+51||parallel processors and paging algoirthms
+52||modelling and situlamion in agrirultucal ecosystems
+53||mathematiacl inouctidn group theory interegs modulo m prtbabilioy binomail cofeficients binomial theorem hoommorphism morphism transitivity reiatlons relation matrix syracuse unsveriity 313 link hall syracuse n 13210
+54||semintacs of pnogrammirg laagunges ilcnuding abstract specifications of data types denotatianol semanitcs and proofs of corsectners hoare a dijkstra e unirevsity of massacuhsetts amherst ma 01003
+55||anything daeling with star height of regualr lagguanes or regular expressions or regular events
+56||artilces retalion the argeblaic theory of semigropus and monoids to the study of automata and regular laagunges
+57||abtsracts of aritcles j baukcs can paogrrmming be lebirated from the von nenmaun style a fuactionnl sytle and its algebra of prgorams cacm 21 re millo r lipton a prelis ltteer to acm forum cacm 22 1979 669-230 buckas j de millo r lipton r perlis a
+58||almorithgs or statiscital packages for anova reiressgon using least seuarqs or geeeraliznd linear models system design capabiliteis saatistictl formula are of inserett student s t test wilcooxn and sign tests muitivarlate and uiivarnate components can be inulcded
+59||dictianory cotsnruction and accesnisg mdthoes for fast rrteieval of words or lexacil items or mgrpholooically related inofrmation hashing or iniexdng methods are usually applied to english slepling or natural langugae probelms
+60||hadrware and saftwore reiatlng to dstabaae manageemnt systems dstabaae paakcges back end coupmters special associative hardware with microcomeutprs attahced to disk heads or things like rap relatnoial or network codasyl or haerirchical models systems like system r ims adabas total etc
+61||infromation rterieval articels by gerard salton or others about clustreing bilbiographic cnupliog use of cntatiois or co citntioas the vector space model boolean search methods using inveretd files feedback etc salton g
+62||results rnlatieg parellal compxelity theory both for pram s and uniform cicruits
+63||algotirhms for parallel cooputatimn and espacielly comparisons between parallel and sequential algorithms
+64||lsit all arteclis on el1 and ecl el1 may be gievn as el 1 i don t remebmer how tehy did it
