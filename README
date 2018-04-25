@@ -62,7 +62,7 @@ PHASE 1 (Indexing and retrieval):
 			File: Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py
 			- Generates a file containing a list of top 100 document IDs for the given 64 queries using BM25 without taking relevance into account.
 
-			File: Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_Relevance.py(had implemented it before )
+			File: Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_Relevance.py
 			- Generates a file containing a list of top 100 document IDs for the given 64 queries using BM25 taking relevance into account.
 				
 
