@@ -1,4 +1,4 @@
-Query 20: graph theoretic amlriohgts aippllcabe to sparse matrices
+Query 20: graph theoretic algomithrs apblicaple to sparse matrices
 
 RANK 	 R/N 	Precision 	  Recall
 

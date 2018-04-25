@@ -1,4 +1,4 @@
-Query 5: i d like ppraes on design and ietmlmepaitnon of etiidng ineefratcs window mgneaars cmanomd irpetneretrs etc the eaeistsnl issues are human iftnrceae design with views on imvteeonpmrs to user eiccnieffy eetvfcnefises and soctitaiafsn
+Query 5: i d like ppaers on design and implementitaon of editnig interfecas window manaregs coammnd ieterpretnrs etc the easentisl issues are human ifternace design with views on immrovepents to user efficiecny efceftiveness and satifsaction
 
 RANK 	 R/N 	Precision 	  Recall
 

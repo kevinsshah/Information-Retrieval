@@ -1,4 +1,4 @@
-Query 23: dtstbureiid computing streuuctrs and algorithms
+Query 23: distributed computing stuuctrres and algorithms
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 18: languages and compilers for parallel prsocsoers esllpiceay highly htaioorznl modeiccrod machines code copmcaiotn
+Query 18: languages and compilers for parallel porcessors especially highly horinoztal micrcooded machines code compoctian
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 21: cmapotuitnaol ctxemlopiy iitntblaitarcy class complete reductions algorithms and efficiency
+Query 21: ctmputaoional compleixty intractability class complete reductions algorithms and efficiency
 
 RANK 	 R/N 	Precision 	  Recall
 

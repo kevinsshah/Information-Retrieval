@@ -1,4 +1,4 @@
-Query 16: find all dtnopreiscis of file hanlindg in oiepnratg seytmss based on mlutilpe peoscsres and message passing
+Query 16: find all descrtpiions of file handlnig in orepating systmes based on multiple processes and message passing
 
 RANK 	 R/N 	Precision 	  Recall
 

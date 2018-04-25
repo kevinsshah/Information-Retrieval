@@ -1,4 +1,4 @@
-Query 24: applied stioashtcc processes
+Query 24: applied stocsahtic processes
 
 RANK 	 R/N 	Precision 	  Recall
 

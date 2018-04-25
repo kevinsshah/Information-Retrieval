@@ -1,4 +1,4 @@
-Query 1: what ateirlcs exist which deal with tss time siahrng seystm an oeatirpng sseytm for ibm cproemuts
+Query 1: what aeticlrs exist which deal with tss time sharnig system an operating syetsm for ibm coupmters
 
 RANK 	 R/N 	Precision 	  Recall
 

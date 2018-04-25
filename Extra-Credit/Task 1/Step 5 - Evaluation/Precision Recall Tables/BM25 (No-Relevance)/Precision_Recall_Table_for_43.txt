@@ -1,4 +1,4 @@
-Query 43: anislyas and pctreepion of shape by humans and croetumps shape ditonspiecrs shape rgooicinten by ctepoumr two dosanienmil shapes mesaerus of cuilcrratiy shape matching
+Query 43: asalynis and percipteon of shape by humans and compuetrs shape descriptions shape recgonition by coupmter two damensionil shapes msaeures of circuliraty shape matching
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 60: hdarrwae and stfoarwe retnilag to dtasaabe mneneaamgt seytmss dsaatabe pgceakas back end cptroumes sicapel aavcsioitse harradwe with mrroctemcoipus ahaettcd to disk heads or things like rap rliaetaonl or network codasyl or hecrrcaaiihl models systems like system r ims adabas total etc
+Query 60: hadrware and saftwore reiatlng to dstabaae manageemnt systems dstabaae paakcges back end coupmters special associative hardware with microcomeutprs attahced to disk heads or things like rap relatnoial or network codasyl or haerirchical models systems like system r ims adabas total etc
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 59: dntoaiciry cocorunstitn and accesnisg mothdes for fast riatvreel of words or lxiceal items or miapllghcoroloy related iifmrnatoon hashing or innixdeg methods are usually applied to english spnilelg or natural lagganue probemls
+Query 59: dictianory cotsnruction and accesnisg mdthoes for fast rrteieval of words or lexacil items or mgrpholooically related inofrmation hashing or iniexdng methods are usually applied to english slepling or natural langugae probelms
 
 RANK 	 R/N 	Precision 	  Recall
 

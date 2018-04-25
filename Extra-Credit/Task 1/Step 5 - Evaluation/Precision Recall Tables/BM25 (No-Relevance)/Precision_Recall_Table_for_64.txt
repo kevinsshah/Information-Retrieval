@@ -1,4 +1,4 @@
-Query 64: lsit all atceirls on el1 and ecl el1 may be gvein as el 1 i don t rmeember how tehy did it
+Query 64: lsit all arteclis on el1 and ecl el1 may be gievn as el 1 i don t remebmer how tehy did it
 
 RANK 	 R/N 	Precision 	  Recall
 

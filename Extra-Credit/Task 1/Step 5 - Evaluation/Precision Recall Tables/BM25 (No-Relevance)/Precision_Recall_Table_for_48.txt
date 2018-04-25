@@ -1,4 +1,4 @@
-Query 48: the use of cuetmopr science preciipnls e g data suurttecrs naicmerul methods in graiteenng ozptiatmiion e g linear pnimamrogrg altmoihgrs this iedcluns issues of the khachian russian elisapildol ahltoirgm and cmltpioxey of such agthlmrois
+Query 48: the use of cemputor science principles e g data struceurts numerical methods in gnneratieg opitmization e g linear programmnig aoglrithms this inceudls issues of the khachian russian ellapsoidil ahgoritlm and complexity of such aliorgthms
 
 RANK 	 R/N 	Precision 	  Recall
 

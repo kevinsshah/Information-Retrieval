@@ -1,4 +1,4 @@
-Query 7: i am isteenterd in dibstiteurd aihrltgmos ceurnncort programs in which perseoscs cnmaucimtoe and syirhnoczne by using message passing areas of plutiacarr interest include fault tecolnrae and tehncueqis for udrdisnnnaetg the cnetrecrsos of these amrhltoigs
+Query 7: i am inseretted in dibtrisuted aglorithms concrruent programs in which procesess commanicute and synchronize by using message passing areas of plrticuaar interest include fault tolerance and techqinues for undnrstandieg the correntcess of these algorhtims
 
 RANK 	 R/N 	Precision 	  Recall
 

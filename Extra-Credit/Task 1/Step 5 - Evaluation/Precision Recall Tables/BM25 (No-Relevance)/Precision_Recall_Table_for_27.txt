@@ -1,4 +1,4 @@
-Query 27: memory meaeganmnt aspects of oeptraing systems
+Query 27: memory management aspects of oeprating systems
 
 RANK 	 R/N 	Precision 	  Recall
 

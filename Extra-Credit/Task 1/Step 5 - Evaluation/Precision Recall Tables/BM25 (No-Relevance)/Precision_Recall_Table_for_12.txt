@@ -1,4 +1,4 @@
-Query 12: portable ornptaieg systems
+Query 12: portable operating systems
 
 RANK 	 R/N 	Precision 	  Recall
 

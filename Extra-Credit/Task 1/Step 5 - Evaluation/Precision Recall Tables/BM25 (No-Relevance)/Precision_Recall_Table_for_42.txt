@@ -1,4 +1,4 @@
-Query 42: computer pnmorcrfaee eliuaaotvn tecqnhueis using pattern rceioontgin and clustering la 70803
+Query 42: computer perfnrmaoce evaloatiun techniques using pattern recogoitinn and clustering la 70803
 
 RANK 	 R/N 	Precision 	  Recall
 

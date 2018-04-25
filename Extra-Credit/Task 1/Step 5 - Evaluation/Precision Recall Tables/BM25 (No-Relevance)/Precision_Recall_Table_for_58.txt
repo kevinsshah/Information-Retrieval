@@ -1,4 +1,4 @@
-Query 58: ahigmlrtos or ssataicttil pcaakges for anova rosregeisn using least serqaus or gleirzeenad linear models system design cabepliitias saitttaicsl formula are of iestnret student s t test wicolxon and sign tests maaiutilvtre and untivairae cmnpneoots can be ielcundd
+Query 58: almorithgs or statiscital packages for anova reiressgon using least seuarqs or geeeraliznd linear models system design capabiliteis saatistictl formula are of inserett student s t test wilcooxn and sign tests muitivarlate and uiivarnate components can be inulcded
 
 RANK 	 R/N 	Precision 	  Recall
 

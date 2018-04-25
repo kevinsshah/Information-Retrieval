@@ -1,4 +1,4 @@
-Query 17: oitaiitzpomn of irmeidtnteae and machine code
+Query 17: optimization of interdemiate and machine code
 
 RANK 	 R/N 	Precision 	  Recall
 

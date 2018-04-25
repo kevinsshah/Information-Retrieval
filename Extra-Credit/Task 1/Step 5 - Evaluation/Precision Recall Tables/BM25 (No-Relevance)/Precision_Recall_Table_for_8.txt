@@ -1,4 +1,4 @@
-Query 8: aisedndsrg schemes for rseuorces in networks resource asndrisedg in network oiprateng systems
+Query 8: adderssing schemes for recourses in networks resource addreissng in network operntiag systems
 
 RANK 	 R/N 	Precision 	  Recall
 

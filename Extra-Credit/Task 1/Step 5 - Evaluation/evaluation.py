@@ -173,10 +173,7 @@ def set_paths():
     global inputpath
 
     inp = input("Decide the model on which you want to perform evaluation:\n"
-                + "Enter 1 for Baseline BM25\n" +
-                "Enter 2 for Baseline Lucene\n" +
-                "Enter 3 for Baseline Smoothed Query Likelihood\n" +
-                "Enter 4 for Baseline TF-IDF\n")
+                + "Enter 1 for Baseline BM25\n")
 
     newpath = r'Precision Recall Tables/'
     if int(inp) == 1:
@@ -184,21 +181,6 @@ def set_paths():
         if not os.path.exists(newpath):
             os.makedirs(newpath)
         inputpath = r"/Step 4 - Retrieval Models/BM25/BM25Scores_NoRelevance.txt"
-    elif int(inp) == 2:
-        newpath = newpath + '/Baseline Lucene/'
-        if not os.path.exists(newpath):
-            os.makedirs(newpath)
-        inputpath = r"/Step 4 - Retrieval Models/Lucene/Lucene_Scores.txt"
-    elif int(inp) == 3:
-        newpath = newpath + '/Baseline Smoothed Query Likelihood/'
-        if not os.path.exists(newpath):
-            os.makedirs(newpath)
-        inputpath = r"/Step 4 - Retrieval Models/Query Likelihood/QueryLiklihoodScores.txt"
-    elif int(inp) == 4:
-        newpath = newpath + '/Baseline TF-IDF/'
-        if not os.path.exists(newpath):
-            os.makedirs(newpath)
-        inputpath = r"/Step 4 - Retrieval Models/TF_IDF/TF_IDF_SCORE.txt"
     else:
          print("Incorrect Choice. Try again!")
          exit()

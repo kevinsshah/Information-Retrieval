@@ -1,4 +1,4 @@
-Query 37: aicelrts debrnisicg the rohtaesilnip btweeen data teyps and cnrucrnecoy e g what is the type of a prcseos when is a scaoortihyninzn aettmpt beweten two psesecors type ccorret in a mssgeae pasinsg ssteym is three any nootin of the tpyes of msgsaees i e any way to check that the sedenr of the msaegse and the rveiecer are both ttrinaeg the bit srteam as some pruatlciar type
+Query 37: atricles desnribicg the rolatienship bwteeen data tepys and concrurency e g what is the type of a process when is a syncnrohization attempt beteewn two procesess type cocrert in a message pssaing system is tehre any notion of the tpyes of msesages i e any way to check that the sdneer of the massege and the reciever are both treanitg the bit straem as some particular type
 
 RANK 	 R/N 	Precision 	  Recall
 

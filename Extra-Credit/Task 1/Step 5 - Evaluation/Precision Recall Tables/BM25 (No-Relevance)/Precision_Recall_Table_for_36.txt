@@ -1,4 +1,4 @@
-Query 36: fast aoirhtlgm for context free lgaguane rgontceioin or parsing
+Query 36: fast algtriohm for context free lgnguaae recogiitnon or parsing
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 26: cecnucrnroy control mimshnecas in operating systems
+Query 26: conucrrency control menhacisms in operating systems
 
 RANK 	 R/N 	Precision 	  Recall
 

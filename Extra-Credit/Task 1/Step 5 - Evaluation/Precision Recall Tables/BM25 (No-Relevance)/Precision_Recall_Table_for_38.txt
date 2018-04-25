@@ -1,4 +1,4 @@
-Query 38: waht is the tpye of a mlduoe i don t wnat the eirtne lrruatitee on asctbart dtaa teyps hree but i m not sure how to parshe this to avoid it i m ierntetsed in qtsienuos aubot how one can cechk that a mludoe matechs cenxotts in wcihh it is used
+Query 38: waht is the tpye of a module i don t wnat the entire litetarure on abstract dtaa types hree but i m not sure how to phrase this to avoid it i m ieternsted in quentioss abuot how one can cehck that a moudle mathces cnotexts in wihch it is used
 
 RANK 	 R/N 	Precision 	  Recall
 

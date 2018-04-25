@@ -1,4 +1,4 @@
-Query 4: i m itenseretd in msniecmhas for cnimatuocnimg btweeen dsnjiiot pesroescs psilbosy but not eexscuvilly in a drusbtieitd evnoimnnert i would rather see dinorseictps of cotmpele mnesmchias with or wthiout imiennelaotmtps as opposed to tchoaeiertl work on the aacrtbst problem remote pdruocree calls and message passing are eaxplems of my istneters
+Query 4: i m inttreseed in meahcnisms for coimunicatmng between djsioint prosecses pbssioly but not evclusixely in a distributed enrivonment i would rather see desctiprions of cotpleme mnchaeisms with or wihtout implementatnois as opposed to theoretical work on the acstrabt problem remote prodecure calls and message passing are expmales of my interests
 
 RANK 	 R/N 	Precision 	  Recall
 

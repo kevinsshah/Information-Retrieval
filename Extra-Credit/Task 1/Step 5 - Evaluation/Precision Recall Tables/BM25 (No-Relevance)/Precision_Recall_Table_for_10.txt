@@ -1,4 +1,4 @@
-Query 10: parallel lngaueags languages for parallel coimuatotpn
+Query 10: parallel langauges languages for parallel compatution
 
 RANK 	 R/N 	Precision 	  Recall
 

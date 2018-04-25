@@ -1,4 +1,4 @@
-Query 13: code otiztopiaimn for space eefficciny
+Query 13: code optimiiatzon for space effccieniy
 
 RANK 	 R/N 	Precision 	  Recall
 

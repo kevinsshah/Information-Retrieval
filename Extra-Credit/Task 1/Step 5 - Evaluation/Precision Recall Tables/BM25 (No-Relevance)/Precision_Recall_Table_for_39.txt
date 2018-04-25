@@ -1,4 +1,4 @@
-Query 39: what does type cbilotaptiimy mean in lugegaans that alolw pmmgroerar deeifnd types you might want to rtceisrt this to esbltinxee leaagnugs that allow doitnfiein of abtrcsat data types or pomagmrrer speilupd dnitinoiefs of oreaptors like
+Query 39: what does type compatibility mean in langauges that aollw progrmmaer dnfieed types you might want to restcirt this to exnetsible lanaugges that allow definition of abatrsct data types or progarmmer suiplped definioitns of operotars like
 
 RANK 	 R/N 	Precision 	  Recall
 

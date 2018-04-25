@@ -1,4 +1,4 @@
-Query 63: ahlotimrgs for parallel cptmuoitaon and ealilsecpy crosapimnos between parallel and sequential algorithms
+Query 63: algotirhms for parallel cooputatimn and espacielly comparisons between parallel and sequential algorithms
 
 RANK 	 R/N 	Precision 	  Recall
 

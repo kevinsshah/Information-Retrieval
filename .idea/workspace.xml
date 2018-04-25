@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b1ce28f-caa0-4236-a4f1-4d4fe124c52c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Indexes/_0.cfe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Indexes/_0.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Indexes/_0.si" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Indexes/segments.gen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Indexes/segments_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Lucene.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/Lucene_Scores.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/out/production/Lucene/Lucene/Lucene.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Lucene/src/Lucene.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Query Likelihood/QueryLiklihoodScores.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/Query Likelihood/smoothed_query_liklihood.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/TF_IDF/TF_IDF_SCORE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 4 - Retrieval Models/TF_IDF/tf-idf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Final Evaluation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/P@KValuesForAllQueries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Lucene/Precision_Recall_Table_for_9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Final Evaluation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/P@KValuesForAllQueries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline Smoothed Query Likelihood/Precision_Recall_Table_for_9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Final Evaluation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/P@KValuesForAllQueries.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_33.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_37.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_43.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_57.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_58.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_60.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_61.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_62.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_63.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_64.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/P@KValuesForAllQueries.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/P@KValuesForAllQueries.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_1.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_10.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_11.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_11.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_12.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_12.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_13.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_13.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_14.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_14.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_15.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_15.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_16.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_16.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_17.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_17.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_18.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_18.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_2.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_20.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_20.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_21.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_21.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_22.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_22.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_23.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_23.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_24.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_24.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_25.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_25.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_26.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_26.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_27.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_27.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_28.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_28.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_29.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_29.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_3.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_30.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_30.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_31.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_31.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_32.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_32.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_33.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_33.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_36.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_36.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_37.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_37.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_38.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_38.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_39.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_39.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_4.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_40.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_40.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_42.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_42.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_43.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_43.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_44.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_44.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_45.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_45.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_48.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_48.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_49.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_49.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_5.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_57.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_57.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_58.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_58.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_59.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_59.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_6.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_60.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_60.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_61.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_61.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_62.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_62.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_63.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_63.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_64.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_64.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_7.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_8.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_9.txt" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Precision_Recall_Table_for_9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py" afterPath="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="smoothed_query_liklihood.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/smoothed_query_liklihood.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="145" column="64" lean-forward="false" selection-start-line="145" selection-start-column="64" selection-end-line="145" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modify_queries.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 1 - Query Cleaning/modify_queries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_snippets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase 2/generate_snippets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bm25_NoRelevance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25/bm25_NoRelevance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" column="34" lean-forward="false" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="182" column="98" lean-forward="false" selection-start-line="182" selection-start-column="98" selection-end-line="182" selection-end-column="98" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="179" column="50" lean-forward="false" selection-start-line="179" selection-start-column="50" selection-end-line="179" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Final Evaluation.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Final Evaluation.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Final Evaluation.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Final Evaluation.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>query_doc_map</find>
+      <find>RELEVANT</find>
+      <find>get_queries</find>
+      <find>sorted</find>
+      <find>prin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>query_top5_doc</replace>
+      <replace>query_top5_doc_map</replace>
+      <replace>queryId_top100Docs</replace>
+      <replace>queryId_query</replace>
+      <replace>queryId_relevantDocs</replace>
+      <replace>build_queryId_query</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Corpus/helloworld.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/script.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/corpus_generation.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/indexer.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 2-Index Generation/indexer.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retreival Models/BM-25/bm25.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/Lucene/lucene.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 1-Corpus Generation/corpus_generation.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/smoothed_query_liklihood.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_NoRelevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/BM25/cacm.rel.txt" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/pseudoRelevance.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 2/Step 2 - Retrieval PRF/bm25_NoRelevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_Relevance.py" />
+        <option value="$PROJECT_DIR$/Extra Credit/error_generator.py" />
+        <option value="$PROJECT_DIR$/Phase 2/generate_snippets.py" />
+        <option value="$PROJECT_DIR$/Phase 2/test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Phase 3/evaluation.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/soft_match.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/2To3Python.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/spellchecker.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/SpellChecker/spellchecker.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/modify_queries.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25/bm25_NoRelevance.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/evaluation.py" />
+        <option value="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 1 - Query Cleaning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 2 - Retrieval Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 2 - Retrieval Models" type="462c0819:PsiDirectoryNode" />
+              <item name="BM25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Extra-Credit" type="462c0819:PsiDirectoryNode" />
+              <item name="Task 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Step 3 - Evaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Information-Retrieval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-Retrieval" type="462c0819:PsiDirectoryNode" />
+              <item name="Phase 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IR\project\Information-Retrieval" />
+      <recent name="E:\IR\project\Information-Retrieval\Phase 2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.evaluation (1)">
+    <configuration name="bm25_NoRelevance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25/bm25_NoRelevance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="evaluation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="modify_queries (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 1 - Query Cleaning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra-Credit/Task 2/Step 1 - Query Cleaning/modify_queries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="modify_queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra-Credit/Task 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Information-Retrieval" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra-Credit/Task 2/modify_queries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.modify_queries" />
+      <item index="1" class="java.lang.String" itemvalue="Python.modify_queries (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bm25_NoRelevance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.evaluation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.evaluation (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.evaluation (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.evaluation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bm25_NoRelevance" />
+        <item index="3" class="java.lang.String" itemvalue="Python.modify_queries (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.modify_queries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b1ce28f-caa0-4236-a4f1-4d4fe124c52c" name="Default" comment="" />
+      <created>1524341120757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524341120757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5668135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33279744" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_59.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped BM25/Precision_Recall_Table_for_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_23.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_20.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_16.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped Smoothed Query Likelihood/Precision_Recall_Table_for_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_5.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped TF-IDF/Precision_Recall_Table_for_3.txt" />
+    <entry file="file://$PROJECT_DIR$/Extra Credit/error_generator.py" />
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_40.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1453">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-498">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1467">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/P@KValuesForAllQueries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6477">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_36.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Precision_Recall_Table_for_34.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (Relevance)/Precision_Recall_Table_for_34.txt" />
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/BM25/bm25_Relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1953">
+          <caret line="71" column="94" lean-forward="false" selection-start-line="71" selection-start-column="94" selection-end-line="71" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 1-Corpus Generation/corpus_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cacm_stem.query.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline Lucene/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline TF-IDF/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Baseline Smoothed Query Likelihood/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 (No-Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/BM25 Pseudo-relevance Feedback/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped BM25/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped Lucene/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/Precision Recall Tables/Stopped Smoothed Query Likelihood/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 3/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="187" column="32" lean-forward="false" selection-start-line="187" selection-start-column="32" selection-end-line="187" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 1/Step 2-Index Generation/indexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/soft_match.py" />
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/spell.py" />
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/2To3Python.py" />
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/spellchecker.py" />
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 2-Index Generation/Unigram_index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="16100" column="21" lean-forward="false" selection-start-line="16100" selection-start-column="21" selection-end-line="16100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Replacements.txt" />
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/modify_queries.py" />
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/SpellChecker/spellchecker.py" />
+    <entry file="file://$PROJECT_DIR$/Phase 1/Task 1/Step 4 - Retrieval Models/Query Likelihood/smoothed_query_liklihood.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="145" column="64" lean-forward="false" selection-start-line="145" selection-start-column="64" selection-end-line="145" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 1 - Query Cleaning/modify_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase 2/generate_snippets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25/bm25_NoRelevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="34" lean-forward="false" selection-start-line="106" selection-start-column="34" selection-end-line="106" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="182" column="98" lean-forward="false" selection-start-line="182" selection-start-column="98" selection-end-line="182" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="179" column="50" lean-forward="false" selection-start-line="179" selection-start-column="50" selection-end-line="179" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 1/Step 5 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra-Credit/Task 2/Step 3 - Evaluation/Precision Recall Tables/BM25 (No-Relevance)/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

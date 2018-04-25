@@ -1,4 +1,4 @@
-Query 40: list all alcirets dnlieag with data types in the fiwnloolg lanueggas that are recrfneeed flueqtreny in prpeas on the aobve lggaaneus e g catch any lnggeaaus with itnteisenrg type sceururtts that i might have mssied
+Query 40: list all articles deanilg with data tepys in the fwllooing laagunges that are referenced flequentry in papers on the aobve languages e g catch any lenguagas with ineertsting type struutcres that i might have missed
 
 RANK 	 R/N 	Precision 	  Recall
 

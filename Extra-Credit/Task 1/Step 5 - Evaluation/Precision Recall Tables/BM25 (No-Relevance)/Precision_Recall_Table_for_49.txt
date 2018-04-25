@@ -1,4 +1,4 @@
-Query 49: the role of itfnoarmoin reievtarl in kgenlowde based ssemtys i e expert stemyss
+Query 49: the role of inforamtion retreival in knowgedle based systems i e expert sestyms
 
 RANK 	 R/N 	Precision 	  Recall
 

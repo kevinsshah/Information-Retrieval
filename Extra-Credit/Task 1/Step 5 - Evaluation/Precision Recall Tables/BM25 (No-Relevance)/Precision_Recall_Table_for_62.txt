@@ -1,4 +1,4 @@
-Query 62: results rntelaig parllael cxpeiotlmy theory both for pram s and uniform ctcuriis
+Query 62: results rnlatieg parellal compxelity theory both for pram s and uniform cicruits
 
 RANK 	 R/N 	Precision 	  Recall
 

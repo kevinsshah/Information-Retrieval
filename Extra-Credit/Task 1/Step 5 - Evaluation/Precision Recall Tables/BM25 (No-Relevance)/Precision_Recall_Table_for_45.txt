@@ -1,4 +1,4 @@
-Query 45: the use of opietrnoas rreacseh models to optimize imoftnaorin system pnecoarfmre this includes fine tuning dseiocnis such as sdceranoy index sitcoleen file rarieizoogtnan and diiesubttrd daaabests
+Query 45: the use of operations reaesrch models to optimize ifnormation system parformence this includes fine tuning decnsiois such as secodnary index seiectlon file reorgazination and dtsiributed databases
 
 RANK 	 R/N 	Precision 	  Recall
 

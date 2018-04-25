@@ -1,4 +1,4 @@
-Query 11: setl very high leevl lgaeguans
+Query 11: setl very high lveel lgnauages
 
 RANK 	 R/N 	Precision 	  Recall
 

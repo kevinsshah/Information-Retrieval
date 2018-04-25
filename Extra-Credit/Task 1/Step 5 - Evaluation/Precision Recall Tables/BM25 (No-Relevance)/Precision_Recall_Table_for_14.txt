@@ -1,4 +1,4 @@
-Query 14: find all dsicussions of optimal innelitotamepms of sort altmhrigos for database magmnneeat aoaclntppiis
+Query 14: find all discussions of optimal impleaentmtions of sort ahgoritlms for database mananemegt alppications
 
 RANK 	 R/N 	Precision 	  Recall
 

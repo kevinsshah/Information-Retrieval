@@ -1,4 +1,4 @@
-Query 30: alcirets on text ftiranmotg smystes inlndiucg what you see is what you get stmyess eealmpxs t nroff sbrice bravo
+Query 30: aeticlrs on text formaittng sytsems inclunidg what you see is what you get syetsms examelps t nroff scrbie bravo
 
 RANK 	 R/N 	Precision 	  Recall
 

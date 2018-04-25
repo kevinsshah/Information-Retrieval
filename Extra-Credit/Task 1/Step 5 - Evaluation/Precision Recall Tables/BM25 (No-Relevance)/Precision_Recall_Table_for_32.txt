@@ -1,4 +1,4 @@
-Query 32: i d like to find atelrics dbisceinrg grpah agihrmotls that are based on the eagnviluee doietpcsoiomn or sgnluiar value diocmetosoipn of the acacenjy matrix for the graph i m eaillcpsey ineerttesd in any hsiireutc atlrhgioms for graph cnooilrg and graph ihiospmsrom using this mhetod
+Query 32: i d like to find aeticlrs discribeng graph algohitrms that are based on the eigenvulae decompostiion or siagulnr value decomptsioion of the ajnceacy mrtaix for the graph i m elpecialsy ietnrested in any heuritsic algortihms for graph coloring and graph ioomsrphism using this method
 
 RANK 	 R/N 	Precision 	  Recall
 

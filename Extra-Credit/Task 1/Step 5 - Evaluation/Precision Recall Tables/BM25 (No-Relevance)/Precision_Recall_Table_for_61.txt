@@ -1,4 +1,4 @@
-Query 61: irmoniafton rteverial atlrecis by gerard salton or others about csiuletrng brilihaigobpc conlpuig use of ctaotiins or co cnttaoiis the vector space model beooaln search mtodehs using itvnered files fbedaeck etc salton g
+Query 61: infromation rterieval articels by gerard salton or others about clustreing bilbiographic cnupliog use of cntatiois or co citntioas the vector space model boolean search methods using inveretd files feedback etc salton g
 
 RANK 	 R/N 	Precision 	  Recall
 

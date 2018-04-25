@@ -1,4 +1,4 @@
-Query 29: number thtoeeirc aiorglhtms eeicsalply ivlinnvog prime number series sieves and chinese rmeedniar theorem
+Query 29: number theroetic algmrithos esplciaely invloving prime number series sieves and chinese remadnier theorem
 
 RANK 	 R/N 	Precision 	  Recall
 

@@ -1,4 +1,4 @@
-Query 25: penrfmcaroe etuvaliaon and modelling of computer systems
+Query 25: penformarce evaluaiton and modelling of computer systems
 
 RANK 	 R/N 	Precision 	  Recall
 

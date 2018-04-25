@@ -1,4 +1,4 @@
-Query 28: any ifnroioamtn on packet radio ntkorwes of pruciaaltr iesntert are algirhomts for packet rtuonig and for daileng with caehngs in nrtowek trpopgaohy i am not instreeted in the hdawarre used in the nrwteok
+Query 28: any information on packet radio nekworts of partucilar interest are algirothms for packet rotuing and for dialeng with chaegns in netrowk topography i am not inteeestrd in the hardware used in the nwteork
 
 RANK 	 R/N 	Precision 	  Recall
 

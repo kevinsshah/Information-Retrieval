@@ -1,4 +1,4 @@
-Query 44: texture ainlsays by computer dtizigeid texture analysis texture synhtseis prcepteion of texture
+Query 44: texture aanlysis by computer digitized texture analysis texture syntehsis petceprion of texture
 
 RANK 	 R/N 	Precision 	  Recall
 
