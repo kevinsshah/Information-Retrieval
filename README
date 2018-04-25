@@ -126,7 +126,6 @@ PHASE 1 (Indexing and retrieval):
 
 		Folder structure:
 
-			\---Task 3
 |       +---Task 3-A
 |       |   +---Step 1-Corpus Generation
 |       |   |   \---Stop_Corpus
@@ -172,7 +171,7 @@ PHASE 1 (Indexing and retrieval):
 
 		Folder structure:
 
-			|       \---Task 3-B
+			\---Task 3-B
 |           +---Step 1-Corpus Generation
 |           |   \---Stemmed_Corpus
 |           +---Step 2-Index Generation
