@@ -323,6 +323,8 @@ TASK 1 (Spelling error generator):
 		"Decide the model on which you want to perform evaluation:
 		Enter 1 for Baseline BM25"
 
+
+
 TASK 2:
 \---Task 2
     +---Step 1 - Query Cleaning
@@ -338,14 +340,14 @@ TASK 2:
 	- Generates a query file with replacing spelling errors with correct words in the query as per the specification of the question.
 
 
-	Step 4: Retrieval Models
+	Step 2: Retrieval Models
 	The 3 baseline runs used for this task are as shown below:
 
 		•	BM25:
 		Files: Extra-Credit/Task 2/Step 2 - Retrieval Models/BM25/bm25_NoRelevance.py
 		- Uses BM25 model without relevance same as Task 1 but using the corpus and queries generated in step 1 and step 2 above.
 
-	Step 5: Evaluation
+	Step 3: Evaluation
 	Files:
 	File: Extra-Credit/Task 2/Step 3 - Evaluation/evaluation.py
 	- Performs the following operations:
