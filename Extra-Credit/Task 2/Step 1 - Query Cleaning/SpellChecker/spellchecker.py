@@ -182,7 +182,7 @@ if __name__ == '__main__':
 
     # add other texts here, they are used to train the word frequency model
     texts = [
-        'sherlockholmes.txt',
+        'traning_data.txt',
         'lemmas.txt',
     ]
     # enhance the model with real bodies of english so we know which words are more common than others

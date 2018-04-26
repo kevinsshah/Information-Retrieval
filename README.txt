@@ -335,7 +335,10 @@ TASK 2:
         \---Precision Recall Tables
             \---BM25 (No-Relevance)
 
+
+    Note: Use python 2.7 to run spellchecker.py in Step 1: Query Cleaning 
 	Step 1: Query Cleaning
+	File: Extra-Credit/Task 2/Step 1 - Query Cleaning/SpellChecker/spellchecker.py
 	File: Extra-Credit/Task 2/Step 1 - Query Cleaning/modify_queries.py
 	- Generates a query file with replacing spelling errors with correct words in the query as per the specification of the question.
 
